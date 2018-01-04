@@ -5,6 +5,1302 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -12.08333333,8.1 ]
+    },
+    "properties": {
+    "Registration_number":2013.356,
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Anura",
+    "Family":"Pipidae",
+    "Genus":"Xenopus ",
+    "Species":"tropicalis",
+    "Country":"Sierra Leone",
+    "Locality":"Southern: Moyamba District: Kasewe Hills Forest Reserve",
+    "Extent":0,
+    "Notes":"N/A",
+    "Collector_donor":"Richard C. Tinsley",
+    "Comments":"altitude 50; Collected on 22-March-1979; Notes: Shallow stream at Mokunde, farmbush, very dry before start of rains. 5 small juveniles, 1 subadult, adults in the same population sample measured up to 50 mm SVL - examined for parasites.",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -12.08333333,8.1 ]
+    },
+    "properties": {
+    "Registration_number":2013.357,
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Anura",
+    "Family":"Pipidae",
+    "Genus":"Xenopus ",
+    "Species":"tropicalis",
+    "Country":"Sierra Leone",
+    "Locality":"Southern: Moyamba District: Kasewe Hills Forest Reserve",
+    "Extent":0,
+    "Notes":"N/A",
+    "Collector_donor":"Richard C. Tinsley",
+    "Comments":"altitude 50; Collected on 22-March-1979; Notes: Shallow stream at Mokunde, farmbush, very dry before start of rains. 5 small juveniles, 1 subadult, adults in the same population sample measured up to 50 mm SVL - examined for parasites.",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -12.08333333,8.1 ]
+    },
+    "properties": {
+    "Registration_number":2013.358,
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Anura",
+    "Family":"Pipidae",
+    "Genus":"Xenopus ",
+    "Species":"tropicalis",
+    "Country":"Sierra Leone",
+    "Locality":"Southern: Moyamba District: Kasewe Hills Forest Reserve",
+    "Extent":0,
+    "Notes":"N/A",
+    "Collector_donor":"Richard C. Tinsley",
+    "Comments":"altitude 50; Collected on 22-March-1979; Notes: Shallow stream at Mokunde, farmbush, very dry before start of rains. 5 small juveniles, 1 subadult, adults in the same population sample measured up to 50 mm SVL - examined for parasites.",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -12.08333333,8.1 ]
+    },
+    "properties": {
+    "Registration_number":2013.359,
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Anura",
+    "Family":"Pipidae",
+    "Genus":"Xenopus ",
+    "Species":"tropicalis",
+    "Country":"Sierra Leone",
+    "Locality":"Southern: Moyamba District: Kasewe Hills Forest Reserve",
+    "Extent":0,
+    "Notes":"N/A",
+    "Collector_donor":"Richard C. Tinsley",
+    "Comments":"altitude 50; Collected on 22-March-1979; Notes: Shallow stream at Mokunde, farmbush, very dry before start of rains. 5 small juveniles, 1 subadult, adults in the same population sample measured up to 50 mm SVL - examined for parasites.",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -12.08333333,8.1 ]
+    },
+    "properties": {
+    "Registration_number":2013.36,
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Anura",
+    "Family":"Pipidae",
+    "Genus":"Xenopus ",
+    "Species":"tropicalis",
+    "Country":"Sierra Leone",
+    "Locality":"Southern: Moyamba District: Kasewe Hills Forest Reserve",
+    "Extent":0,
+    "Notes":"N/A",
+    "Collector_donor":"Richard C. Tinsley",
+    "Comments":"altitude 50; Collected on 22-March-1979; Notes: Shallow stream at Mokunde, farmbush, very dry before start of rains. 5 small juveniles, 1 subadult, adults in the same population sample measured up to 50 mm SVL - examined for parasites.",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -12.08333333,8.1 ]
+    },
+    "properties": {
+    "Registration_number":2013.361,
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Anura",
+    "Family":"Pipidae",
+    "Genus":"Xenopus ",
+    "Species":"tropicalis",
+    "Country":"Sierra Leone",
+    "Locality":"Southern: Moyamba District: Kasewe Hills Forest Reserve",
+    "Extent":0,
+    "Notes":"N/A",
+    "Collector_donor":"Richard C. Tinsley",
+    "Comments":"altitude 50; Collected on 22-March-1979; Notes: Shallow stream at Mokunde, farmbush, very dry before start of rains. 5 small juveniles, 1 subadult, adults in the same population sample measured up to 50 mm SVL - examined for parasites.",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -12.22,8.320833333 ]
+    },
+    "properties": {
+    "Registration_number":2013.362,
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Anura",
+    "Family":"Pipidae",
+    "Genus":"Pseudhymenochirus",
+    "Species":"merlini",
+    "Country":"Sierra Leone",
+    "Locality":"Southern: Moyamba District: Njala University College",
+    "Extent":0,
+    "Notes":"N/A",
+    "Collector_donor":"Richard C. Tinsley",
+    "Comments":"altitude 65; Collected on 3-April-1979; Notes: Maintained in captivity (in London) until preserved 13 November 1979. End of dry season, previous night with heavy rain. Collection during afternoon near Moyambawo village. Caught by villagers (for food) using shallow baskets sieved through the waterin a stream leading from forest edge into cultivated swamp with raised banks planted with crops: pool 5 x 2 x 0.5 m deep. Open area without tree canopy cover but adjacent to forest. ",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -12.22,8.320833333 ]
+    },
+    "properties": {
+    "Registration_number":2013.363,
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Anura",
+    "Family":"Pipidae",
+    "Genus":"Pseudhymenochirus",
+    "Species":"merlini",
+    "Country":"Sierra Leone",
+    "Locality":"Southern: Moyamba District: Njala University College",
+    "Extent":0,
+    "Notes":"N/A",
+    "Collector_donor":"Richard C. Tinsley",
+    "Comments":"altitude 65; Collected on 3-April-1979; Notes: Maintained in captivity (in London) until preserved 13 November 1979. End of dry season, previous night with heavy rain. Collection during afternoon near Moyambawo village. Caught by villagers (for food) using shallow baskets sieved through the waterin a stream leading from forest edge into cultivated swamp with raised banks planted with crops: pool 5 x 2 x 0.5 m deep. Open area without tree canopy cover but adjacent to forest. ",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -12.22,8.320833333 ]
+    },
+    "properties": {
+    "Registration_number":2013.364,
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Anura",
+    "Family":"Pipidae",
+    "Genus":"Pseudhymenochirus",
+    "Species":"merlini",
+    "Country":"Sierra Leone",
+    "Locality":"Southern: Moyamba District: Njala University College",
+    "Extent":0,
+    "Notes":"N/A",
+    "Collector_donor":"Richard C. Tinsley",
+    "Comments":"altitude 65; Collected on 3-April-1979; Notes: Maintained in captivity (in London) until preserved 13 November 1979. End of dry season, previous night with heavy rain. Collection during afternoon near Moyambawo village. Caught by villagers (for food) using shallow baskets sieved through the waterin a stream leading from forest edge into cultivated swamp with raised banks planted with crops: pool 5 x 2 x 0.5 m deep. Open area without tree canopy cover but adjacent to forest. ",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -12.22,8.320833333 ]
+    },
+    "properties": {
+    "Registration_number":2013.365,
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Anura",
+    "Family":"Pipidae",
+    "Genus":"Pseudhymenochirus",
+    "Species":"merlini",
+    "Country":"Sierra Leone",
+    "Locality":"Southern: Moyamba District: Njala University College",
+    "Extent":0,
+    "Notes":"N/A",
+    "Collector_donor":"Richard C. Tinsley",
+    "Comments":"altitude 65; Collected on 3-April-1979; Notes: Maintained in captivity (in London) until preserved 13 November 1979. End of dry season, previous night with heavy rain. Collection during afternoon near Moyambawo village. Caught by villagers (for food) using shallow baskets sieved through the waterin a stream leading from forest edge into cultivated swamp with raised banks planted with crops: pool 5 x 2 x 0.5 m deep. Open area without tree canopy cover but adjacent to forest. ",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -12.22,8.320833333 ]
+    },
+    "properties": {
+    "Registration_number":2013.366,
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Anura",
+    "Family":"Pipidae",
+    "Genus":"Pseudhymenochirus",
+    "Species":"merlini",
+    "Country":"Sierra Leone",
+    "Locality":"Southern: Moyamba District: Njala University College",
+    "Extent":0,
+    "Notes":"N/A",
+    "Collector_donor":"Richard C. Tinsley",
+    "Comments":"altitude 65; Collected on 3-April-1979; Notes: End of dry season, previous night with heavy rain. Collection during afternoon near Moyambawo village. Caught by villagers (for food) using shallow baskets sieved through the waterin a stream leading from forest edge into cultivated swamp with raised banks planted with crops: pool 5 x 2 x 0.5 m deep. Open area without tree canopy cover but adjacent to forest. ",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -12.22,8.320833333 ]
+    },
+    "properties": {
+    "Registration_number":2013.367,
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Anura",
+    "Family":"Pipidae",
+    "Genus":"Pseudhymenochirus",
+    "Species":"merlini",
+    "Country":"Sierra Leone",
+    "Locality":"Southern: Moyamba District: Njala University College",
+    "Extent":0,
+    "Notes":"N/A",
+    "Collector_donor":"Richard C. Tinsley",
+    "Comments":"altitude 65; Collected on 3-April-1979; Notes: End of dry season, previous night with heavy rain. Collection during afternoon near Moyambawo village. Caught by villagers (for food) using shallow baskets sieved through the waterin a stream leading from forest edge into cultivated swamp with raised banks planted with crops: pool 5 x 2 x 0.5 m deep. Open area without tree canopy cover but adjacent to forest. ",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -12.22,8.320833333 ]
+    },
+    "properties": {
+    "Registration_number":2013.368,
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Anura",
+    "Family":"Pipidae",
+    "Genus":"Pseudhymenochirus",
+    "Species":"merlini",
+    "Country":"Sierra Leone",
+    "Locality":"Southern: Moyamba District: Njala University College",
+    "Extent":0,
+    "Notes":"N/A",
+    "Collector_donor":"Richard C. Tinsley",
+    "Comments":"altitude 65; Collected on 3-April-1979; Notes: End of dry season, previous night with heavy rain. Collection during afternoon near Moyambawo village. Caught by villagers (for food) using shallow baskets sieved through the waterin a stream leading from forest edge into cultivated swamp with raised banks planted with crops: pool 5 x 2 x 0.5 m deep. Open area without tree canopy cover but adjacent to forest. ",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -12.22,8.320833333 ]
+    },
+    "properties": {
+    "Registration_number":2013.369,
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Anura",
+    "Family":"Pipidae",
+    "Genus":"Pseudhymenochirus",
+    "Species":"merlini",
+    "Country":"Sierra Leone",
+    "Locality":"Southern: Moyamba District: Njala University College",
+    "Extent":0,
+    "Notes":"N/A",
+    "Collector_donor":"Richard C. Tinsley",
+    "Comments":"altitude 65; Collected on 3-April-1979; Notes: End of dry season, previous night with heavy rain. Collection during afternoon near Moyambawo village. Caught by villagers (for food) using shallow baskets sieved through the waterin a stream leading from forest edge into cultivated swamp with raised banks planted with crops: pool 5 x 2 x 0.5 m deep. Open area without tree canopy cover but adjacent to forest. ",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -12.22,8.320833333 ]
+    },
+    "properties": {
+    "Registration_number":2013.37,
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Anura",
+    "Family":"Pipidae",
+    "Genus":"Pseudhymenochirus",
+    "Species":"merlini",
+    "Country":"Sierra Leone",
+    "Locality":"Southern: Moyamba District: Njala University College",
+    "Extent":0,
+    "Notes":"N/A",
+    "Collector_donor":"Richard C. Tinsley",
+    "Comments":"altitude 65; Collected on 3-April-1979; Notes: End of dry season, previous night with heavy rain. Collection during afternoon near Moyambawo village. Caught by villagers (for food) using shallow baskets sieved through the waterin a stream leading from forest edge into cultivated swamp with raised banks planted with crops: pool 5 x 2 x 0.5 m deep. Open area without tree canopy cover but adjacent to forest. ",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -12.22,8.320833333 ]
+    },
+    "properties": {
+    "Registration_number":2013.371,
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Anura",
+    "Family":"Pipidae",
+    "Genus":"Pseudhymenochirus",
+    "Species":"merlini",
+    "Country":"Sierra Leone",
+    "Locality":"Southern: Moyamba District: Njala University College",
+    "Extent":0,
+    "Notes":"N/A",
+    "Collector_donor":"Richard C. Tinsley",
+    "Comments":"altitude 65; Collected on 3-April-1979; Notes: End of dry season, previous night with heavy rain. Collection during afternoon near Moyambawo village. Caught by villagers (for food) using shallow baskets sieved through the waterin a stream leading from forest edge into cultivated swamp with raised banks planted with crops: pool 5 x 2 x 0.5 m deep. Open area without tree canopy cover but adjacent to forest. ",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -12.22,8.320833333 ]
+    },
+    "properties": {
+    "Registration_number":2013.372,
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Anura",
+    "Family":"Pipidae",
+    "Genus":"Pseudhymenochirus",
+    "Species":"merlini",
+    "Country":"Sierra Leone",
+    "Locality":"Southern: Moyamba District: Njala University College",
+    "Extent":0,
+    "Notes":"N/A",
+    "Collector_donor":"Richard C. Tinsley",
+    "Comments":"altitude 65; Collected on 3-April-1979; Notes: End of dry season, previous night with heavy rain. Collection during afternoon near Moyambawo village. Caught by villagers (for food) using shallow baskets sieved through the waterin a stream leading from forest edge into cultivated swamp with raised banks planted with crops: pool 5 x 2 x 0.5 m deep. Open area without tree canopy cover but adjacent to forest. ",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -12.22,8.320833333 ]
+    },
+    "properties": {
+    "Registration_number":2013.373,
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Anura",
+    "Family":"Pipidae",
+    "Genus":"Pseudhymenochirus",
+    "Species":"merlini",
+    "Country":"Sierra Leone",
+    "Locality":"Southern: Moyamba District: Njala University College",
+    "Extent":0,
+    "Notes":"N/A",
+    "Collector_donor":"Richard C. Tinsley",
+    "Comments":"altitude 65; Collected on 3-April-1979; Notes: End of dry season, previous night with heavy rain. Collection during afternoon near Moyambawo village. Caught by villagers (for food) using shallow baskets sieved through the waterin a stream leading from forest edge into cultivated swamp with raised banks planted with crops: pool 5 x 2 x 0.5 m deep. Open area without tree canopy cover but adjacent to forest. ",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -12.22,8.320833333 ]
+    },
+    "properties": {
+    "Registration_number":2013.374,
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Anura",
+    "Family":"Pipidae",
+    "Genus":"Pseudhymenochirus",
+    "Species":"merlini",
+    "Country":"Sierra Leone",
+    "Locality":"Southern: Moyamba District: Njala University College",
+    "Extent":0,
+    "Notes":"N/A",
+    "Collector_donor":"Richard C. Tinsley",
+    "Comments":"altitude 65; Collected on 3-April-1979; Notes: End of dry season, previous night with heavy rain. Collection during afternoon near Moyambawo village. Caught by villagers (for food) using shallow baskets sieved through the waterin a stream leading from forest edge into cultivated swamp with raised banks planted with crops: pool 5 x 2 x 0.5 m deep. Open area without tree canopy cover but adjacent to forest. ",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -12.22,8.320833333 ]
+    },
+    "properties": {
+    "Registration_number":2013.375,
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Anura",
+    "Family":"Pipidae",
+    "Genus":"Pseudhymenochirus",
+    "Species":"merlini",
+    "Country":"Sierra Leone",
+    "Locality":"Southern: Moyamba District: Njala University College",
+    "Extent":0,
+    "Notes":"N/A",
+    "Collector_donor":"Richard C. Tinsley",
+    "Comments":"altitude 65; Collected on 3-April-1979; Notes: End of dry season, previous night with heavy rain. Collection during afternoon near Moyambawo village. Caught by villagers (for food) using shallow baskets sieved through the waterin a stream leading from forest edge into cultivated swamp with raised banks planted with crops: pool 5 x 2 x 0.5 m deep. Open area without tree canopy cover but adjacent to forest. ",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -12.22,8.320833333 ]
+    },
+    "properties": {
+    "Registration_number":2013.376,
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Anura",
+    "Family":"Pipidae",
+    "Genus":"Pseudhymenochirus",
+    "Species":"merlini",
+    "Country":"Sierra Leone",
+    "Locality":"Southern: Moyamba District: Njala University College",
+    "Extent":0,
+    "Notes":"N/A",
+    "Collector_donor":"Richard C. Tinsley",
+    "Comments":"altitude 65; Collected on 3-April-1979; Notes: Maintained in captivity (in London) until preserved 13 November 1979. End of dry season, previous night with heavy rain. Collection during afternoon near Moyambawo village. Caught by villagers (for food) using shallow baskets sieved through the waterin a stream leading from forest edge into cultivated swamp with raised banks planted with crops: pool 5 x 2 x 0.5 m deep. Open area without tree canopy cover but adjacent to forest. ",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -12.22,8.320833333 ]
+    },
+    "properties": {
+    "Registration_number":2013.377,
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Anura",
+    "Family":"Pipidae",
+    "Genus":"Pseudhymenochirus",
+    "Species":"merlini",
+    "Country":"Sierra Leone",
+    "Locality":"Southern: Moyamba District: Njala University College",
+    "Extent":0,
+    "Notes":"N/A",
+    "Collector_donor":"Richard C. Tinsley",
+    "Comments":"altitude 65; Collected on 3-April-1979; Notes: Maintained in captivity (in London) until preserved 13 November 1979. End of dry season, previous night with heavy rain. Collection during afternoon near Moyambawo village. Caught by villagers (for food) using shallow baskets sieved through the waterin a stream leading from forest edge into cultivated swamp with raised banks planted with crops: pool 5 x 2 x 0.5 m deep. Open area without tree canopy cover but adjacent to forest. ",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -12.22,8.320833333 ]
+    },
+    "properties": {
+    "Registration_number":2013.378,
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Anura",
+    "Family":"Pipidae",
+    "Genus":"Pseudhymenochirus",
+    "Species":"merlini",
+    "Country":"Sierra Leone",
+    "Locality":"Southern: Moyamba District: Njala University College",
+    "Extent":0,
+    "Notes":"N/A",
+    "Collector_donor":"Richard C. Tinsley",
+    "Comments":"altitude 65; Collected on 3-April-1979; Notes: Maintained in captivity (in London) until preserved 13 November 1979. End of dry season, previous night with heavy rain. Collection during afternoon near Moyambawo village. Caught by villagers (for food) using shallow baskets sieved through the waterin a stream leading from forest edge into cultivated swamp with raised banks planted with crops: pool 5 x 2 x 0.5 m deep. Open area without tree canopy cover but adjacent to forest. ",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -12.22,8.320833333 ]
+    },
+    "properties": {
+    "Registration_number":2013.379,
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Anura",
+    "Family":"Pipidae",
+    "Genus":"Pseudhymenochirus",
+    "Species":"merlini",
+    "Country":"Sierra Leone",
+    "Locality":"Southern: Moyamba District: Njala University College",
+    "Extent":0,
+    "Notes":"N/A",
+    "Collector_donor":"Richard C. Tinsley",
+    "Comments":"altitude 65; Collected on 3-April-1979; Notes: Maintained in captivity (in London) until preserved 13 November 1979. End of dry season, previous night with heavy rain. Collection during afternoon near Moyambawo village. Caught by villagers (for food) using shallow baskets sieved through the waterin a stream leading from forest edge into cultivated swamp with raised banks planted with crops: pool 5 x 2 x 0.5 m deep. Open area without tree canopy cover but adjacent to forest. ",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -12.22,8.320833333 ]
+    },
+    "properties": {
+    "Registration_number":2013.38,
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Anura",
+    "Family":"Pipidae",
+    "Genus":"Pseudhymenochirus",
+    "Species":"merlini",
+    "Country":"Sierra Leone",
+    "Locality":"Southern: Moyamba District: Njala University College",
+    "Extent":0,
+    "Notes":"N/A",
+    "Collector_donor":"Richard C. Tinsley",
+    "Comments":"altitude 65; Collected on 3-April-1979; Notes: Maintained in captivity (in London) until preserved 13 November 1979. End of dry season, previous night with heavy rain. Collection during afternoon near Moyambawo village. Caught by villagers (for food) using shallow baskets sieved through the waterin a stream leading from forest edge into cultivated swamp with raised banks planted with crops: pool 5 x 2 x 0.5 m deep. Open area without tree canopy cover but adjacent to forest. ",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -12.22,8.320833333 ]
+    },
+    "properties": {
+    "Registration_number":2013.381,
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Anura",
+    "Family":"Pipidae",
+    "Genus":"Pseudhymenochirus",
+    "Species":"merlini",
+    "Country":"Sierra Leone",
+    "Locality":"Southern: Moyamba District: Njala University College",
+    "Extent":0,
+    "Notes":"N/A",
+    "Collector_donor":"Richard C. Tinsley",
+    "Comments":"altitude 65; Collected on 3-April-1979; Notes: Maintained in captivity (in London) until preserved 13 November 1979. End of dry season, previous night with heavy rain. Collection during afternoon near Moyambawo village. Caught by villagers (for food) using shallow baskets sieved through the waterin a stream leading from forest edge into cultivated swamp with raised banks planted with crops: pool 5 x 2 x 0.5 m deep. Open area without tree canopy cover but adjacent to forest. ",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.450176,6.198161 ]
+    },
+    "properties": {
+    "Registration_number":2013.351,
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Anura",
+    "Family":"Pipidae",
+    "Genus":"Xenopus ",
+    "Species":"longipes",
+    "Country":"Cameroon",
+    "Locality":"Northwest: Lake Oku",
+    "Extent":20,
+    "Notes":"Approximated by viewing lake on GoogleEarth",
+    "Collector_donor":"Benjaim Tapley",
+    "Comments":"altitude 1573; Collected on 3-April-2105; Notes: Bred in captivity at the Zoological Society of London",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.450176,6.198161 ]
+    },
+    "properties": {
+    "Registration_number":2013.352,
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Anura",
+    "Family":"Pipidae",
+    "Genus":"Xenopus ",
+    "Species":"longipes",
+    "Country":"Cameroon",
+    "Locality":"Northwest: Lake Oku",
+    "Extent":20,
+    "Notes":"Approximated by viewing lake on GoogleEarth",
+    "Collector_donor":"Benjaim Tapley",
+    "Comments":"altitude 1573; Collected on 3-April-2105; Notes: Bred in captivity at the Zoological Society of London",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.450176,6.198161 ]
+    },
+    "properties": {
+    "Registration_number":2013.353,
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Anura",
+    "Family":"Pipidae",
+    "Genus":"Xenopus ",
+    "Species":"longipes",
+    "Country":"Cameroon",
+    "Locality":"Northwest: Lake Oku",
+    "Extent":20,
+    "Notes":"Approximated by viewing lake on GoogleEarth",
+    "Collector_donor":"Benjaim Tapley",
+    "Comments":"altitude 1573; Collected on 3-April-2105; Notes: Bred in captivity at the Zoological Society of London",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.450176,6.198161 ]
+    },
+    "properties": {
+    "Registration_number":2013.354,
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Anura",
+    "Family":"Pipidae",
+    "Genus":"Xenopus ",
+    "Species":"longipes",
+    "Country":"Cameroon",
+    "Locality":"Northwest: Lake Oku",
+    "Extent":20,
+    "Notes":"Approximated by viewing lake on GoogleEarth",
+    "Collector_donor":"Benjaim Tapley",
+    "Comments":"altitude 1573; Collected on 3-April-2105; Notes: Bred in captivity at the Zoological Society of London",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.450176,6.198161 ]
+    },
+    "properties": {
+    "Registration_number":2013.355,
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Anura",
+    "Family":"Pipidae",
+    "Genus":"Xenopus ",
+    "Species":"longipes",
+    "Country":"Cameroon",
+    "Locality":"Northwest: Lake Oku",
+    "Extent":20,
+    "Notes":"Approximated by viewing lake on GoogleEarth",
+    "Collector_donor":"Benjaim Tapley",
+    "Comments":"altitude 1573; Collected on 3-April-2105; Notes: Bred in captivity at the Zoological Society of London",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.450176,6.198161 ]
+    },
+    "properties": {
+    "Registration_number":2013.463,
+    "Field_number":"2012-5",
+    "Class":"Amphibia",
+    "Order":"Anura",
+    "Family":"Pipidae",
+    "Genus":"Xenopus ",
+    "Species":"longipes",
+    "Country":"Cameroon",
+    "Locality":"Northwest: Lake Oku",
+    "Extent":20,
+    "Notes":"Approximated by viewing lake on GoogleEarth",
+    "Collector_donor":"Thomas Doherty-Bone",
+    "Comments":"altitude 1573; Collected in 2012; Notes: None",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.450176,6.198161 ]
+    },
+    "properties": {
+    "Registration_number":2013.464,
+    "Field_number":"2012-6",
+    "Class":"Amphibia",
+    "Order":"Anura",
+    "Family":"Pipidae",
+    "Genus":"Xenopus ",
+    "Species":"longipes",
+    "Country":"Cameroon",
+    "Locality":"Northwest: Lake Oku",
+    "Extent":20,
+    "Notes":"Approximated by viewing lake on GoogleEarth",
+    "Collector_donor":"Thomas Doherty-Bone",
+    "Comments":"altitude 1573; Collected in 2012; Notes: None",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.450176,6.198161 ]
+    },
+    "properties": {
+    "Registration_number":2013.465,
+    "Field_number":"2012-7",
+    "Class":"Amphibia",
+    "Order":"Anura",
+    "Family":"Pipidae",
+    "Genus":"Xenopus ",
+    "Species":"longipes",
+    "Country":"Cameroon",
+    "Locality":"Northwest: Lake Oku",
+    "Extent":20,
+    "Notes":"Approximated by viewing lake on GoogleEarth",
+    "Collector_donor":"Thomas Doherty-Bone",
+    "Comments":"altitude 1573; Collected in 2012; Notes: None",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.450176,6.198161 ]
+    },
+    "properties": {
+    "Registration_number":2013.466,
+    "Field_number":"2012-8",
+    "Class":"Amphibia",
+    "Order":"Anura",
+    "Family":"Pipidae",
+    "Genus":"Xenopus ",
+    "Species":"longipes",
+    "Country":"Cameroon",
+    "Locality":"Northwest: Lake Oku",
+    "Extent":20,
+    "Notes":"Approximated by viewing lake on GoogleEarth",
+    "Collector_donor":"Thomas Doherty-Bone",
+    "Comments":"altitude 1573; Collected in 2012; Notes: None",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.450176,6.198161 ]
+    },
+    "properties": {
+    "Registration_number":2013.467,
+    "Field_number":"2012-9",
+    "Class":"Amphibia",
+    "Order":"Anura",
+    "Family":"Pipidae",
+    "Genus":"Xenopus ",
+    "Species":"longipes",
+    "Country":"Cameroon",
+    "Locality":"Northwest: Lake Oku",
+    "Extent":20,
+    "Notes":"Approximated by viewing lake on GoogleEarth",
+    "Collector_donor":"Thomas Doherty-Bone",
+    "Comments":"altitude 1573; Collected in 2012; Notes: None",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.450176,6.198161 ]
+    },
+    "properties": {
+    "Registration_number":2013.468,
+    "Field_number":"2012-10",
+    "Class":"Amphibia",
+    "Order":"Anura",
+    "Family":"Pipidae",
+    "Genus":"Xenopus ",
+    "Species":"longipes",
+    "Country":"Cameroon",
+    "Locality":"Northwest: Lake Oku",
+    "Extent":20,
+    "Notes":"Approximated by viewing lake on GoogleEarth",
+    "Collector_donor":"Thomas Doherty-Bone",
+    "Comments":"altitude 1573; Collected in 2012; Notes: None",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.450176,6.198161 ]
+    },
+    "properties": {
+    "Registration_number":2013.469,
+    "Field_number":"2012-11",
+    "Class":"Amphibia",
+    "Order":"Anura",
+    "Family":"Pipidae",
+    "Genus":"Xenopus ",
+    "Species":"longipes",
+    "Country":"Cameroon",
+    "Locality":"Northwest: Lake Oku",
+    "Extent":20,
+    "Notes":"Approximated by viewing lake on GoogleEarth",
+    "Collector_donor":"Thomas Doherty-Bone",
+    "Comments":"altitude 1573; Collected in 2012; Notes: None",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.450176,6.198161 ]
+    },
+    "properties": {
+    "Registration_number":2013.47,
+    "Field_number":"2012-12",
+    "Class":"Amphibia",
+    "Order":"Anura",
+    "Family":"Pipidae",
+    "Genus":"Xenopus ",
+    "Species":"longipes",
+    "Country":"Cameroon",
+    "Locality":"Northwest: Lake Oku",
+    "Extent":20,
+    "Notes":"Approximated by viewing lake on GoogleEarth",
+    "Collector_donor":"Thomas Doherty-Bone",
+    "Comments":"altitude 1573; Collected in 2012; Notes: None",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.450176,6.198161 ]
+    },
+    "properties": {
+    "Registration_number":2013.471,
+    "Field_number":"2012-13",
+    "Class":"Amphibia",
+    "Order":"Anura",
+    "Family":"Pipidae",
+    "Genus":"Xenopus ",
+    "Species":"longipes",
+    "Country":"Cameroon",
+    "Locality":"Northwest: Lake Oku",
+    "Extent":20,
+    "Notes":"Approximated by viewing lake on GoogleEarth",
+    "Collector_donor":"Thomas Doherty-Bone",
+    "Comments":"altitude 1573; Collected in 2012; Notes: None",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.450176,6.198161 ]
+    },
+    "properties": {
+    "Registration_number":2013.472,
+    "Field_number":"2012-14",
+    "Class":"Amphibia",
+    "Order":"Anura",
+    "Family":"Pipidae",
+    "Genus":"Xenopus ",
+    "Species":"longipes",
+    "Country":"Cameroon",
+    "Locality":"Northwest: Lake Oku",
+    "Extent":20,
+    "Notes":"Approximated by viewing lake on GoogleEarth",
+    "Collector_donor":"Thomas Doherty-Bone",
+    "Comments":"altitude 1573; Collected in 2012; Notes: None",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.450176,6.198161 ]
+    },
+    "properties": {
+    "Registration_number":2013.473,
+    "Field_number":"2012-15",
+    "Class":"Amphibia",
+    "Order":"Anura",
+    "Family":"Pipidae",
+    "Genus":"Xenopus ",
+    "Species":"longipes",
+    "Country":"Cameroon",
+    "Locality":"Northwest: Lake Oku",
+    "Extent":20,
+    "Notes":"Approximated by viewing lake on GoogleEarth",
+    "Collector_donor":"Thomas Doherty-Bone",
+    "Comments":"altitude 1573; Collected in 2012; Notes: None",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.450176,6.198161 ]
+    },
+    "properties": {
+    "Registration_number":2013.474,
+    "Field_number":"2012-16",
+    "Class":"Amphibia",
+    "Order":"Anura",
+    "Family":"Pipidae",
+    "Genus":"Xenopus ",
+    "Species":"longipes",
+    "Country":"Cameroon",
+    "Locality":"Northwest: Lake Oku",
+    "Extent":20,
+    "Notes":"Approximated by viewing lake on GoogleEarth",
+    "Collector_donor":"Thomas Doherty-Bone",
+    "Comments":"altitude 1573; Collected in 2012; Notes: None",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.450176,6.198161 ]
+    },
+    "properties": {
+    "Registration_number":2013.475,
+    "Field_number":"2012-17",
+    "Class":"Amphibia",
+    "Order":"Anura",
+    "Family":"Pipidae",
+    "Genus":"Xenopus ",
+    "Species":"longipes",
+    "Country":"Cameroon",
+    "Locality":"Northwest: Lake Oku",
+    "Extent":20,
+    "Notes":"Approximated by viewing lake on GoogleEarth",
+    "Collector_donor":"Thomas Doherty-Bone",
+    "Comments":"altitude 1573; Collected in 2012; Notes: None",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.450176,6.198161 ]
+    },
+    "properties": {
+    "Registration_number":2013.476,
+    "Field_number":"2010-1",
+    "Class":"Amphibia",
+    "Order":"Anura",
+    "Family":"Pipidae",
+    "Genus":"Xenopus ",
+    "Species":"longipes",
+    "Country":"Cameroon",
+    "Locality":"Northwest: Lake Oku",
+    "Extent":20,
+    "Notes":"Approximated by viewing lake on GoogleEarth",
+    "Collector_donor":"Thomas Doherty-Bone",
+    "Comments":"altitude 1573; Collected in 2010; Notes: None",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.450176,6.198161 ]
+    },
+    "properties": {
+    "Registration_number":2013.477,
+    "Field_number":"2010-2",
+    "Class":"Amphibia",
+    "Order":"Anura",
+    "Family":"Pipidae",
+    "Genus":"Xenopus ",
+    "Species":"longipes",
+    "Country":"Cameroon",
+    "Locality":"Northwest: Lake Oku",
+    "Extent":20,
+    "Notes":"Approximated by viewing lake on GoogleEarth",
+    "Collector_donor":"Thomas Doherty-Bone",
+    "Comments":"altitude 1573; Collected in 2010; Notes: None",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.450176,6.198161 ]
+    },
+    "properties": {
+    "Registration_number":2013.478,
+    "Field_number":"2010-3",
+    "Class":"Amphibia",
+    "Order":"Anura",
+    "Family":"Pipidae",
+    "Genus":"Xenopus ",
+    "Species":"longipes",
+    "Country":"Cameroon",
+    "Locality":"Northwest: Lake Oku",
+    "Extent":20,
+    "Notes":"Approximated by viewing lake on GoogleEarth",
+    "Collector_donor":"Thomas Doherty-Bone",
+    "Comments":"altitude 1573; Collected in 2010; Notes: None",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.450176,6.198161 ]
+    },
+    "properties": {
+    "Registration_number":2013.479,
+    "Field_number":"2012-1",
+    "Class":"Amphibia",
+    "Order":"Anura",
+    "Family":"Pipidae",
+    "Genus":"Xenopus ",
+    "Species":"longipes",
+    "Country":"Cameroon",
+    "Locality":"Northwest: Lake Oku",
+    "Extent":20,
+    "Notes":"Approximated by viewing lake on GoogleEarth",
+    "Collector_donor":"Thomas Doherty-Bone",
+    "Comments":"altitude 1573; Collected in 2012; Notes: None",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.450176,6.198161 ]
+    },
+    "properties": {
+    "Registration_number":2013.48,
+    "Field_number":"2012-2",
+    "Class":"Amphibia",
+    "Order":"Anura",
+    "Family":"Pipidae",
+    "Genus":"Xenopus ",
+    "Species":"longipes",
+    "Country":"Cameroon",
+    "Locality":"Northwest: Lake Oku",
+    "Extent":20,
+    "Notes":"Approximated by viewing lake on GoogleEarth",
+    "Collector_donor":"Thomas Doherty-Bone",
+    "Comments":"altitude 1573; Collected in 2012; Notes: None",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.450176,6.198161 ]
+    },
+    "properties": {
+    "Registration_number":2013.481,
+    "Field_number":"2012-3",
+    "Class":"Amphibia",
+    "Order":"Anura",
+    "Family":"Pipidae",
+    "Genus":"Xenopus ",
+    "Species":"longipes",
+    "Country":"Cameroon",
+    "Locality":"Northwest: Lake Oku",
+    "Extent":20,
+    "Notes":"Approximated by viewing lake on GoogleEarth",
+    "Collector_donor":"Thomas Doherty-Bone",
+    "Comments":"altitude 1573; Collected in 2012; Notes: None",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.450176,6.198161 ]
+    },
+    "properties": {
+    "Registration_number":2013.482,
+    "Field_number":"2012-4",
+    "Class":"Amphibia",
+    "Order":"Anura",
+    "Family":"Pipidae",
+    "Genus":"Xenopus ",
+    "Species":"longipes",
+    "Country":"Cameroon",
+    "Locality":"Northwest: Lake Oku",
+    "Extent":20,
+    "Notes":"Approximated by viewing lake on GoogleEarth",
+    "Collector_donor":"Thomas Doherty-Bone",
+    "Comments":"altitude 1573; Collected in 2012; Notes: None",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.178622,51.49586 ]
+    },
+    "properties": {
+    "Registration_number":2013.483,
+    "Field_number":"JWS 757",
+    "Class":"Amphibia",
+    "Order":"Anura",
+    "Family":"Ranidae",
+    "Genus":"Rana",
+    "Species":"temporaria",
+    "Country":"United Kingdom",
+    "Locality":"England:London:The Natural History Museum: Wildlife Garden",
+    "Extent":0,
+    "Notes":"N/A",
+    "Collector_donor":"Jeffrey W. Streicher",
+    "Comments":"altitude 17; Collected on 1-July-2015; Notes: Under log",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Frozen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.178622,51.49586 ]
+    },
+    "properties": {
+    "Registration_number":2013.484,
+    "Field_number":"JWS 758",
+    "Class":"Amphibia",
+    "Order":"Anura",
+    "Family":"Bufonidae",
+    "Genus":"Bufo",
+    "Species":"bufo",
+    "Country":"United Kingdom",
+    "Locality":"England:London:The Natural History Museum: Wildlife Garden",
+    "Extent":0,
+    "Notes":"N/A",
+    "Collector_donor":"Jeffrey W. Streicher",
+    "Comments":"altitude 17; Collected on 1-July-2015; Notes: Under log",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Frozen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.17855,51.49574 ]
+    },
+    "properties": {
+    "Registration_number":2013.485,
+    "Field_number":"JWS 759",
+    "Class":"Amphibia",
+    "Order":"Caudata",
+    "Family":"Salamandridae",
+    "Genus":"Lissotriton",
+    "Species":"vulgaris",
+    "Country":"United Kingdom",
+    "Locality":"England:London:The Natural History Museum: Wildlife Garden",
+    "Extent":0,
+    "Notes":"N/A",
+    "Collector_donor":"Jeffrey W. Streicher",
+    "Comments":"altitude 17; Collected on 1-July-2015; Notes: Caught in net by D.J. Gower",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Frozen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ 8.475778,3.264083 ]
     },
     "properties": {
@@ -335,6 +1631,1014 @@
     "Comments":"altitude 589; Collected on 20/01/2014",
     "Type_status":"Non-type",
     "Genetic_resources":"Frozen (Possible)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.213026,15.499120 ]
+    },
+    "properties": {
+    "Registration_number":2005.187,
+    "Field_number":"MW10873",
+    "Class":"Amphibia",
+    "Order":"Anura",
+    "Family":"Craugastoridae",
+    "Genus":"Craugastor",
+    "Species":"cf. laticeps",
+    "Country":"Honduras",
+    "Locality":" Cortes: Cusuco National Park: Santo Tomas",
+    "Extent":10,
+    "Notes":"Took centroid of park. Extent determined as distance from centroid to Cofradia.",
+    "Collector_donor":"Simon Maddock",
+    "Comments":"Other ID SM596; Collected 21 July 2015; Notes: DOR",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Frozen (Muscle)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.213026,15.499120 ]
+    },
+    "properties": {
+    "Registration_number":2005.1871,
+    "Field_number":"MW10874",
+    "Class":"Amphibia",
+    "Order":"Anura",
+    "Family":"Craugastoridae",
+    "Genus":"Craugastor",
+    "Species":"laticeps",
+    "Country":"Honduras",
+    "Locality":" Cortes: Cusuco National Park: Santo Tomas",
+    "Extent":10,
+    "Notes":"Took centroid of park. Extent determined as distance from centroid to Cofradia.",
+    "Collector_donor":"Simon Maddock",
+    "Comments":"Other ID SM636; Collected June-July 2015; Notes: None",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Frozen (Muscle)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.213026,15.499120 ]
+    },
+    "properties": {
+    "Registration_number":2005.1872,
+    "Field_number":"MW10875",
+    "Class":"Amphibia",
+    "Order":"Anura",
+    "Family":"Craugastoridae",
+    "Genus":"Craugastor",
+    "Species":"laticeps",
+    "Country":"Honduras",
+    "Locality":" Cortes: Cusuco National Park: Santo Tomas",
+    "Extent":10,
+    "Notes":"Took centroid of park. Extent determined as distance from centroid to Cofradia.",
+    "Collector_donor":"Simon Maddock",
+    "Comments":"Other ID SM635; Collected June-July 2015; Notes: None",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Frozen (Muscle)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.213026,15.499120 ]
+    },
+    "properties": {
+    "Registration_number":2005.1873,
+    "Field_number":"MW10876",
+    "Class":"Amphibia",
+    "Order":"Anura",
+    "Family":"Hyllidae",
+    "Genus":"Duellmanohyla",
+    "Species":"soralia",
+    "Country":"Honduras",
+    "Locality":" Cortes: Cusuco National Park: Santo Tomas",
+    "Extent":10,
+    "Notes":"Took centroid of park. Extent determined as distance from centroid to Cofradia.",
+    "Collector_donor":"Simon Maddock",
+    "Comments":"Other ID SM638; Collected June-July 2015; Notes: None",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Frozen (Muscle)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.213026,15.499120 ]
+    },
+    "properties": {
+    "Registration_number":2005.1874,
+    "Field_number":"MW10877",
+    "Class":"Amphibia",
+    "Order":"Anura",
+    "Family":"Centrolenidae",
+    "Genus":"Hyalinobatrachium",
+    "Species":"fleischmanni",
+    "Country":"Honduras",
+    "Locality":" Cortes: Cusuco National Park: Santo Tomas",
+    "Extent":10,
+    "Notes":"Took centroid of park. Extent determined as distance from centroid to Cofradia.",
+    "Collector_donor":"Simon Maddock",
+    "Comments":"Other ID SM637; Collected June-July 2015; Notes: None",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Frozen (Muscle)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.213026,15.499120 ]
+    },
+    "properties": {
+    "Registration_number":2005.1875,
+    "Field_number":"MW10896",
+    "Class":"Amphibia",
+    "Order":"Anura",
+    "Family":"Hylidae",
+    "Genus":"Plectrohyla",
+    "Species":"exquisita",
+    "Country":"Honduras",
+    "Locality":" Cortes: Cusuco National Park",
+    "Extent":10,
+    "Notes":"Took centroid of park. Extent determined as distance from centroid to Cofradia.",
+    "Collector_donor":"Simon Maddock",
+    "Comments":"Other ID SM641; Collected June-July 2015; Notes: Big",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Frozen (Muscle)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.213026,15.499120 ]
+    },
+    "properties": {
+    "Registration_number":2005.1876,
+    "Field_number":"MW10904",
+    "Class":"Amphibia",
+    "Order":"Anura",
+    "Family":"Hylidae",
+    "Genus":"Plectrohyla",
+    "Species":"exquisita",
+    "Country":"Honduras",
+    "Locality":" Cortes: Cusuco National Park: Base Camp - River",
+    "Extent":10,
+    "Notes":"Took centroid of park. Extent determined as distance from centroid to Cofradia.",
+    "Collector_donor":"Simon Maddock",
+    "Comments":"Other ID SM651; Collected 18 Juy 2015; Notes: Swabbed for presence/absence and qPCR. JL_18/06/15_BC_20:46",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Frozen (Muscle)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.213026,15.499120 ]
+    },
+    "properties": {
+    "Registration_number":2005.1877,
+    "Field_number":"MW10906",
+    "Class":"Amphibia",
+    "Order":"Anura",
+    "Family":"Hylidae",
+    "Genus":"Plectrohyla",
+    "Species":"cf. exquisita",
+    "Country":"Honduras",
+    "Locality":" Cortes: Cusuco National Park: Base Camp, site 2",
+    "Extent":10,
+    "Notes":"Took centroid of park. Extent determined as distance from centroid to Cofradia.",
+    "Collector_donor":"Simon Maddock",
+    "Comments":"Other ID SM653; Collected 26 July 2015; Notes: None",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Frozen (Muscle)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.213026,15.499120 ]
+    },
+    "properties": {
+    "Registration_number":2005.1878,
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Anura",
+    "Family":"Bufonidae",
+    "Genus":"Rhinella",
+    "Species":"marinus",
+    "Country":"Honduras",
+    "Locality":" Cortes: Cusuco National Park: Buenes Aires",
+    "Extent":10,
+    "Notes":"Took centroid of park. Extent determined as distance from centroid to Cofradia.",
+    "Collector_donor":"Simon Maddock",
+    "Comments":"Other ID SM678; Collected June-July 2015; Notes: None",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Frozen (Muscle)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.24229,15.51366 ]
+    },
+    "properties": {
+    "Registration_number":2005.1879,
+    "Field_number":"MW10869",
+    "Class":"Amphibia",
+    "Order":"Caudata",
+    "Family":"Plethodontidae",
+    "Genus":"Oedepina",
+    "Species":"sp.",
+    "Country":"Honduras",
+    "Locality":" Cortes: Cusuco National Park: Cantilles T5",
+    "Extent":0,
+    "Notes":"N/A",
+    "Collector_donor":"Simon Maddock",
+    "Comments":"Other ID SM564; Collected 5 July 2015; Notes: Digging",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Frozen (Muscle)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.213026,15.499120 ]
+    },
+    "properties": {
+    "Registration_number":2005.188,
+    "Field_number":"MW10887",
+    "Class":"Amphibia",
+    "Order":"Caudata",
+    "Family":"Plethodontidae",
+    "Genus":"Bolitoglossa",
+    "Species":"nympha",
+    "Country":"Honduras",
+    "Locality":" Cortes: Cusuco National Park: Santo Tomas",
+    "Extent":10,
+    "Notes":"Took centroid of park. Extent determined as distance from centroid to Cofradia.",
+    "Collector_donor":"Simon Maddock",
+    "Comments":"Other ID SM639; Collected June-July 2015; Notes: None",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Frozen (Muscle)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.213026,15.499120 ]
+    },
+    "properties": {
+    "Registration_number":2005.1881,
+    "Field_number":"MW10888",
+    "Class":"Amphibia",
+    "Order":"Caudata",
+    "Family":"Plethodontidae",
+    "Genus":"Bolitoglossa",
+    "Species":"diaphora",
+    "Country":"Honduras",
+    "Locality":" Cortes: Cusuco National Park",
+    "Extent":10,
+    "Notes":"Took centroid of park. Extent determined as distance from centroid to Cofradia.",
+    "Collector_donor":"Simon Maddock",
+    "Comments":"Other ID SM620; Collected June-July 2015; Notes: None",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Frozen (Tail tip)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.213026,15.499120 ]
+    },
+    "properties": {
+    "Registration_number":2005.1882,
+    "Field_number":"MW10905",
+    "Class":"Amphibia",
+    "Order":"Caudata",
+    "Family":"Plethodontidae",
+    "Genus":"Bolitoglossa",
+    "Species":"diaphora",
+    "Country":"Honduras",
+    "Locality":" Cortes: Cusuco National Park: Cantilles T5",
+    "Extent":10,
+    "Notes":"Took centroid of park. Extent determined as distance from centroid to Cofradia.",
+    "Collector_donor":"Simon Maddock",
+    "Comments":"Other ID SM652; Collected 26 July 2015; Notes: In invert pitfall trap",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Frozen (Muscle)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.213026,15.499120 ]
+    },
+    "properties": {
+    "Registration_number":2005.1883,
+    "Field_number":"MW10898",
+    "Class":"Amphibia",
+    "Order":"Caudata",
+    "Family":"Plethodontidae",
+    "Genus":"Nototriton",
+    "Species":"brodiei",
+    "Country":"Honduras",
+    "Locality":" Cortes: Cusuco National Park: Base Camp River transect",
+    "Extent":10,
+    "Notes":"Took centroid of park. Extent determined as distance from centroid to Cofradia.",
+    "Collector_donor":"Simon Maddock",
+    "Comments":"Other ID SM643; Collected 9 June 2015; Notes: None",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Frozen (Tail tip)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.213026,15.499120 ]
+    },
+    "properties": {
+    "Registration_number":2005.1884,
+    "Field_number":"MW10899",
+    "Class":"Amphibia",
+    "Order":"Caudata",
+    "Family":"Plethodontidae",
+    "Genus":"Bolitoglossa",
+    "Species":"conanti",
+    "Country":"Honduras",
+    "Locality":" Cortes: Cusuco National Park: Capuca",
+    "Extent":10,
+    "Notes":"Took centroid of park. Extent determined as distance from centroid to Cofradia.",
+    "Collector_donor":"Simon Maddock",
+    "Comments":"Other ID SM644; Collected 30 June 2015; Notes: Merlin has also taken liver",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Frozen (Muscle)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.213026,15.499120 ]
+    },
+    "properties": {
+    "Registration_number":2005.1885,
+    "Field_number":"MW10893",
+    "Class":"Reptilia",
+    "Order":"Squamata",
+    "Family":"Colubridae",
+    "Genus":"Adelphicos",
+    "Species":"quadrivirgatus",
+    "Country":"Honduras",
+    "Locality":" Cortes: Cusuco National Park: Buenes Aires",
+    "Extent":10,
+    "Notes":"Took centroid of park. Extent determined as distance from centroid to Cofradia.",
+    "Collector_donor":"Simon Maddock",
+    "Comments":"Other ID SM604; Collected June-July 2015; Notes: Was killed when Tom was processing - I didn't pickle it until it started to go off",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Frozen (Muscle)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.213026,15.499120 ]
+    },
+    "properties": {
+    "Registration_number":2005.1886,
+    "Field_number":"MW10903",
+    "Class":"Reptilia",
+    "Order":"Squamata",
+    "Family":"Colubridae",
+    "Genus":"Adelphicos",
+    "Species":"quadrivirgatus",
+    "Country":"Honduras",
+    "Locality":" Cortes: Cusuco National Park: Probably Buenes Aires",
+    "Extent":10,
+    "Notes":"Took centroid of park. Extent determined as distance from centroid to Cofradia.",
+    "Collector_donor":"Simon Maddock",
+    "Comments":"Other ID SM649; Collected June-July 2015; Notes: None",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Frozen (Muscle)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.213026,15.499120 ]
+    },
+    "properties": {
+    "Registration_number":2005.1887,
+    "Field_number":"MW10897",
+    "Class":"Reptilia",
+    "Order":"Squamata",
+    "Family":"Viperidae",
+    "Genus":"Bothriechis",
+    "Species":"marchi",
+    "Country":"Honduras",
+    "Locality":" Cortes: Cusuco National Park: Corticito",
+    "Extent":10,
+    "Notes":"Took centroid of park. Extent determined as distance from centroid to Cofradia.",
+    "Collector_donor":"Simon Maddock",
+    "Comments":"Other ID SM642; Collected June-July 2015; Notes: None",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Frozen (Muscle)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.213026,15.499120 ]
+    },
+    "properties": {
+    "Registration_number":2005.1888,
+    "Field_number":"MW10872",
+    "Class":"Reptilia",
+    "Order":"Squamata",
+    "Family":"Viperidae",
+    "Genus":"Bothriechis",
+    "Species":"marchi",
+    "Country":"Honduras",
+    "Locality":" Cortes: Cusuco National Park: Corticito, River nr camp",
+    "Extent":10,
+    "Notes":"Took centroid of park. Extent determined as distance from centroid to Cofradia.",
+    "Collector_donor":"Simon Maddock",
+    "Comments":"Other ID SM675; Collected June-July 2015; Notes: None",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Frozen (Muscle)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.213026,15.499120 ]
+    },
+    "properties": {
+    "Registration_number":2005.1889,
+    "Field_number":"None",
+    "Class":"Reptilia",
+    "Order":"Squamata",
+    "Family":"Viperidae",
+    "Genus":"Bothriechis",
+    "Species":"marchi",
+    "Country":"Honduras",
+    "Locality":" Cortes: Cusuco National Park: Guanales",
+    "Extent":10,
+    "Notes":"Took centroid of park. Extent determined as distance from centroid to Cofradia.",
+    "Collector_donor":"Simon Maddock",
+    "Comments":"Other ID SM676; Collected June-July 2015; Notes: None",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Frozen (Muscle)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.213026,15.499120 ]
+    },
+    "properties": {
+    "Registration_number":2005.189,
+    "Field_number":"None",
+    "Class":"Reptilia",
+    "Order":"Squamata",
+    "Family":"Viperidae",
+    "Genus":"Cerrophidion",
+    "Species":"wilsoni",
+    "Country":"Honduras",
+    "Locality":" Cortes: Cusuco National Park: Guanales",
+    "Extent":10,
+    "Notes":"Took centroid of park. Extent determined as distance from centroid to Cofradia.",
+    "Collector_donor":"Simon Maddock",
+    "Comments":"Other ID SM677; Collected June-July 2015; Notes: None",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Frozen (Muscle)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.213026,15.499120 ]
+    },
+    "properties": {
+    "Registration_number":2005.1891,
+    "Field_number":"MW10879",
+    "Class":"Reptilia",
+    "Order":"Squamata",
+    "Family":"Colubridae",
+    "Genus":"Drymarchon",
+    "Species":"melanurus",
+    "Country":"Honduras",
+    "Locality":" Cortes: Cusuco National Park",
+    "Extent":10,
+    "Notes":"Took centroid of park. Extent determined as distance from centroid to Cofradia.",
+    "Collector_donor":"Simon Maddock",
+    "Comments":"Other ID SM618; Collected June-July 2015; Notes: None",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Frozen (Muscle)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.213026,15.499120 ]
+    },
+    "properties": {
+    "Registration_number":2005.1892,
+    "Field_number":"MW10868",
+    "Class":"Reptilia",
+    "Order":"Squamata",
+    "Family":"Colubridae",
+    "Genus":"Geophis",
+    "Species":"sp.",
+    "Country":"Honduras",
+    "Locality":" Cortes: Cusuco National Park: Cantilles camp",
+    "Extent":10,
+    "Notes":"Took centroid of park. Extent determined as distance from centroid to Cofradia.",
+    "Collector_donor":"Simon Maddock",
+    "Comments":"Other ID SM563; Collected 3 July 2015; Notes: None",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Frozen (Muscle)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.213026,15.499120 ]
+    },
+    "properties": {
+    "Registration_number":2005.1893,
+    "Field_number":"MW10895",
+    "Class":"Reptilia",
+    "Order":"Squamata",
+    "Family":"Colubridae",
+    "Genus":"Geophis",
+    "Species":"sp.",
+    "Country":"Honduras",
+    "Locality":" Cortes: Cusuco National Park: El Danto",
+    "Extent":10,
+    "Notes":"Took centroid of park. Extent determined as distance from centroid to Cofradia.",
+    "Collector_donor":"Simon Maddock",
+    "Comments":"Other ID SM640; Collected June-July 2015; Notes: None",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Frozen (Muscle)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.21260,15.49483 ]
+    },
+    "properties": {
+    "Registration_number":2005.1894,
+    "Field_number":"MW10886",
+    "Class":"Reptilia",
+    "Order":"Squamata",
+    "Family":"Colubridae",
+    "Genus":"Geophis",
+    "Species":"nephrodrymus",
+    "Country":"Honduras",
+    "Locality":" Cortes: Cusuco National Park: Pitfall trap",
+    "Extent":0,
+    "Notes":"N/A",
+    "Collector_donor":"Simon Maddock",
+    "Comments":"Other ID SM603; Collected June-July 2015; Notes: None",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.213026,15.499120 ]
+    },
+    "properties": {
+    "Registration_number":2005.1895,
+    "Field_number":"MW10894",
+    "Class":"Reptilia",
+    "Order":"Squamata",
+    "Family":"Colubridae",
+    "Genus":"Geophis",
+    "Species":"nephrodrymus",
+    "Country":"Honduras",
+    "Locality":" Cortes: Cusuco National Park: Capuca camp",
+    "Extent":10,
+    "Notes":"Took centroid of park. Extent determined as distance from centroid to Cofradia.",
+    "Collector_donor":"Simon Maddock",
+    "Comments":"Other ID SM671; Collected 31 July 2015; Notes: None",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.213026,15.499120 ]
+    },
+    "properties": {
+    "Registration_number":2005.1896,
+    "Field_number":"MW10885",
+    "Class":"Reptilia",
+    "Order":"Squamata",
+    "Family":"Colubridae",
+    "Genus":"Mastigodryas",
+    "Species":"dorsalis",
+    "Country":"Honduras",
+    "Locality":" Cortes: Cusuco National Park",
+    "Extent":10,
+    "Notes":"Took centroid of park. Extent determined as distance from centroid to Cofradia.",
+    "Collector_donor":"Simon Maddock",
+    "Comments":"Other ID SM625; Collected June-July 2015; Notes: None",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Frozen (Muscle)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.213026,15.499120 ]
+    },
+    "properties": {
+    "Registration_number":2005.1897,
+    "Field_number":"MW10889",
+    "Class":"Reptilia",
+    "Order":"Squamata",
+    "Family":"Anguidae",
+    "Genus":"Mesaspis",
+    "Species":"moreletti",
+    "Country":"Honduras",
+    "Locality":" Cortes: Cusuco National Park: Buenes Aires",
+    "Extent":10,
+    "Notes":"Took centroid of park. Extent determined as distance from centroid to Cofradia.",
+    "Collector_donor":"Simon Maddock",
+    "Comments":"Other ID SM619; Collected 2 July 2015; Notes: None",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Frozen (Tail tip)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.213026,15.499120 ]
+    },
+    "properties": {
+    "Registration_number":2005.1898,
+    "Field_number":"MW10890",
+    "Class":"Reptilia",
+    "Order":"Squamata",
+    "Family":"Anguidae",
+    "Genus":"Mesaspis",
+    "Species":"moreletti",
+    "Country":"Honduras",
+    "Locality":" Cortes: Cusuco National Park: Buenes Aires",
+    "Extent":10,
+    "Notes":"Took centroid of park. Extent determined as distance from centroid to Cofradia.",
+    "Collector_donor":"Simon Maddock",
+    "Comments":"Other ID SM622; Collected 2 July 2015; Notes: None",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Frozen (Tail tip)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.213026,15.499120 ]
+    },
+    "properties": {
+    "Registration_number":2005.1899,
+    "Field_number":"MW10900",
+    "Class":"Reptilia",
+    "Order":"Squamata",
+    "Family":"Anguidae",
+    "Genus":"Mesaspis",
+    "Species":"moreletti",
+    "Country":"Honduras",
+    "Locality":" Cortes: Cusuco National Park: Corticito?",
+    "Extent":10,
+    "Notes":"Took centroid of park. Extent determined as distance from centroid to Cofradia.",
+    "Collector_donor":"Simon Maddock",
+    "Comments":"Other ID SM645; Collected 5 July 2015; Notes: None",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Frozen (Tail tip)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.213026,15.499120 ]
+    },
+    "properties": {
+    "Registration_number":2005.19,
+    "Field_number":"MW10891",
+    "Class":"Reptilia",
+    "Order":"Squamata",
+    "Family":"Elapidae",
+    "Genus":"Micrurus",
+    "Species":"diastema",
+    "Country":"Honduras",
+    "Locality":" Cortes: Cusuco National Park: Buenes Aires",
+    "Extent":10,
+    "Notes":"Took centroid of park. Extent determined as distance from centroid to Cofradia.",
+    "Collector_donor":"Simon Maddock",
+    "Comments":"Other ID SM623; Collected 5 July 2015; Notes: Only half a specimen - ran over? Chopped?",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Frozen (Muscle)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.21638,15.49189 ]
+    },
+    "properties": {
+    "Registration_number":2005.1901,
+    "Field_number":"MW10892",
+    "Class":"Reptilia",
+    "Order":"Squamata",
+    "Family":"Elapidae",
+    "Genus":"Micrurus",
+    "Species":"diastema",
+    "Country":"Honduras",
+    "Locality":" Cortes: Cusuco National Park: Guanales, T1 900m",
+    "Extent":0,
+    "Notes":"N/A",
+    "Collector_donor":"Simon Maddock",
+    "Comments":"Other ID SM624; Collected 25 July 2015; Notes: None",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Frozen (Muscle)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.213026,15.499120 ]
+    },
+    "properties": {
+    "Registration_number":2005.1902,
+    "Field_number":"MW10878",
+    "Class":"Reptilia",
+    "Order":"Squamata",
+    "Family":"Colubridae",
+    "Genus":"Ninia",
+    "Species":"sebae",
+    "Country":"Honduras",
+    "Locality":" Cortes: Cusuco National Park",
+    "Extent":10,
+    "Notes":"Took centroid of park. Extent determined as distance from centroid to Cofradia.",
+    "Collector_donor":"Simon Maddock",
+    "Comments":"Other ID SM617; Collected June-July 2015; Notes: None",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Frozen (Muscle)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.213026,15.499120 ]
+    },
+    "properties": {
+    "Registration_number":2005.1903,
+    "Field_number":"MW10883",
+    "Class":"Reptilia",
+    "Order":"Squamata",
+    "Family":"Colubridae",
+    "Genus":"Scaphiodontophis",
+    "Species":"annulatus",
+    "Country":"Honduras",
+    "Locality":" Cortes: Cusuco National Park",
+    "Extent":10,
+    "Notes":"Took centroid of park. Extent determined as distance from centroid to Cofradia.",
+    "Collector_donor":"Simon Maddock",
+    "Comments":"Other ID SM627; Collected June-July 2015; Notes: None",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Frozen (Muscle)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.23493,15.50947 ]
+    },
+    "properties": {
+    "Registration_number":2005.1904,
+    "Field_number":"MW10870",
+    "Class":"Reptilia",
+    "Order":"Squamata",
+    "Family":"Phrynosomatidae",
+    "Genus":"Sceloporus",
+    "Species":"schmidti",
+    "Country":"Honduras",
+    "Locality":" Cortes: Cusuco National Park: Cantilles, T4",
+    "Extent":0,
+    "Notes":"N/A",
+    "Collector_donor":"Simon Maddock",
+    "Comments":"Other ID SM672; Collected June-July 2015; Notes: None",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Frozen (Muscle)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.23493,15.50947 ]
+    },
+    "properties": {
+    "Registration_number":2005.1905,
+    "Field_number":"MW10871",
+    "Class":"Reptilia",
+    "Order":"Squamata",
+    "Family":"Phrynosomatidae",
+    "Genus":"Sceloporus",
+    "Species":"schmidti",
+    "Country":"Honduras",
+    "Locality":" Cortes: Cusuco National Park: Cantilles, T4",
+    "Extent":0,
+    "Notes":"N/A",
+    "Collector_donor":"Simon Maddock",
+    "Comments":"Other ID SM592; Collected June-July 2015; Notes: None",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Frozen (Tail tip)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.213026,15.499120 ]
+    },
+    "properties": {
+    "Registration_number":2005.1906,
+    "Field_number":"MW10884",
+    "Class":"Reptilia",
+    "Order":"Squamata",
+    "Family":"Colubridae",
+    "Genus":"Spilotes",
+    "Species":"pullatus",
+    "Country":"Honduras",
+    "Locality":" Cortes: Cusuco National Park",
+    "Extent":10,
+    "Notes":"Took centroid of park. Extent determined as distance from centroid to Cofradia.",
+    "Collector_donor":"Simon Maddock",
+    "Comments":"Other ID SM626; Collected June-July 2015; Notes: None",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Frozen (Muscle)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.213026,15.499120 ]
+    },
+    "properties": {
+    "Registration_number":2005.1907,
+    "Field_number":"MW10880",
+    "Class":"Reptilia",
+    "Order":"Squamata",
+    "Family":"Colubridae",
+    "Genus":"Stenorrhina",
+    "Species":"degenhardtii",
+    "Country":"Honduras",
+    "Locality":" Cortes: Cusuco National Park",
+    "Extent":10,
+    "Notes":"Took centroid of park. Extent determined as distance from centroid to Cofradia.",
+    "Collector_donor":"Simon Maddock",
+    "Comments":"Other ID SM616; Collected June-July 2015; Notes: None",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Frozen (Muscle)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.213026,15.499120 ]
+    },
+    "properties": {
+    "Registration_number":2005.1908,
+    "Field_number":"MW10881",
+    "Class":"Reptilia",
+    "Order":"Squamata",
+    "Family":"Colubridae",
+    "Genus":"Stenorrhina",
+    "Species":"degenhardtii",
+    "Country":"Honduras",
+    "Locality":" Cortes: Cusuco National Park",
+    "Extent":10,
+    "Notes":"Took centroid of park. Extent determined as distance from centroid to Cofradia.",
+    "Collector_donor":"Simon Maddock",
+    "Comments":"Other ID SM615; Collected June-July 2015; Notes: None",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Frozen (Muscle)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.213026,15.499120 ]
+    },
+    "properties": {
+    "Registration_number":2005.1909,
+    "Field_number":"MW10882",
+    "Class":"Reptilia",
+    "Order":"Squamata",
+    "Family":"Colubridae",
+    "Genus":"Stenorrhina",
+    "Species":"degenhardtii",
+    "Country":"Honduras",
+    "Locality":" Cortes: Cusuco National Park",
+    "Extent":10,
+    "Notes":"Took centroid of park. Extent determined as distance from centroid to Cofradia.",
+    "Collector_donor":"Simon Maddock",
+    "Comments":"Other ID SM614; Collected June-July 2015; Notes: None",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Frozen (Muscle)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.213026,15.499120 ]
+    },
+    "properties": {
+    "Registration_number":2005.191,
+    "Field_number":"MW10901",
+    "Class":"Reptilia",
+    "Order":"Squamata",
+    "Family":"Colubridae",
+    "Genus":"Stenorrhina",
+    "Species":"degenhardtii",
+    "Country":"Honduras",
+    "Locality":" Cortes: Cusuco National Park: Buenes Aires",
+    "Extent":10,
+    "Notes":"Took centroid of park. Extent determined as distance from centroid to Cofradia.",
+    "Collector_donor":"Simon Maddock",
+    "Comments":"Other ID SM646; Collected June-July 2015; Notes: None",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.213026,15.499120 ]
+    },
+    "properties": {
+    "Registration_number":2005.1911,
+    "Field_number":"MW10902",
+    "Class":"Reptilia",
+    "Order":"Squamata",
+    "Family":"Colubridae",
+    "Genus":"Stenorrhina",
+    "Species":"degenhardtii",
+    "Country":"Honduras",
+    "Locality":" Cortes: Cusuco National Park: Buenes Aires",
+    "Extent":10,
+    "Notes":"Took centroid of park. Extent determined as distance from centroid to Cofradia.",
+    "Collector_donor":"Simon Maddock",
+    "Comments":"Other ID SM647; Collected June-July 2015; Notes: None",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Archival"
     }
   },
   {
