@@ -8,7 +8,7 @@
        "coordinates":  [ -12.08333333,8.1 ]
     },
     "properties": {
-    "Registration_number":2013.356,
+    "Registration_number":"2013.356",
     "Field_number":"None",
     "Class":"Amphibia",
     "Order":"Anura",
@@ -32,7 +32,7 @@
        "coordinates":  [ -12.08333333,8.1 ]
     },
     "properties": {
-    "Registration_number":2013.357,
+    "Registration_number":"2013.357",
     "Field_number":"None",
     "Class":"Amphibia",
     "Order":"Anura",
@@ -56,7 +56,7 @@
        "coordinates":  [ -12.08333333,8.1 ]
     },
     "properties": {
-    "Registration_number":2013.358,
+    "Registration_number":"2013.358",
     "Field_number":"None",
     "Class":"Amphibia",
     "Order":"Anura",
@@ -80,7 +80,7 @@
        "coordinates":  [ -12.08333333,8.1 ]
     },
     "properties": {
-    "Registration_number":2013.359,
+    "Registration_number":"2013.359",
     "Field_number":"None",
     "Class":"Amphibia",
     "Order":"Anura",
@@ -104,7 +104,7 @@
        "coordinates":  [ -12.08333333,8.1 ]
     },
     "properties": {
-    "Registration_number":2013.36,
+    "Registration_number":"2013.360",
     "Field_number":"None",
     "Class":"Amphibia",
     "Order":"Anura",
@@ -128,7 +128,7 @@
        "coordinates":  [ -12.08333333,8.1 ]
     },
     "properties": {
-    "Registration_number":2013.361,
+    "Registration_number":"2013.361",
     "Field_number":"None",
     "Class":"Amphibia",
     "Order":"Anura",
@@ -152,7 +152,7 @@
        "coordinates":  [ -12.22,8.320833333 ]
     },
     "properties": {
-    "Registration_number":2013.362,
+    "Registration_number":"2013.362",
     "Field_number":"None",
     "Class":"Amphibia",
     "Order":"Anura",
@@ -176,7 +176,7 @@
        "coordinates":  [ -12.22,8.320833333 ]
     },
     "properties": {
-    "Registration_number":2013.363,
+    "Registration_number":"2013.363",
     "Field_number":"None",
     "Class":"Amphibia",
     "Order":"Anura",
@@ -200,7 +200,7 @@
        "coordinates":  [ -12.22,8.320833333 ]
     },
     "properties": {
-    "Registration_number":2013.364,
+    "Registration_number":"2013.364",
     "Field_number":"None",
     "Class":"Amphibia",
     "Order":"Anura",
@@ -224,7 +224,7 @@
        "coordinates":  [ -12.22,8.320833333 ]
     },
     "properties": {
-    "Registration_number":2013.365,
+    "Registration_number":"2013.365",
     "Field_number":"None",
     "Class":"Amphibia",
     "Order":"Anura",
@@ -248,7 +248,7 @@
        "coordinates":  [ -12.22,8.320833333 ]
     },
     "properties": {
-    "Registration_number":2013.366,
+    "Registration_number":"2013.366",
     "Field_number":"None",
     "Class":"Amphibia",
     "Order":"Anura",
@@ -272,7 +272,7 @@
        "coordinates":  [ -12.22,8.320833333 ]
     },
     "properties": {
-    "Registration_number":2013.367,
+    "Registration_number":"2013.367",
     "Field_number":"None",
     "Class":"Amphibia",
     "Order":"Anura",
@@ -296,7 +296,7 @@
        "coordinates":  [ -12.22,8.320833333 ]
     },
     "properties": {
-    "Registration_number":2013.368,
+    "Registration_number":"2013.368",
     "Field_number":"None",
     "Class":"Amphibia",
     "Order":"Anura",
@@ -320,7 +320,7 @@
        "coordinates":  [ -12.22,8.320833333 ]
     },
     "properties": {
-    "Registration_number":2013.369,
+    "Registration_number":"2013.369",
     "Field_number":"None",
     "Class":"Amphibia",
     "Order":"Anura",
@@ -344,7 +344,7 @@
        "coordinates":  [ -12.22,8.320833333 ]
     },
     "properties": {
-    "Registration_number":2013.37,
+    "Registration_number":"2013.370",
     "Field_number":"None",
     "Class":"Amphibia",
     "Order":"Anura",
@@ -368,7 +368,7 @@
        "coordinates":  [ -12.22,8.320833333 ]
     },
     "properties": {
-    "Registration_number":2013.371,
+    "Registration_number":"2013.371",
     "Field_number":"None",
     "Class":"Amphibia",
     "Order":"Anura",
@@ -392,7 +392,7 @@
        "coordinates":  [ -12.22,8.320833333 ]
     },
     "properties": {
-    "Registration_number":2013.372,
+    "Registration_number":"2013.372",
     "Field_number":"None",
     "Class":"Amphibia",
     "Order":"Anura",
@@ -416,7 +416,7 @@
        "coordinates":  [ -12.22,8.320833333 ]
     },
     "properties": {
-    "Registration_number":2013.373,
+    "Registration_number":"2013.373",
     "Field_number":"None",
     "Class":"Amphibia",
     "Order":"Anura",
@@ -440,7 +440,7 @@
        "coordinates":  [ -12.22,8.320833333 ]
     },
     "properties": {
-    "Registration_number":2013.374,
+    "Registration_number":"2013.374",
     "Field_number":"None",
     "Class":"Amphibia",
     "Order":"Anura",
@@ -464,7 +464,7 @@
        "coordinates":  [ -12.22,8.320833333 ]
     },
     "properties": {
-    "Registration_number":2013.375,
+    "Registration_number":"2013.375",
     "Field_number":"None",
     "Class":"Amphibia",
     "Order":"Anura",
@@ -488,7 +488,7 @@
        "coordinates":  [ -12.22,8.320833333 ]
     },
     "properties": {
-    "Registration_number":2013.376,
+    "Registration_number":"2013.376",
     "Field_number":"None",
     "Class":"Amphibia",
     "Order":"Anura",
@@ -512,7 +512,7 @@
        "coordinates":  [ -12.22,8.320833333 ]
     },
     "properties": {
-    "Registration_number":2013.377,
+    "Registration_number":"2013.377",
     "Field_number":"None",
     "Class":"Amphibia",
     "Order":"Anura",
@@ -536,7 +536,7 @@
        "coordinates":  [ -12.22,8.320833333 ]
     },
     "properties": {
-    "Registration_number":2013.378,
+    "Registration_number":"2013.378",
     "Field_number":"None",
     "Class":"Amphibia",
     "Order":"Anura",
@@ -560,7 +560,7 @@
        "coordinates":  [ -12.22,8.320833333 ]
     },
     "properties": {
-    "Registration_number":2013.379,
+    "Registration_number":"2013.379",
     "Field_number":"None",
     "Class":"Amphibia",
     "Order":"Anura",
@@ -584,7 +584,7 @@
        "coordinates":  [ -12.22,8.320833333 ]
     },
     "properties": {
-    "Registration_number":2013.38,
+    "Registration_number":"2013.380",
     "Field_number":"None",
     "Class":"Amphibia",
     "Order":"Anura",
@@ -608,7 +608,7 @@
        "coordinates":  [ -12.22,8.320833333 ]
     },
     "properties": {
-    "Registration_number":2013.381,
+    "Registration_number":"2013.381",
     "Field_number":"None",
     "Class":"Amphibia",
     "Order":"Anura",
@@ -632,7 +632,7 @@
        "coordinates":  [ 10.450176,6.198161 ]
     },
     "properties": {
-    "Registration_number":2013.351,
+    "Registration_number":"2013.351",
     "Field_number":"None",
     "Class":"Amphibia",
     "Order":"Anura",
@@ -656,7 +656,7 @@
        "coordinates":  [ 10.450176,6.198161 ]
     },
     "properties": {
-    "Registration_number":2013.352,
+    "Registration_number":"2013.352",
     "Field_number":"None",
     "Class":"Amphibia",
     "Order":"Anura",
@@ -680,7 +680,7 @@
        "coordinates":  [ 10.450176,6.198161 ]
     },
     "properties": {
-    "Registration_number":2013.353,
+    "Registration_number":"2013.353",
     "Field_number":"None",
     "Class":"Amphibia",
     "Order":"Anura",
@@ -704,7 +704,7 @@
        "coordinates":  [ 10.450176,6.198161 ]
     },
     "properties": {
-    "Registration_number":2013.354,
+    "Registration_number":"2013.354",
     "Field_number":"None",
     "Class":"Amphibia",
     "Order":"Anura",
@@ -728,7 +728,7 @@
        "coordinates":  [ 10.450176,6.198161 ]
     },
     "properties": {
-    "Registration_number":2013.355,
+    "Registration_number":"2013.355",
     "Field_number":"None",
     "Class":"Amphibia",
     "Order":"Anura",
@@ -752,7 +752,7 @@
        "coordinates":  [ 10.450176,6.198161 ]
     },
     "properties": {
-    "Registration_number":2013.463,
+    "Registration_number":"2013.463",
     "Field_number":"2012-5",
     "Class":"Amphibia",
     "Order":"Anura",
@@ -776,7 +776,7 @@
        "coordinates":  [ 10.450176,6.198161 ]
     },
     "properties": {
-    "Registration_number":2013.464,
+    "Registration_number":"2013.464",
     "Field_number":"2012-6",
     "Class":"Amphibia",
     "Order":"Anura",
@@ -800,7 +800,7 @@
        "coordinates":  [ 10.450176,6.198161 ]
     },
     "properties": {
-    "Registration_number":2013.465,
+    "Registration_number":"2013.465",
     "Field_number":"2012-7",
     "Class":"Amphibia",
     "Order":"Anura",
@@ -824,7 +824,7 @@
        "coordinates":  [ 10.450176,6.198161 ]
     },
     "properties": {
-    "Registration_number":2013.466,
+    "Registration_number":"2013.466",
     "Field_number":"2012-8",
     "Class":"Amphibia",
     "Order":"Anura",
@@ -848,7 +848,7 @@
        "coordinates":  [ 10.450176,6.198161 ]
     },
     "properties": {
-    "Registration_number":2013.467,
+    "Registration_number":"2013.467",
     "Field_number":"2012-9",
     "Class":"Amphibia",
     "Order":"Anura",
@@ -872,7 +872,7 @@
        "coordinates":  [ 10.450176,6.198161 ]
     },
     "properties": {
-    "Registration_number":2013.468,
+    "Registration_number":"2013.468",
     "Field_number":"2012-10",
     "Class":"Amphibia",
     "Order":"Anura",
@@ -896,7 +896,7 @@
        "coordinates":  [ 10.450176,6.198161 ]
     },
     "properties": {
-    "Registration_number":2013.469,
+    "Registration_number":"2013.469",
     "Field_number":"2012-11",
     "Class":"Amphibia",
     "Order":"Anura",
@@ -920,7 +920,7 @@
        "coordinates":  [ 10.450176,6.198161 ]
     },
     "properties": {
-    "Registration_number":2013.47,
+    "Registration_number":"2013.470",
     "Field_number":"2012-12",
     "Class":"Amphibia",
     "Order":"Anura",
@@ -944,7 +944,7 @@
        "coordinates":  [ 10.450176,6.198161 ]
     },
     "properties": {
-    "Registration_number":2013.471,
+    "Registration_number":"2013.471",
     "Field_number":"2012-13",
     "Class":"Amphibia",
     "Order":"Anura",
@@ -968,7 +968,7 @@
        "coordinates":  [ 10.450176,6.198161 ]
     },
     "properties": {
-    "Registration_number":2013.472,
+    "Registration_number":"2013.472",
     "Field_number":"2012-14",
     "Class":"Amphibia",
     "Order":"Anura",
@@ -992,7 +992,7 @@
        "coordinates":  [ 10.450176,6.198161 ]
     },
     "properties": {
-    "Registration_number":2013.473,
+    "Registration_number":"2013.473",
     "Field_number":"2012-15",
     "Class":"Amphibia",
     "Order":"Anura",
@@ -1016,7 +1016,7 @@
        "coordinates":  [ 10.450176,6.198161 ]
     },
     "properties": {
-    "Registration_number":2013.474,
+    "Registration_number":"2013.474",
     "Field_number":"2012-16",
     "Class":"Amphibia",
     "Order":"Anura",
@@ -1040,7 +1040,7 @@
        "coordinates":  [ 10.450176,6.198161 ]
     },
     "properties": {
-    "Registration_number":2013.475,
+    "Registration_number":"2013.475",
     "Field_number":"2012-17",
     "Class":"Amphibia",
     "Order":"Anura",
@@ -1064,7 +1064,7 @@
        "coordinates":  [ 10.450176,6.198161 ]
     },
     "properties": {
-    "Registration_number":2013.476,
+    "Registration_number":"2013.476",
     "Field_number":"2010-1",
     "Class":"Amphibia",
     "Order":"Anura",
@@ -1088,7 +1088,7 @@
        "coordinates":  [ 10.450176,6.198161 ]
     },
     "properties": {
-    "Registration_number":2013.477,
+    "Registration_number":"2013.477",
     "Field_number":"2010-2",
     "Class":"Amphibia",
     "Order":"Anura",
@@ -1112,7 +1112,7 @@
        "coordinates":  [ 10.450176,6.198161 ]
     },
     "properties": {
-    "Registration_number":2013.478,
+    "Registration_number":"2013.478",
     "Field_number":"2010-3",
     "Class":"Amphibia",
     "Order":"Anura",
@@ -1136,7 +1136,7 @@
        "coordinates":  [ 10.450176,6.198161 ]
     },
     "properties": {
-    "Registration_number":2013.479,
+    "Registration_number":"2013.479",
     "Field_number":"2012-1",
     "Class":"Amphibia",
     "Order":"Anura",
@@ -1160,7 +1160,7 @@
        "coordinates":  [ 10.450176,6.198161 ]
     },
     "properties": {
-    "Registration_number":2013.48,
+    "Registration_number":"2013.480",
     "Field_number":"2012-2",
     "Class":"Amphibia",
     "Order":"Anura",
@@ -1184,7 +1184,7 @@
        "coordinates":  [ 10.450176,6.198161 ]
     },
     "properties": {
-    "Registration_number":2013.481,
+    "Registration_number":"2013.481",
     "Field_number":"2012-3",
     "Class":"Amphibia",
     "Order":"Anura",
@@ -1208,7 +1208,7 @@
        "coordinates":  [ 10.450176,6.198161 ]
     },
     "properties": {
-    "Registration_number":2013.482,
+    "Registration_number":"2013.482",
     "Field_number":"2012-4",
     "Class":"Amphibia",
     "Order":"Anura",
@@ -1232,7 +1232,7 @@
        "coordinates":  [ -0.178622,51.49586 ]
     },
     "properties": {
-    "Registration_number":2013.483,
+    "Registration_number":"2013.483",
     "Field_number":"JWS 757",
     "Class":"Amphibia",
     "Order":"Anura",
@@ -1256,7 +1256,7 @@
        "coordinates":  [ -0.178622,51.49586 ]
     },
     "properties": {
-    "Registration_number":2013.484,
+    "Registration_number":"2013.484",
     "Field_number":"JWS 758",
     "Class":"Amphibia",
     "Order":"Anura",
@@ -1280,7 +1280,7 @@
        "coordinates":  [ -0.17855,51.49574 ]
     },
     "properties": {
-    "Registration_number":2013.485,
+    "Registration_number":"2013.485",
     "Field_number":"JWS 759",
     "Class":"Amphibia",
     "Order":"Caudata",
@@ -1304,7 +1304,7 @@
        "coordinates":  [ 8.475778,3.264083 ]
     },
     "properties": {
-    "Registration_number":2005.1851,
+    "Registration_number":"2005.1851",
     "Field_number":"MW 10401",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -1328,7 +1328,7 @@
        "coordinates":  [ 8.471611,3.267361 ]
     },
     "properties": {
-    "Registration_number":2005.1861,
+    "Registration_number":"2005.1861",
     "Field_number":"MW 10405",
     "Class":"Amphibia",
     "Order":"Anura",
@@ -1352,7 +1352,7 @@
        "coordinates":  [ 8.486556,3.260944 ]
     },
     "properties": {
-    "Registration_number":2005.1852,
+    "Registration_number":"2005.1852",
     "Field_number":"MW 10407",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -1376,7 +1376,7 @@
        "coordinates":  [ 8.502333,3.3665 ]
     },
     "properties": {
-    "Registration_number":2005.186,
+    "Registration_number":"2005.186",
     "Field_number":"MW 10408",
     "Class":"Amphibia",
     "Order":"Anura",
@@ -1400,7 +1400,7 @@
        "coordinates":  [ 8.502333,3.3665 ]
     },
     "properties": {
-    "Registration_number":2005.1863,
+    "Registration_number":"2005.1863",
     "Field_number":"MW 10409",
     "Class":"Amphibia",
     "Order":"Anura",
@@ -1424,7 +1424,7 @@
        "coordinates":  [ 8.504306,3.366778 ]
     },
     "properties": {
-    "Registration_number":2005.1856,
+    "Registration_number":"2005.1856",
     "Field_number":"MW 10410",
     "Class":"Amphibia",
     "Order":"Anura",
@@ -1448,7 +1448,7 @@
        "coordinates":  [ 8.502333,3.3665 ]
     },
     "properties": {
-    "Registration_number":2005.1857,
+    "Registration_number":"2005.1857",
     "Field_number":"MW 10411",
     "Class":"Amphibia",
     "Order":"Anura",
@@ -1472,7 +1472,7 @@
        "coordinates":  [ 8.500361,3.36525 ]
     },
     "properties": {
-    "Registration_number":2005.1858,
+    "Registration_number":"2005.1858",
     "Field_number":"MW 10412",
     "Class":"Amphibia",
     "Order":"Anura",
@@ -1496,7 +1496,7 @@
        "coordinates":  [ 8.503944,3.366806 ]
     },
     "properties": {
-    "Registration_number":2005.1859,
+    "Registration_number":"2005.1859",
     "Field_number":"MW 10413",
     "Class":"Amphibia",
     "Order":"Anura",
@@ -1520,7 +1520,7 @@
        "coordinates":  [ 8.503944,3.366806 ]
     },
     "properties": {
-    "Registration_number":2005.1864,
+    "Registration_number":"2005.1864",
     "Field_number":"MW 10414",
     "Class":"Amphibia",
     "Order":"Anura",
@@ -1544,7 +1544,7 @@
        "coordinates":  [ 8.479139,3.329611 ]
     },
     "properties": {
-    "Registration_number":2005.1853,
+    "Registration_number":"2005.1853",
     "Field_number":"MW 10415",
     "Class":"Amphibia",
     "Order":"Anura",
@@ -1568,7 +1568,7 @@
        "coordinates":  [ 8.479139,3.329611 ]
     },
     "properties": {
-    "Registration_number":2005.1854,
+    "Registration_number":"2005.1854",
     "Field_number":"MW 10416",
     "Class":"Amphibia",
     "Order":"Anura",
@@ -1592,7 +1592,7 @@
        "coordinates":  [ 8.479139,3.329611 ]
     },
     "properties": {
-    "Registration_number":2005.1855,
+    "Registration_number":"2005.1855",
     "Field_number":"MW 10417",
     "Class":"Amphibia",
     "Order":"Anura",
@@ -1616,7 +1616,7 @@
        "coordinates":  [ 8.482667,3.328722 ]
     },
     "properties": {
-    "Registration_number":2005.1862,
+    "Registration_number":"2005.1862",
     "Field_number":"MW 10418",
     "Class":"Amphibia",
     "Order":"Anura",
@@ -1640,7 +1640,7 @@
        "coordinates":  [ -88.213026,15.499120 ]
     },
     "properties": {
-    "Registration_number":2005.187,
+    "Registration_number":"2005.1870",
     "Field_number":"MW10873",
     "Class":"Amphibia",
     "Order":"Anura",
@@ -1648,7 +1648,7 @@
     "Genus":"Craugastor",
     "Species":"cf. laticeps",
     "Country":"Honduras",
-    "Locality":" Cortes: Cusuco National Park: Santo Tomas",
+    "Locality":" Cort�s: Cusuco National Park: Santo Tomas",
     "Extent":10,
     "Notes":"Took centroid of park. Extent determined as distance from centroid to Cofradia.",
     "Collector_donor":"Simon Maddock",
@@ -1664,7 +1664,7 @@
        "coordinates":  [ -88.213026,15.499120 ]
     },
     "properties": {
-    "Registration_number":2005.1871,
+    "Registration_number":"2005.1871",
     "Field_number":"MW10874",
     "Class":"Amphibia",
     "Order":"Anura",
@@ -1672,7 +1672,7 @@
     "Genus":"Craugastor",
     "Species":"laticeps",
     "Country":"Honduras",
-    "Locality":" Cortes: Cusuco National Park: Santo Tomas",
+    "Locality":" Cort�s: Cusuco National Park: Santo Tomas",
     "Extent":10,
     "Notes":"Took centroid of park. Extent determined as distance from centroid to Cofradia.",
     "Collector_donor":"Simon Maddock",
@@ -1688,7 +1688,7 @@
        "coordinates":  [ -88.213026,15.499120 ]
     },
     "properties": {
-    "Registration_number":2005.1872,
+    "Registration_number":"2005.1872",
     "Field_number":"MW10875",
     "Class":"Amphibia",
     "Order":"Anura",
@@ -1696,7 +1696,7 @@
     "Genus":"Craugastor",
     "Species":"laticeps",
     "Country":"Honduras",
-    "Locality":" Cortes: Cusuco National Park: Santo Tomas",
+    "Locality":" Cort�s: Cusuco National Park: Santo Tomas",
     "Extent":10,
     "Notes":"Took centroid of park. Extent determined as distance from centroid to Cofradia.",
     "Collector_donor":"Simon Maddock",
@@ -1712,7 +1712,7 @@
        "coordinates":  [ -88.213026,15.499120 ]
     },
     "properties": {
-    "Registration_number":2005.1873,
+    "Registration_number":"2005.1873",
     "Field_number":"MW10876",
     "Class":"Amphibia",
     "Order":"Anura",
@@ -1720,7 +1720,7 @@
     "Genus":"Duellmanohyla",
     "Species":"soralia",
     "Country":"Honduras",
-    "Locality":" Cortes: Cusuco National Park: Santo Tomas",
+    "Locality":" Cort�s: Cusuco National Park: Santo Tomas",
     "Extent":10,
     "Notes":"Took centroid of park. Extent determined as distance from centroid to Cofradia.",
     "Collector_donor":"Simon Maddock",
@@ -1736,7 +1736,7 @@
        "coordinates":  [ -88.213026,15.499120 ]
     },
     "properties": {
-    "Registration_number":2005.1874,
+    "Registration_number":"2005.1874",
     "Field_number":"MW10877",
     "Class":"Amphibia",
     "Order":"Anura",
@@ -1744,7 +1744,7 @@
     "Genus":"Hyalinobatrachium",
     "Species":"fleischmanni",
     "Country":"Honduras",
-    "Locality":" Cortes: Cusuco National Park: Santo Tomas",
+    "Locality":" Cort�s: Cusuco National Park: Santo Tomas",
     "Extent":10,
     "Notes":"Took centroid of park. Extent determined as distance from centroid to Cofradia.",
     "Collector_donor":"Simon Maddock",
@@ -1760,7 +1760,7 @@
        "coordinates":  [ -88.213026,15.499120 ]
     },
     "properties": {
-    "Registration_number":2005.1875,
+    "Registration_number":"2005.1875",
     "Field_number":"MW10896",
     "Class":"Amphibia",
     "Order":"Anura",
@@ -1768,7 +1768,7 @@
     "Genus":"Plectrohyla",
     "Species":"exquisita",
     "Country":"Honduras",
-    "Locality":" Cortes: Cusuco National Park",
+    "Locality":" Cort�s: Cusuco National Park",
     "Extent":10,
     "Notes":"Took centroid of park. Extent determined as distance from centroid to Cofradia.",
     "Collector_donor":"Simon Maddock",
@@ -1784,7 +1784,7 @@
        "coordinates":  [ -88.213026,15.499120 ]
     },
     "properties": {
-    "Registration_number":2005.1876,
+    "Registration_number":"2005.1876",
     "Field_number":"MW10904",
     "Class":"Amphibia",
     "Order":"Anura",
@@ -1792,7 +1792,7 @@
     "Genus":"Plectrohyla",
     "Species":"exquisita",
     "Country":"Honduras",
-    "Locality":" Cortes: Cusuco National Park: Base Camp - River",
+    "Locality":" Cort�s: Cusuco National Park: Base Camp - River",
     "Extent":10,
     "Notes":"Took centroid of park. Extent determined as distance from centroid to Cofradia.",
     "Collector_donor":"Simon Maddock",
@@ -1808,7 +1808,7 @@
        "coordinates":  [ -88.213026,15.499120 ]
     },
     "properties": {
-    "Registration_number":2005.1877,
+    "Registration_number":"2005.1877",
     "Field_number":"MW10906",
     "Class":"Amphibia",
     "Order":"Anura",
@@ -1816,7 +1816,7 @@
     "Genus":"Plectrohyla",
     "Species":"cf. exquisita",
     "Country":"Honduras",
-    "Locality":" Cortes: Cusuco National Park: Base Camp, site 2",
+    "Locality":" Cort�s: Cusuco National Park: Base Camp, site 2",
     "Extent":10,
     "Notes":"Took centroid of park. Extent determined as distance from centroid to Cofradia.",
     "Collector_donor":"Simon Maddock",
@@ -1832,7 +1832,7 @@
        "coordinates":  [ -88.213026,15.499120 ]
     },
     "properties": {
-    "Registration_number":2005.1878,
+    "Registration_number":"2005.1878",
     "Field_number":"None",
     "Class":"Amphibia",
     "Order":"Anura",
@@ -1840,7 +1840,7 @@
     "Genus":"Rhinella",
     "Species":"marinus",
     "Country":"Honduras",
-    "Locality":" Cortes: Cusuco National Park: Buenes Aires",
+    "Locality":" Cort�s: Cusuco National Park: Buenes Aires",
     "Extent":10,
     "Notes":"Took centroid of park. Extent determined as distance from centroid to Cofradia.",
     "Collector_donor":"Simon Maddock",
@@ -1856,7 +1856,7 @@
        "coordinates":  [ -88.24229,15.51366 ]
     },
     "properties": {
-    "Registration_number":2005.1879,
+    "Registration_number":"2005.1879",
     "Field_number":"MW10869",
     "Class":"Amphibia",
     "Order":"Caudata",
@@ -1864,7 +1864,7 @@
     "Genus":"Oedepina",
     "Species":"sp.",
     "Country":"Honduras",
-    "Locality":" Cortes: Cusuco National Park: Cantilles T5",
+    "Locality":" Cort�s: Cusuco National Park: Cantilles T5",
     "Extent":0,
     "Notes":"N/A",
     "Collector_donor":"Simon Maddock",
@@ -1880,7 +1880,7 @@
        "coordinates":  [ -88.213026,15.499120 ]
     },
     "properties": {
-    "Registration_number":2005.188,
+    "Registration_number":"2005.1880",
     "Field_number":"MW10887",
     "Class":"Amphibia",
     "Order":"Caudata",
@@ -1888,7 +1888,7 @@
     "Genus":"Bolitoglossa",
     "Species":"nympha",
     "Country":"Honduras",
-    "Locality":" Cortes: Cusuco National Park: Santo Tomas",
+    "Locality":" Cort�s: Cusuco National Park: Santo Tomas",
     "Extent":10,
     "Notes":"Took centroid of park. Extent determined as distance from centroid to Cofradia.",
     "Collector_donor":"Simon Maddock",
@@ -1904,7 +1904,7 @@
        "coordinates":  [ -88.213026,15.499120 ]
     },
     "properties": {
-    "Registration_number":2005.1881,
+    "Registration_number":"2005.1881",
     "Field_number":"MW10888",
     "Class":"Amphibia",
     "Order":"Caudata",
@@ -1912,7 +1912,7 @@
     "Genus":"Bolitoglossa",
     "Species":"diaphora",
     "Country":"Honduras",
-    "Locality":" Cortes: Cusuco National Park",
+    "Locality":" Cort�s: Cusuco National Park",
     "Extent":10,
     "Notes":"Took centroid of park. Extent determined as distance from centroid to Cofradia.",
     "Collector_donor":"Simon Maddock",
@@ -1928,7 +1928,7 @@
        "coordinates":  [ -88.213026,15.499120 ]
     },
     "properties": {
-    "Registration_number":2005.1882,
+    "Registration_number":"2005.1882",
     "Field_number":"MW10905",
     "Class":"Amphibia",
     "Order":"Caudata",
@@ -1936,7 +1936,7 @@
     "Genus":"Bolitoglossa",
     "Species":"diaphora",
     "Country":"Honduras",
-    "Locality":" Cortes: Cusuco National Park: Cantilles T5",
+    "Locality":" Cort�s: Cusuco National Park: Cantilles T5",
     "Extent":10,
     "Notes":"Took centroid of park. Extent determined as distance from centroid to Cofradia.",
     "Collector_donor":"Simon Maddock",
@@ -1952,7 +1952,7 @@
        "coordinates":  [ -88.213026,15.499120 ]
     },
     "properties": {
-    "Registration_number":2005.1883,
+    "Registration_number":"2005.1883",
     "Field_number":"MW10898",
     "Class":"Amphibia",
     "Order":"Caudata",
@@ -1960,7 +1960,7 @@
     "Genus":"Nototriton",
     "Species":"brodiei",
     "Country":"Honduras",
-    "Locality":" Cortes: Cusuco National Park: Base Camp River transect",
+    "Locality":" Cort�s: Cusuco National Park: Base Camp River transect",
     "Extent":10,
     "Notes":"Took centroid of park. Extent determined as distance from centroid to Cofradia.",
     "Collector_donor":"Simon Maddock",
@@ -1976,7 +1976,7 @@
        "coordinates":  [ -88.213026,15.499120 ]
     },
     "properties": {
-    "Registration_number":2005.1884,
+    "Registration_number":"2005.1884",
     "Field_number":"MW10899",
     "Class":"Amphibia",
     "Order":"Caudata",
@@ -1984,7 +1984,7 @@
     "Genus":"Bolitoglossa",
     "Species":"conanti",
     "Country":"Honduras",
-    "Locality":" Cortes: Cusuco National Park: Capuca",
+    "Locality":" Cort�s: Cusuco National Park: Capuca",
     "Extent":10,
     "Notes":"Took centroid of park. Extent determined as distance from centroid to Cofradia.",
     "Collector_donor":"Simon Maddock",
@@ -2000,7 +2000,7 @@
        "coordinates":  [ -88.213026,15.499120 ]
     },
     "properties": {
-    "Registration_number":2005.1885,
+    "Registration_number":"2005.1885",
     "Field_number":"MW10893",
     "Class":"Reptilia",
     "Order":"Squamata",
@@ -2008,7 +2008,7 @@
     "Genus":"Adelphicos",
     "Species":"quadrivirgatus",
     "Country":"Honduras",
-    "Locality":" Cortes: Cusuco National Park: Buenes Aires",
+    "Locality":" Cort�s: Cusuco National Park: Buenes Aires",
     "Extent":10,
     "Notes":"Took centroid of park. Extent determined as distance from centroid to Cofradia.",
     "Collector_donor":"Simon Maddock",
@@ -2024,7 +2024,7 @@
        "coordinates":  [ -88.213026,15.499120 ]
     },
     "properties": {
-    "Registration_number":2005.1886,
+    "Registration_number":"2005.1886",
     "Field_number":"MW10903",
     "Class":"Reptilia",
     "Order":"Squamata",
@@ -2032,7 +2032,7 @@
     "Genus":"Adelphicos",
     "Species":"quadrivirgatus",
     "Country":"Honduras",
-    "Locality":" Cortes: Cusuco National Park: Probably Buenes Aires",
+    "Locality":" Cort�s: Cusuco National Park: Probably Buenes Aires",
     "Extent":10,
     "Notes":"Took centroid of park. Extent determined as distance from centroid to Cofradia.",
     "Collector_donor":"Simon Maddock",
@@ -2048,7 +2048,7 @@
        "coordinates":  [ -88.213026,15.499120 ]
     },
     "properties": {
-    "Registration_number":2005.1887,
+    "Registration_number":"2005.1887",
     "Field_number":"MW10897",
     "Class":"Reptilia",
     "Order":"Squamata",
@@ -2056,7 +2056,7 @@
     "Genus":"Bothriechis",
     "Species":"marchi",
     "Country":"Honduras",
-    "Locality":" Cortes: Cusuco National Park: Corticito",
+    "Locality":" Cort�s: Cusuco National Park: Corticito",
     "Extent":10,
     "Notes":"Took centroid of park. Extent determined as distance from centroid to Cofradia.",
     "Collector_donor":"Simon Maddock",
@@ -2072,7 +2072,7 @@
        "coordinates":  [ -88.213026,15.499120 ]
     },
     "properties": {
-    "Registration_number":2005.1888,
+    "Registration_number":"2005.1888",
     "Field_number":"MW10872",
     "Class":"Reptilia",
     "Order":"Squamata",
@@ -2080,7 +2080,7 @@
     "Genus":"Bothriechis",
     "Species":"marchi",
     "Country":"Honduras",
-    "Locality":" Cortes: Cusuco National Park: Corticito, River nr camp",
+    "Locality":" Cort�s: Cusuco National Park: Corticito, River nr camp",
     "Extent":10,
     "Notes":"Took centroid of park. Extent determined as distance from centroid to Cofradia.",
     "Collector_donor":"Simon Maddock",
@@ -2096,7 +2096,7 @@
        "coordinates":  [ -88.213026,15.499120 ]
     },
     "properties": {
-    "Registration_number":2005.1889,
+    "Registration_number":"2005.1889",
     "Field_number":"None",
     "Class":"Reptilia",
     "Order":"Squamata",
@@ -2104,7 +2104,7 @@
     "Genus":"Bothriechis",
     "Species":"marchi",
     "Country":"Honduras",
-    "Locality":" Cortes: Cusuco National Park: Guanales",
+    "Locality":" Cort�s: Cusuco National Park: Guanales",
     "Extent":10,
     "Notes":"Took centroid of park. Extent determined as distance from centroid to Cofradia.",
     "Collector_donor":"Simon Maddock",
@@ -2120,7 +2120,7 @@
        "coordinates":  [ -88.213026,15.499120 ]
     },
     "properties": {
-    "Registration_number":2005.189,
+    "Registration_number":"2005.1890",
     "Field_number":"None",
     "Class":"Reptilia",
     "Order":"Squamata",
@@ -2128,7 +2128,7 @@
     "Genus":"Cerrophidion",
     "Species":"wilsoni",
     "Country":"Honduras",
-    "Locality":" Cortes: Cusuco National Park: Guanales",
+    "Locality":" Cort�s: Cusuco National Park: Guanales",
     "Extent":10,
     "Notes":"Took centroid of park. Extent determined as distance from centroid to Cofradia.",
     "Collector_donor":"Simon Maddock",
@@ -2144,7 +2144,7 @@
        "coordinates":  [ -88.213026,15.499120 ]
     },
     "properties": {
-    "Registration_number":2005.1891,
+    "Registration_number":"2005.1891",
     "Field_number":"MW10879",
     "Class":"Reptilia",
     "Order":"Squamata",
@@ -2152,7 +2152,7 @@
     "Genus":"Drymarchon",
     "Species":"melanurus",
     "Country":"Honduras",
-    "Locality":" Cortes: Cusuco National Park",
+    "Locality":" Cort�s: Cusuco National Park",
     "Extent":10,
     "Notes":"Took centroid of park. Extent determined as distance from centroid to Cofradia.",
     "Collector_donor":"Simon Maddock",
@@ -2168,7 +2168,7 @@
        "coordinates":  [ -88.213026,15.499120 ]
     },
     "properties": {
-    "Registration_number":2005.1892,
+    "Registration_number":"2005.1892",
     "Field_number":"MW10868",
     "Class":"Reptilia",
     "Order":"Squamata",
@@ -2176,7 +2176,7 @@
     "Genus":"Geophis",
     "Species":"sp.",
     "Country":"Honduras",
-    "Locality":" Cortes: Cusuco National Park: Cantilles camp",
+    "Locality":" Cort�s: Cusuco National Park: Cantilles camp",
     "Extent":10,
     "Notes":"Took centroid of park. Extent determined as distance from centroid to Cofradia.",
     "Collector_donor":"Simon Maddock",
@@ -2192,7 +2192,7 @@
        "coordinates":  [ -88.213026,15.499120 ]
     },
     "properties": {
-    "Registration_number":2005.1893,
+    "Registration_number":"2005.1893",
     "Field_number":"MW10895",
     "Class":"Reptilia",
     "Order":"Squamata",
@@ -2200,7 +2200,7 @@
     "Genus":"Geophis",
     "Species":"sp.",
     "Country":"Honduras",
-    "Locality":" Cortes: Cusuco National Park: El Danto",
+    "Locality":" Cort�s: Cusuco National Park: El Danto",
     "Extent":10,
     "Notes":"Took centroid of park. Extent determined as distance from centroid to Cofradia.",
     "Collector_donor":"Simon Maddock",
@@ -2216,7 +2216,7 @@
        "coordinates":  [ -88.21260,15.49483 ]
     },
     "properties": {
-    "Registration_number":2005.1894,
+    "Registration_number":"2005.1894",
     "Field_number":"MW10886",
     "Class":"Reptilia",
     "Order":"Squamata",
@@ -2224,7 +2224,7 @@
     "Genus":"Geophis",
     "Species":"nephrodrymus",
     "Country":"Honduras",
-    "Locality":" Cortes: Cusuco National Park: Pitfall trap",
+    "Locality":" Cort�s: Cusuco National Park: Pitfall trap",
     "Extent":0,
     "Notes":"N/A",
     "Collector_donor":"Simon Maddock",
@@ -2240,7 +2240,7 @@
        "coordinates":  [ -88.213026,15.499120 ]
     },
     "properties": {
-    "Registration_number":2005.1895,
+    "Registration_number":"2005.1895",
     "Field_number":"MW10894",
     "Class":"Reptilia",
     "Order":"Squamata",
@@ -2248,7 +2248,7 @@
     "Genus":"Geophis",
     "Species":"nephrodrymus",
     "Country":"Honduras",
-    "Locality":" Cortes: Cusuco National Park: Capuca camp",
+    "Locality":" Cort�s: Cusuco National Park: Capuca camp",
     "Extent":10,
     "Notes":"Took centroid of park. Extent determined as distance from centroid to Cofradia.",
     "Collector_donor":"Simon Maddock",
@@ -2264,7 +2264,7 @@
        "coordinates":  [ -88.213026,15.499120 ]
     },
     "properties": {
-    "Registration_number":2005.1896,
+    "Registration_number":"2005.1896",
     "Field_number":"MW10885",
     "Class":"Reptilia",
     "Order":"Squamata",
@@ -2272,7 +2272,7 @@
     "Genus":"Mastigodryas",
     "Species":"dorsalis",
     "Country":"Honduras",
-    "Locality":" Cortes: Cusuco National Park",
+    "Locality":" Cort�s: Cusuco National Park",
     "Extent":10,
     "Notes":"Took centroid of park. Extent determined as distance from centroid to Cofradia.",
     "Collector_donor":"Simon Maddock",
@@ -2288,7 +2288,7 @@
        "coordinates":  [ -88.213026,15.499120 ]
     },
     "properties": {
-    "Registration_number":2005.1897,
+    "Registration_number":"2005.1897",
     "Field_number":"MW10889",
     "Class":"Reptilia",
     "Order":"Squamata",
@@ -2296,7 +2296,7 @@
     "Genus":"Mesaspis",
     "Species":"moreletti",
     "Country":"Honduras",
-    "Locality":" Cortes: Cusuco National Park: Buenes Aires",
+    "Locality":" Cort�s: Cusuco National Park: Buenes Aires",
     "Extent":10,
     "Notes":"Took centroid of park. Extent determined as distance from centroid to Cofradia.",
     "Collector_donor":"Simon Maddock",
@@ -2312,7 +2312,7 @@
        "coordinates":  [ -88.213026,15.499120 ]
     },
     "properties": {
-    "Registration_number":2005.1898,
+    "Registration_number":"2005.1898",
     "Field_number":"MW10890",
     "Class":"Reptilia",
     "Order":"Squamata",
@@ -2320,7 +2320,7 @@
     "Genus":"Mesaspis",
     "Species":"moreletti",
     "Country":"Honduras",
-    "Locality":" Cortes: Cusuco National Park: Buenes Aires",
+    "Locality":" Cort�s: Cusuco National Park: Buenes Aires",
     "Extent":10,
     "Notes":"Took centroid of park. Extent determined as distance from centroid to Cofradia.",
     "Collector_donor":"Simon Maddock",
@@ -2336,7 +2336,7 @@
        "coordinates":  [ -88.213026,15.499120 ]
     },
     "properties": {
-    "Registration_number":2005.1899,
+    "Registration_number":"2005.1899",
     "Field_number":"MW10900",
     "Class":"Reptilia",
     "Order":"Squamata",
@@ -2344,7 +2344,7 @@
     "Genus":"Mesaspis",
     "Species":"moreletti",
     "Country":"Honduras",
-    "Locality":" Cortes: Cusuco National Park: Corticito?",
+    "Locality":" Cort�s: Cusuco National Park: Corticito?",
     "Extent":10,
     "Notes":"Took centroid of park. Extent determined as distance from centroid to Cofradia.",
     "Collector_donor":"Simon Maddock",
@@ -2360,7 +2360,7 @@
        "coordinates":  [ -88.213026,15.499120 ]
     },
     "properties": {
-    "Registration_number":2005.19,
+    "Registration_number":"2005.1900",
     "Field_number":"MW10891",
     "Class":"Reptilia",
     "Order":"Squamata",
@@ -2368,7 +2368,7 @@
     "Genus":"Micrurus",
     "Species":"diastema",
     "Country":"Honduras",
-    "Locality":" Cortes: Cusuco National Park: Buenes Aires",
+    "Locality":" Cort�s: Cusuco National Park: Buenes Aires",
     "Extent":10,
     "Notes":"Took centroid of park. Extent determined as distance from centroid to Cofradia.",
     "Collector_donor":"Simon Maddock",
@@ -2384,7 +2384,7 @@
        "coordinates":  [ -88.21638,15.49189 ]
     },
     "properties": {
-    "Registration_number":2005.1901,
+    "Registration_number":"2005.1901",
     "Field_number":"MW10892",
     "Class":"Reptilia",
     "Order":"Squamata",
@@ -2392,7 +2392,7 @@
     "Genus":"Micrurus",
     "Species":"diastema",
     "Country":"Honduras",
-    "Locality":" Cortes: Cusuco National Park: Guanales, T1 900m",
+    "Locality":" Cort�s: Cusuco National Park: Guanales, T1 900m",
     "Extent":0,
     "Notes":"N/A",
     "Collector_donor":"Simon Maddock",
@@ -2408,7 +2408,7 @@
        "coordinates":  [ -88.213026,15.499120 ]
     },
     "properties": {
-    "Registration_number":2005.1902,
+    "Registration_number":"2005.1902",
     "Field_number":"MW10878",
     "Class":"Reptilia",
     "Order":"Squamata",
@@ -2416,7 +2416,7 @@
     "Genus":"Ninia",
     "Species":"sebae",
     "Country":"Honduras",
-    "Locality":" Cortes: Cusuco National Park",
+    "Locality":" Cort�s: Cusuco National Park",
     "Extent":10,
     "Notes":"Took centroid of park. Extent determined as distance from centroid to Cofradia.",
     "Collector_donor":"Simon Maddock",
@@ -2432,7 +2432,7 @@
        "coordinates":  [ -88.213026,15.499120 ]
     },
     "properties": {
-    "Registration_number":2005.1903,
+    "Registration_number":"2005.1903",
     "Field_number":"MW10883",
     "Class":"Reptilia",
     "Order":"Squamata",
@@ -2440,7 +2440,7 @@
     "Genus":"Scaphiodontophis",
     "Species":"annulatus",
     "Country":"Honduras",
-    "Locality":" Cortes: Cusuco National Park",
+    "Locality":" Cort�s: Cusuco National Park",
     "Extent":10,
     "Notes":"Took centroid of park. Extent determined as distance from centroid to Cofradia.",
     "Collector_donor":"Simon Maddock",
@@ -2456,7 +2456,7 @@
        "coordinates":  [ -88.23493,15.50947 ]
     },
     "properties": {
-    "Registration_number":2005.1904,
+    "Registration_number":"2005.1904",
     "Field_number":"MW10870",
     "Class":"Reptilia",
     "Order":"Squamata",
@@ -2464,7 +2464,7 @@
     "Genus":"Sceloporus",
     "Species":"schmidti",
     "Country":"Honduras",
-    "Locality":" Cortes: Cusuco National Park: Cantilles, T4",
+    "Locality":" Cort�s: Cusuco National Park: Cantilles, T4",
     "Extent":0,
     "Notes":"N/A",
     "Collector_donor":"Simon Maddock",
@@ -2480,7 +2480,7 @@
        "coordinates":  [ -88.23493,15.50947 ]
     },
     "properties": {
-    "Registration_number":2005.1905,
+    "Registration_number":"2005.1905",
     "Field_number":"MW10871",
     "Class":"Reptilia",
     "Order":"Squamata",
@@ -2488,7 +2488,7 @@
     "Genus":"Sceloporus",
     "Species":"schmidti",
     "Country":"Honduras",
-    "Locality":" Cortes: Cusuco National Park: Cantilles, T4",
+    "Locality":" Cort�s: Cusuco National Park: Cantilles, T4",
     "Extent":0,
     "Notes":"N/A",
     "Collector_donor":"Simon Maddock",
@@ -2504,7 +2504,7 @@
        "coordinates":  [ -88.213026,15.499120 ]
     },
     "properties": {
-    "Registration_number":2005.1906,
+    "Registration_number":"2005.1906",
     "Field_number":"MW10884",
     "Class":"Reptilia",
     "Order":"Squamata",
@@ -2512,7 +2512,7 @@
     "Genus":"Spilotes",
     "Species":"pullatus",
     "Country":"Honduras",
-    "Locality":" Cortes: Cusuco National Park",
+    "Locality":" Cort�s: Cusuco National Park",
     "Extent":10,
     "Notes":"Took centroid of park. Extent determined as distance from centroid to Cofradia.",
     "Collector_donor":"Simon Maddock",
@@ -2528,7 +2528,7 @@
        "coordinates":  [ -88.213026,15.499120 ]
     },
     "properties": {
-    "Registration_number":2005.1907,
+    "Registration_number":"2005.1907",
     "Field_number":"MW10880",
     "Class":"Reptilia",
     "Order":"Squamata",
@@ -2536,7 +2536,7 @@
     "Genus":"Stenorrhina",
     "Species":"degenhardtii",
     "Country":"Honduras",
-    "Locality":" Cortes: Cusuco National Park",
+    "Locality":" Cort�s: Cusuco National Park",
     "Extent":10,
     "Notes":"Took centroid of park. Extent determined as distance from centroid to Cofradia.",
     "Collector_donor":"Simon Maddock",
@@ -2552,7 +2552,7 @@
        "coordinates":  [ -88.213026,15.499120 ]
     },
     "properties": {
-    "Registration_number":2005.1908,
+    "Registration_number":"2005.1908",
     "Field_number":"MW10881",
     "Class":"Reptilia",
     "Order":"Squamata",
@@ -2560,7 +2560,7 @@
     "Genus":"Stenorrhina",
     "Species":"degenhardtii",
     "Country":"Honduras",
-    "Locality":" Cortes: Cusuco National Park",
+    "Locality":" Cort�s: Cusuco National Park",
     "Extent":10,
     "Notes":"Took centroid of park. Extent determined as distance from centroid to Cofradia.",
     "Collector_donor":"Simon Maddock",
@@ -2576,7 +2576,7 @@
        "coordinates":  [ -88.213026,15.499120 ]
     },
     "properties": {
-    "Registration_number":2005.1909,
+    "Registration_number":"2005.1909",
     "Field_number":"MW10882",
     "Class":"Reptilia",
     "Order":"Squamata",
@@ -2584,7 +2584,7 @@
     "Genus":"Stenorrhina",
     "Species":"degenhardtii",
     "Country":"Honduras",
-    "Locality":" Cortes: Cusuco National Park",
+    "Locality":" Cort�s: Cusuco National Park",
     "Extent":10,
     "Notes":"Took centroid of park. Extent determined as distance from centroid to Cofradia.",
     "Collector_donor":"Simon Maddock",
@@ -2600,7 +2600,7 @@
        "coordinates":  [ -88.213026,15.499120 ]
     },
     "properties": {
-    "Registration_number":2005.191,
+    "Registration_number":"2005.1910",
     "Field_number":"MW10901",
     "Class":"Reptilia",
     "Order":"Squamata",
@@ -2608,7 +2608,7 @@
     "Genus":"Stenorrhina",
     "Species":"degenhardtii",
     "Country":"Honduras",
-    "Locality":" Cortes: Cusuco National Park: Buenes Aires",
+    "Locality":" Cort�s: Cusuco National Park: Buenes Aires",
     "Extent":10,
     "Notes":"Took centroid of park. Extent determined as distance from centroid to Cofradia.",
     "Collector_donor":"Simon Maddock",
@@ -2624,7 +2624,7 @@
        "coordinates":  [ -88.213026,15.499120 ]
     },
     "properties": {
-    "Registration_number":2005.1911,
+    "Registration_number":"2005.1911",
     "Field_number":"MW10902",
     "Class":"Reptilia",
     "Order":"Squamata",
@@ -2632,7 +2632,7 @@
     "Genus":"Stenorrhina",
     "Species":"degenhardtii",
     "Country":"Honduras",
-    "Locality":" Cortes: Cusuco National Park: Buenes Aires",
+    "Locality":" Cort�s: Cusuco National Park: Buenes Aires",
     "Extent":10,
     "Notes":"Took centroid of park. Extent determined as distance from centroid to Cofradia.",
     "Collector_donor":"Simon Maddock",
@@ -2648,7 +2648,7 @@
        "coordinates":  [ 55.837806,-4.369944 ]
     },
     "properties": {
-    "Registration_number":2005.1676,
+    "Registration_number":"2005.1676",
     "Field_number":"MW10442",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -2672,7 +2672,7 @@
        "coordinates":  [ 55.837806,-4.369944 ]
     },
     "properties": {
-    "Registration_number":2005.1677,
+    "Registration_number":"2005.1677",
     "Field_number":"MW10446",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -2696,7 +2696,7 @@
        "coordinates":  [ 55.837806,-4.369944 ]
     },
     "properties": {
-    "Registration_number":2005.1678,
+    "Registration_number":"2005.1678",
     "Field_number":"MW10447",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -2720,7 +2720,7 @@
        "coordinates":  [ 55.837806,-4.369944 ]
     },
     "properties": {
-    "Registration_number":2005.1679,
+    "Registration_number":"2005.1679",
     "Field_number":"MW10448",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -2744,7 +2744,7 @@
        "coordinates":  [ 55.837806,-4.369944 ]
     },
     "properties": {
-    "Registration_number":2005.168,
+    "Registration_number":"2005.1680",
     "Field_number":"MW10452",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -2768,7 +2768,7 @@
        "coordinates":  [ 55.436139,-4.64875 ]
     },
     "properties": {
-    "Registration_number":2005.1681,
+    "Registration_number":"2005.1681",
     "Field_number":"MW10569",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -2792,7 +2792,7 @@
        "coordinates":  [ 55.436139,-4.64875 ]
     },
     "properties": {
-    "Registration_number":2005.1682,
+    "Registration_number":"2005.1682",
     "Field_number":"MW10570",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -2816,7 +2816,7 @@
        "coordinates":  [ 55.436139,-4.64875 ]
     },
     "properties": {
-    "Registration_number":2005.1683,
+    "Registration_number":"2005.1683",
     "Field_number":"MW10571",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -2840,7 +2840,7 @@
        "coordinates":  [ 55.438417,-4.652167 ]
     },
     "properties": {
-    "Registration_number":2005.1684,
+    "Registration_number":"2005.1684",
     "Field_number":"MW10465",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -2864,7 +2864,7 @@
        "coordinates":  [ 55.438417,-4.652167 ]
     },
     "properties": {
-    "Registration_number":2005.1685,
+    "Registration_number":"2005.1685",
     "Field_number":"MW10467",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -2888,7 +2888,7 @@
        "coordinates":  [ 55.438417,-4.652167 ]
     },
     "properties": {
-    "Registration_number":2005.1686,
+    "Registration_number":"2005.1686",
     "Field_number":"MW10474",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -2912,7 +2912,7 @@
        "coordinates":  [ 55.432778,-4.657167 ]
     },
     "properties": {
-    "Registration_number":2005.1687,
+    "Registration_number":"2005.1687",
     "Field_number":"MW10576",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -2936,7 +2936,7 @@
        "coordinates":  [ 55.434139,-4.6575 ]
     },
     "properties": {
-    "Registration_number":2005.1688,
+    "Registration_number":"2005.1688",
     "Field_number":"MW10575",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -2960,7 +2960,7 @@
        "coordinates":  [ 55.411361,-4.628694 ]
     },
     "properties": {
-    "Registration_number":2005.1689,
+    "Registration_number":"2005.1689",
     "Field_number":"MW10557",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -2984,7 +2984,7 @@
        "coordinates":  [ 55.411667,-4.628222 ]
     },
     "properties": {
-    "Registration_number":2005.169,
+    "Registration_number":"2005.1690",
     "Field_number":"MW10558",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -3008,7 +3008,7 @@
        "coordinates":  [ 55.414722,-4.626611 ]
     },
     "properties": {
-    "Registration_number":2005.1691,
+    "Registration_number":"2005.1691",
     "Field_number":"MW10559",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -3032,7 +3032,7 @@
        "coordinates":  [ 55.503278,-4.709583 ]
     },
     "properties": {
-    "Registration_number":2005.1692,
+    "Registration_number":"2005.1692",
     "Field_number":"MW10482",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -3056,7 +3056,7 @@
        "coordinates":  [ 55.503306,-4.711778 ]
     },
     "properties": {
-    "Registration_number":2005.1693,
+    "Registration_number":"2005.1693",
     "Field_number":"MW 7762",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -3080,7 +3080,7 @@
        "coordinates":  [ 55.503306,-4.711778 ]
     },
     "properties": {
-    "Registration_number":2005.1694,
+    "Registration_number":"2005.1694",
     "Field_number":"MW 9507",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -3104,7 +3104,7 @@
        "coordinates":  [ 55.503306,-4.711778 ]
     },
     "properties": {
-    "Registration_number":2005.1695,
+    "Registration_number":"2005.1695",
     "Field_number":"MW 9508",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -3128,7 +3128,7 @@
        "coordinates":  [ 55.50331667,-4.7118 ]
     },
     "properties": {
-    "Registration_number":2005.1696,
+    "Registration_number":"2005.1696",
     "Field_number":"MW10479",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -3152,7 +3152,7 @@
        "coordinates":  [ 55.7408,-4.335266667 ]
     },
     "properties": {
-    "Registration_number":2005.1697,
+    "Registration_number":"2005.1697",
     "Field_number":"MW07759",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -3176,7 +3176,7 @@
        "coordinates":  [ 55.7408,-4.335266667 ]
     },
     "properties": {
-    "Registration_number":2005.1698,
+    "Registration_number":"2005.1698",
     "Field_number":"MW07760",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -3200,7 +3200,7 @@
        "coordinates":  [ 55.74025,-4.334694 ]
     },
     "properties": {
-    "Registration_number":2005.1699,
+    "Registration_number":"2005.1699",
     "Field_number":"MW10271",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -3224,7 +3224,7 @@
        "coordinates":  [ 55.74025,-4.334694 ]
     },
     "properties": {
-    "Registration_number":2005.17,
+    "Registration_number":"2005.1700",
     "Field_number":"MW10421",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -3248,7 +3248,7 @@
        "coordinates":  [ 55.74025,-4.334694 ]
     },
     "properties": {
-    "Registration_number":2005.1701,
+    "Registration_number":"2005.1701",
     "Field_number":"MW10428",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -3272,7 +3272,7 @@
        "coordinates":  [ 55.236139,-4.486222 ]
     },
     "properties": {
-    "Registration_number":2005.1702,
+    "Registration_number":"2005.1702",
     "Field_number":"MW10235",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -3296,7 +3296,7 @@
        "coordinates":  [ 55.236139,-4.486222 ]
     },
     "properties": {
-    "Registration_number":2005.1703,
+    "Registration_number":"2005.1703",
     "Field_number":"MW10236",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -3320,7 +3320,7 @@
        "coordinates":  [ 55.236139,-4.486222 ]
     },
     "properties": {
-    "Registration_number":2005.1704,
+    "Registration_number":"2005.1704",
     "Field_number":"MW10238",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -3344,7 +3344,7 @@
        "coordinates":  [ 55.236139,-4.486222 ]
     },
     "properties": {
-    "Registration_number":2005.1705,
+    "Registration_number":"2005.1705",
     "Field_number":"MW10488",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -3368,7 +3368,7 @@
        "coordinates":  [ 55.236139,-4.486222 ]
     },
     "properties": {
-    "Registration_number":2005.1706,
+    "Registration_number":"2005.1706",
     "Field_number":"MW10489",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -3392,7 +3392,7 @@
        "coordinates":  [ 55.236139,-4.486222 ]
     },
     "properties": {
-    "Registration_number":2005.1707,
+    "Registration_number":"2005.1707",
     "Field_number":"MW10490",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -3416,7 +3416,7 @@
        "coordinates":  [ 55.215639,-4.473889 ]
     },
     "properties": {
-    "Registration_number":2005.1708,
+    "Registration_number":"2005.1708",
     "Field_number":"MW10233",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -3440,7 +3440,7 @@
        "coordinates":  [ 55.215639,-4.473889 ]
     },
     "properties": {
-    "Registration_number":2005.1709,
+    "Registration_number":"2005.1709",
     "Field_number":"MW10491",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -3464,7 +3464,7 @@
        "coordinates":  [ 55.215639,-4.473889 ]
     },
     "properties": {
-    "Registration_number":2005.171,
+    "Registration_number":"2005.1710",
     "Field_number":"MW10492",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -3488,7 +3488,7 @@
        "coordinates":  [ 55.215639,-4.473889 ]
     },
     "properties": {
-    "Registration_number":2005.1711,
+    "Registration_number":"2005.1711",
     "Field_number":"MW10500",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -3512,7 +3512,7 @@
        "coordinates":  [ 55.217472,-4.480194 ]
     },
     "properties": {
-    "Registration_number":2005.1712,
+    "Registration_number":"2005.1712",
     "Field_number":"MW10583",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -3536,7 +3536,7 @@
        "coordinates":  [ 55.83273333,-4.362 ]
     },
     "properties": {
-    "Registration_number":2005.1713,
+    "Registration_number":"2005.1713",
     "Field_number":"MW10441",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -3560,7 +3560,7 @@
        "coordinates":  [ 55.83273333,-4.362 ]
     },
     "properties": {
-    "Registration_number":2005.1714,
+    "Registration_number":"2005.1714",
     "Field_number":"MW10444",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -3584,7 +3584,7 @@
        "coordinates":  [ 55.83273333,-4.362 ]
     },
     "properties": {
-    "Registration_number":2005.1715,
+    "Registration_number":"2005.1715",
     "Field_number":"MW10440",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -3608,7 +3608,7 @@
        "coordinates":  [ 55.829694,-4.374056 ]
     },
     "properties": {
-    "Registration_number":2005.1716,
+    "Registration_number":"2005.1716",
     "Field_number":"MW10445",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -3632,7 +3632,7 @@
        "coordinates":  [ 55.503852,-4.73945 ]
     },
     "properties": {
-    "Registration_number":2005.1717,
+    "Registration_number":"2005.1717",
     "Field_number":"MW10466",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -3656,7 +3656,7 @@
        "coordinates":  [ 55.491583,-4.747667 ]
     },
     "properties": {
-    "Registration_number":2005.1718,
+    "Registration_number":"2005.1718",
     "Field_number":"MW10471",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -3680,7 +3680,7 @@
        "coordinates":  [ 55.491583,-4.747667 ]
     },
     "properties": {
-    "Registration_number":2005.1719,
+    "Registration_number":"2005.1719",
     "Field_number":"MW10472",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -3704,7 +3704,7 @@
        "coordinates":  [ 55.491583,-4.747667 ]
     },
     "properties": {
-    "Registration_number":2005.172,
+    "Registration_number":"2005.1720",
     "Field_number":"MW10473",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -3728,7 +3728,7 @@
        "coordinates":  [ 55.503278,-4.709583 ]
     },
     "properties": {
-    "Registration_number":2005.1721,
+    "Registration_number":"2005.1721",
     "Field_number":"MW10485",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -3752,7 +3752,7 @@
        "coordinates":  [ 55.73893333,-4.33195 ]
     },
     "properties": {
-    "Registration_number":2005.1722,
+    "Registration_number":"2005.1722",
     "Field_number":"MW10016",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -3776,7 +3776,7 @@
        "coordinates":  [ 55.73893333,-4.33195 ]
     },
     "properties": {
-    "Registration_number":2005.1723,
+    "Registration_number":"2005.1723",
     "Field_number":"MW10017",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -3800,7 +3800,7 @@
        "coordinates":  [ 55.73893333,-4.33195 ]
     },
     "properties": {
-    "Registration_number":2005.1724,
+    "Registration_number":"2005.1724",
     "Field_number":"MW10270",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -3824,7 +3824,7 @@
        "coordinates":  [ 55.7408,-4.335266667 ]
     },
     "properties": {
-    "Registration_number":2005.1725,
+    "Registration_number":"2005.1725",
     "Field_number":"MW07761",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -3848,7 +3848,7 @@
        "coordinates":  [ 55.73886667,-4.334516667 ]
     },
     "properties": {
-    "Registration_number":2005.1726,
+    "Registration_number":"2005.1726",
     "Field_number":"MW10020",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -3872,7 +3872,7 @@
        "coordinates":  [ 55.739444,-4.334806 ]
     },
     "properties": {
-    "Registration_number":2005.1727,
+    "Registration_number":"2005.1727",
     "Field_number":"MW10422",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -3896,7 +3896,7 @@
        "coordinates":  [ 55.74375,-4.339806 ]
     },
     "properties": {
-    "Registration_number":2005.1728,
+    "Registration_number":"2005.1728",
     "Field_number":"MW10451",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -3920,7 +3920,7 @@
        "coordinates":  [ 55.74375,-4.339806 ]
     },
     "properties": {
-    "Registration_number":2005.1729,
+    "Registration_number":"2005.1729",
     "Field_number":"MW10453",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -3944,7 +3944,7 @@
        "coordinates":  [ 55.705472,-4.308139 ]
     },
     "properties": {
-    "Registration_number":2005.173,
+    "Registration_number":"2005.1730",
     "Field_number":"MW10267",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -3968,7 +3968,7 @@
        "coordinates":  [ 55.705472,-4.308139 ]
     },
     "properties": {
-    "Registration_number":2005.1731,
+    "Registration_number":"2005.1731",
     "Field_number":"MW10268",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -3992,7 +3992,7 @@
        "coordinates":  [ 55.23343333,-4.468783333 ]
     },
     "properties": {
-    "Registration_number":2005.1732,
+    "Registration_number":"2005.1732",
     "Field_number":"MW10009",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -4016,7 +4016,7 @@
        "coordinates":  [ 55.23345,-4.4688 ]
     },
     "properties": {
-    "Registration_number":2005.1733,
+    "Registration_number":"2005.1733",
     "Field_number":"MW10010",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -4040,7 +4040,7 @@
        "coordinates":  [ 55.23346667,-4.468816667 ]
     },
     "properties": {
-    "Registration_number":2005.1734,
+    "Registration_number":"2005.1734",
     "Field_number":"MW10011",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -4064,7 +4064,7 @@
        "coordinates":  [ 55.23348333,-4.468833333 ]
     },
     "properties": {
-    "Registration_number":2005.1735,
+    "Registration_number":"2005.1735",
     "Field_number":"MW10012",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -4088,7 +4088,7 @@
        "coordinates":  [ 55.237139,-4.494944 ]
     },
     "properties": {
-    "Registration_number":2005.1736,
+    "Registration_number":"2005.1736",
     "Field_number":"MW10015",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -4112,7 +4112,7 @@
        "coordinates":  [ 55.215639,-4.473889 ]
     },
     "properties": {
-    "Registration_number":2005.1737,
+    "Registration_number":"2005.1737",
     "Field_number":"MW10494",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -4136,7 +4136,7 @@
        "coordinates":  [ 55.215639,-4.473889 ]
     },
     "properties": {
-    "Registration_number":2005.1738,
+    "Registration_number":"2005.1738",
     "Field_number":"MW10495",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -4160,7 +4160,7 @@
        "coordinates":  [ 55.215639,-4.473889 ]
     },
     "properties": {
-    "Registration_number":2005.1739,
+    "Registration_number":"2005.1739",
     "Field_number":"MW10496",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -4184,7 +4184,7 @@
        "coordinates":  [ 55.215639,-4.473889 ]
     },
     "properties": {
-    "Registration_number":2005.174,
+    "Registration_number":"2005.1740",
     "Field_number":"MW10498",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -4208,7 +4208,7 @@
        "coordinates":  [ 55.21875,-4.481528 ]
     },
     "properties": {
-    "Registration_number":2005.1741,
+    "Registration_number":"2005.1741",
     "Field_number":"MW10579",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -4232,7 +4232,7 @@
        "coordinates":  [ 55.247334,-4.481012 ]
     },
     "properties": {
-    "Registration_number":2005.1742,
+    "Registration_number":"2005.1742",
     "Field_number":"MW10237",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -4256,7 +4256,7 @@
        "coordinates":  [ 55.43778333,-4.6535 ]
     },
     "properties": {
-    "Registration_number":2005.1743,
+    "Registration_number":"2005.1743",
     "Field_number":"MW10003",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -4280,7 +4280,7 @@
        "coordinates":  [ 55.43778333,-4.6535 ]
     },
     "properties": {
-    "Registration_number":2005.1744,
+    "Registration_number":"2005.1744",
     "Field_number":"MW10004",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -4304,7 +4304,7 @@
        "coordinates":  [ 55.438417,-4.652167 ]
     },
     "properties": {
-    "Registration_number":2005.1745,
+    "Registration_number":"2005.1745",
     "Field_number":"MW10462",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -4328,7 +4328,7 @@
        "coordinates":  [ 55.438417,-4.652167 ]
     },
     "properties": {
-    "Registration_number":2005.1746,
+    "Registration_number":"2005.1746",
     "Field_number":"MW10463",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -4352,7 +4352,7 @@
        "coordinates":  [ 55.438417,-4.652167 ]
     },
     "properties": {
-    "Registration_number":2005.1747,
+    "Registration_number":"2005.1747",
     "Field_number":"MW10464",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -4376,7 +4376,7 @@
        "coordinates":  [ 55.41211667,-4.637383333 ]
     },
     "properties": {
-    "Registration_number":2005.1748,
+    "Registration_number":"2005.1748",
     "Field_number":"MW10007",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -4400,7 +4400,7 @@
        "coordinates":  [ 55.415833,-4.640361 ]
     },
     "properties": {
-    "Registration_number":2005.1749,
+    "Registration_number":"2005.1749",
     "Field_number":"MW10461",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -4424,7 +4424,7 @@
        "coordinates":  [ 55.418639,-4.641694 ]
     },
     "properties": {
-    "Registration_number":2005.175,
+    "Registration_number":"2005.1750",
     "Field_number":"MW10459",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -4448,7 +4448,7 @@
        "coordinates":  [ 55.50331667,-4.7118 ]
     },
     "properties": {
-    "Registration_number":2005.1751,
+    "Registration_number":"2005.1751",
     "Field_number":"MW10480",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -4472,7 +4472,7 @@
        "coordinates":  [ 55.50331667,-4.7118 ]
     },
     "properties": {
-    "Registration_number":2005.1752,
+    "Registration_number":"2005.1752",
     "Field_number":"MW10484",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -4496,7 +4496,7 @@
        "coordinates":  [ 55.407167,-4.629806 ]
     },
     "properties": {
-    "Registration_number":2005.1753,
+    "Registration_number":"2005.1753",
     "Field_number":"MW10249",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -4520,7 +4520,7 @@
        "coordinates":  [ 55.738391,-4.33 ]
     },
     "properties": {
-    "Registration_number":2005.1754,
+    "Registration_number":"2005.1754",
     "Field_number":"MW10269",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -4544,7 +4544,7 @@
        "coordinates":  [ 55.73886667,-4.334516667 ]
     },
     "properties": {
-    "Registration_number":2005.1755,
+    "Registration_number":"2005.1755",
     "Field_number":"MW10018",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -4568,7 +4568,7 @@
        "coordinates":  [ 55.743722,-4.340139 ]
     },
     "properties": {
-    "Registration_number":2005.1756,
+    "Registration_number":"2005.1756",
     "Field_number":"MW10450",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -4592,7 +4592,7 @@
        "coordinates":  [ 55.237139,-4.494944 ]
     },
     "properties": {
-    "Registration_number":2005.1757,
+    "Registration_number":"2005.1757",
     "Field_number":"MW10013",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -4616,7 +4616,7 @@
        "coordinates":  [ 55.237139,-4.494944 ]
     },
     "properties": {
-    "Registration_number":2005.1758,
+    "Registration_number":"2005.1758",
     "Field_number":"MW10014",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -4640,7 +4640,7 @@
        "coordinates":  [ 55.236139,-4.486222 ]
     },
     "properties": {
-    "Registration_number":2005.1759,
+    "Registration_number":"2005.1759",
     "Field_number":"MW10487",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -4664,7 +4664,7 @@
        "coordinates":  [ 55.739444,-4.334806 ]
     },
     "properties": {
-    "Registration_number":2005.176,
+    "Registration_number":"2005.1760",
     "Field_number":"MW10423",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -4688,7 +4688,7 @@
        "coordinates":  [ 55.74375,-4.339806 ]
     },
     "properties": {
-    "Registration_number":2005.1761,
+    "Registration_number":"2005.1761",
     "Field_number":"MW10458",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -4712,7 +4712,7 @@
        "coordinates":  [ 55.407167,-4.629806 ]
     },
     "properties": {
-    "Registration_number":2005.1762,
+    "Registration_number":"2005.1762",
     "Field_number":"MW10250",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -4736,7 +4736,7 @@
        "coordinates":  [ 55.407167,-4.629806 ]
     },
     "properties": {
-    "Registration_number":2005.1763,
+    "Registration_number":"2005.1763",
     "Field_number":"MW10251",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -4760,7 +4760,7 @@
        "coordinates":  [ 55.407167,-4.629806 ]
     },
     "properties": {
-    "Registration_number":2005.1764,
+    "Registration_number":"2005.1764",
     "Field_number":"MW10252",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -4784,7 +4784,7 @@
        "coordinates":  [ 55.406,-4.629889 ]
     },
     "properties": {
-    "Registration_number":2005.1765,
+    "Registration_number":"2005.1765",
     "Field_number":"MW10259",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -4808,7 +4808,7 @@
        "coordinates":  [ 55.407167,-4.629806 ]
     },
     "properties": {
-    "Registration_number":2005.1766,
+    "Registration_number":"2005.1766",
     "Field_number":"MW10255",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -4832,7 +4832,7 @@
        "coordinates":  [ 55.407167,-4.629806 ]
     },
     "properties": {
-    "Registration_number":2005.1767,
+    "Registration_number":"2005.1767",
     "Field_number":"MW10256",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -4856,7 +4856,7 @@
        "coordinates":  [ 55.407167,-4.629806 ]
     },
     "properties": {
-    "Registration_number":2005.1768,
+    "Registration_number":"2005.1768",
     "Field_number":"MW10246",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -4880,7 +4880,7 @@
        "coordinates":  [ 55.407167,-4.629806 ]
     },
     "properties": {
-    "Registration_number":2005.1769,
+    "Registration_number":"2005.1769",
     "Field_number":"MW10247",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -4904,7 +4904,7 @@
        "coordinates":  [ 55.407167,-4.629806 ]
     },
     "properties": {
-    "Registration_number":2005.177,
+    "Registration_number":"2005.1770",
     "Field_number":"MW10248",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -4928,7 +4928,7 @@
        "coordinates":  [ 55.407167,-4.629806 ]
     },
     "properties": {
-    "Registration_number":2005.1771,
+    "Registration_number":"2005.1771",
     "Field_number":"MW10244",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -4952,7 +4952,7 @@
        "coordinates":  [ 55.407167,-4.629806 ]
     },
     "properties": {
-    "Registration_number":2005.1772,
+    "Registration_number":"2005.1772",
     "Field_number":"MW10245",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -4976,7 +4976,7 @@
        "coordinates":  [ 55.407167,-4.629806 ]
     },
     "properties": {
-    "Registration_number":2005.1773,
+    "Registration_number":"2005.1773",
     "Field_number":"MW10243",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -5000,7 +5000,7 @@
        "coordinates":  [ 55.407167,-4.629806 ]
     },
     "properties": {
-    "Registration_number":2005.1774,
+    "Registration_number":"2005.1774",
     "Field_number":"MW10258",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -5024,7 +5024,7 @@
        "coordinates":  [ 55.407167,-4.629806 ]
     },
     "properties": {
-    "Registration_number":2005.1775,
+    "Registration_number":"2005.1775",
     "Field_number":"MW10257",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -5048,7 +5048,7 @@
        "coordinates":  [ 55.407167,-4.629806 ]
     },
     "properties": {
-    "Registration_number":2005.1776,
+    "Registration_number":"2005.1776",
     "Field_number":"MW10253",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -5072,7 +5072,7 @@
        "coordinates":  [ 55.407167,-4.629806 ]
     },
     "properties": {
-    "Registration_number":2005.1777,
+    "Registration_number":"2005.1777",
     "Field_number":"MW10254",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -5096,7 +5096,7 @@
        "coordinates":  [ 55.406,-4.629889 ]
     },
     "properties": {
-    "Registration_number":2005.1778,
+    "Registration_number":"2005.1778",
     "Field_number":"MW10261",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -5120,7 +5120,7 @@
        "coordinates":  [ 55.406,-4.629889 ]
     },
     "properties": {
-    "Registration_number":2005.1779,
+    "Registration_number":"2005.1779",
     "Field_number":"MW10262",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -5144,7 +5144,7 @@
        "coordinates":  [ 55.411667,-4.628333 ]
     },
     "properties": {
-    "Registration_number":2005.178,
+    "Registration_number":"2005.1780",
     "Field_number":"MW10239",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -5168,7 +5168,7 @@
        "coordinates":  [ 55.4985,-4.632383333 ]
     },
     "properties": {
-    "Registration_number":2005.1795,
+    "Registration_number":"2005.1795",
     "Field_number":"MW10025",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -5192,7 +5192,7 @@
        "coordinates":  [ 55.4985,-4.632383333 ]
     },
     "properties": {
-    "Registration_number":2005.1796,
+    "Registration_number":"2005.1796",
     "Field_number":"MW10026",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -5216,7 +5216,7 @@
        "coordinates":  [ 55.874028,-4.326917 ]
     },
     "properties": {
-    "Registration_number":2005.1797,
+    "Registration_number":"2005.1797",
     "Field_number":"MW10272",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -5240,7 +5240,7 @@
        "coordinates":  [ 55.874028,-4.326917 ]
     },
     "properties": {
-    "Registration_number":2005.1798,
+    "Registration_number":"2005.1798",
     "Field_number":"MW10273",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -5264,7 +5264,7 @@
        "coordinates":  [ 55.874028,-4.326917 ]
     },
     "properties": {
-    "Registration_number":2005.1799,
+    "Registration_number":"2005.1799",
     "Field_number":"MW10274",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -5288,7 +5288,7 @@
        "coordinates":  [ 55.873194,-4.327611 ]
     },
     "properties": {
-    "Registration_number":2005.18,
+    "Registration_number":"2005.1800",
     "Field_number":"MW10275",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -5312,7 +5312,7 @@
        "coordinates":  [ 55.874028,-4.326917 ]
     },
     "properties": {
-    "Registration_number":2005.1801,
+    "Registration_number":"2005.1801",
     "Field_number":"MW10276",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -5336,7 +5336,7 @@
        "coordinates":  [ 55.874028,-4.326917 ]
     },
     "properties": {
-    "Registration_number":2005.1802,
+    "Registration_number":"2005.1802",
     "Field_number":"MW10277",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -5360,7 +5360,7 @@
        "coordinates":  [ 55.83273333,-4.362 ]
     },
     "properties": {
-    "Registration_number":2005.1803,
+    "Registration_number":"2005.1803",
     "Field_number":"MW10432",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -5384,7 +5384,7 @@
        "coordinates":  [ 55.83273333,-4.362 ]
     },
     "properties": {
-    "Registration_number":2005.1804,
+    "Registration_number":"2005.1804",
     "Field_number":"MW10433",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -5408,7 +5408,7 @@
        "coordinates":  [ 55.83273333,-4.362 ]
     },
     "properties": {
-    "Registration_number":2005.1805,
+    "Registration_number":"2005.1805",
     "Field_number":"MW10434",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -5432,7 +5432,7 @@
        "coordinates":  [ 55.83273333,-4.362 ]
     },
     "properties": {
-    "Registration_number":2005.1806,
+    "Registration_number":"2005.1806",
     "Field_number":"MW10435",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -5456,7 +5456,7 @@
        "coordinates":  [ 55.844444,-4.347056 ]
     },
     "properties": {
-    "Registration_number":2005.1807,
+    "Registration_number":"2005.1807",
     "Field_number":"MW10436",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -5480,7 +5480,7 @@
        "coordinates":  [ 55.844444,-4.347056 ]
     },
     "properties": {
-    "Registration_number":2005.1808,
+    "Registration_number":"2005.1808",
     "Field_number":"MW10437",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -5504,7 +5504,7 @@
        "coordinates":  [ 55.440444,-4.626583 ]
     },
     "properties": {
-    "Registration_number":2005.1809,
+    "Registration_number":"2005.1809",
     "Field_number":"MW10241",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -5528,7 +5528,7 @@
        "coordinates":  [ 55.440444,-4.626583 ]
     },
     "properties": {
-    "Registration_number":2005.181,
+    "Registration_number":"2005.1810",
     "Field_number":"MW10481",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -5552,7 +5552,7 @@
        "coordinates":  [ 55.418639,-4.641694 ]
     },
     "properties": {
-    "Registration_number":2005.1811,
+    "Registration_number":"2005.1811",
     "Field_number":"MW10460",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -5576,7 +5576,7 @@
        "coordinates":  [ 55.406,-4.629889 ]
     },
     "properties": {
-    "Registration_number":2005.1812,
+    "Registration_number":"2005.1812",
     "Field_number":"MW10260",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -5600,7 +5600,7 @@
        "coordinates":  [ 55.73886667,-4.334516667 ]
     },
     "properties": {
-    "Registration_number":2005.1813,
+    "Registration_number":"2005.1813",
     "Field_number":"MW10019",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -5624,7 +5624,7 @@
        "coordinates":  [ 55.74375,-4.339806 ]
     },
     "properties": {
-    "Registration_number":2005.1814,
+    "Registration_number":"2005.1814",
     "Field_number":"MW10449",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -5648,7 +5648,7 @@
        "coordinates":  [ 55.215639,-4.473889 ]
     },
     "properties": {
-    "Registration_number":2005.1815,
+    "Registration_number":"2005.1815",
     "Field_number":"MW10234",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -5672,7 +5672,7 @@
        "coordinates":  [ 55.215639,-4.473889 ]
     },
     "properties": {
-    "Registration_number":2005.1816,
+    "Registration_number":"2005.1816",
     "Field_number":"MW10242",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -5696,7 +5696,7 @@
        "coordinates":  [ 55.215639,-4.473889 ]
     },
     "properties": {
-    "Registration_number":2005.1817,
+    "Registration_number":"2005.1817",
     "Field_number":"MW10493",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -5720,7 +5720,7 @@
        "coordinates":  [ 55.215639,-4.473889 ]
     },
     "properties": {
-    "Registration_number":2005.1818,
+    "Registration_number":"2005.1818",
     "Field_number":"MW10497",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -5744,7 +5744,7 @@
        "coordinates":  [ 55.215639,-4.473889 ]
     },
     "properties": {
-    "Registration_number":2005.1819,
+    "Registration_number":"2005.1819",
     "Field_number":"MW10499",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -5768,7 +5768,7 @@
        "coordinates":  [ 55.407167,-4.629806 ]
     },
     "properties": {
-    "Registration_number":2005.1839,
+    "Registration_number":"2005.1839",
     "Field_number":"MW10263",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -5792,7 +5792,7 @@
        "coordinates":  [ 55.407167,-4.629806 ]
     },
     "properties": {
-    "Registration_number":2005.184,
+    "Registration_number":"2005.1840",
     "Field_number":"MW10264",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -5816,7 +5816,7 @@
        "coordinates":  [ 55.407167,-4.629806 ]
     },
     "properties": {
-    "Registration_number":2005.1841,
+    "Registration_number":"2005.1841",
     "Field_number":"MW10265",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -5840,7 +5840,7 @@
        "coordinates":  [ 55.407167,-4.629806 ]
     },
     "properties": {
-    "Registration_number":2005.1842,
+    "Registration_number":"2005.1842",
     "Field_number":"MW10266",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -5864,7 +5864,7 @@
        "coordinates":  [ 55.236139,-4.486222 ]
     },
     "properties": {
-    "Registration_number":2005.1843,
+    "Registration_number":"2005.1843",
     "Field_number":"MW10008",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -5888,7 +5888,7 @@
        "coordinates":  [ 55.217472,-4.480194 ]
     },
     "properties": {
-    "Registration_number":2005.1844,
+    "Registration_number":"2005.1844",
     "Field_number":"MW10577",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -5912,7 +5912,7 @@
        "coordinates":  [ 55.217472,-4.480194 ]
     },
     "properties": {
-    "Registration_number":2005.1845,
+    "Registration_number":"2005.1845",
     "Field_number":"MW10578",
     "Class":"Amphibia",
     "Order":"Gymnophiona",
@@ -5936,7 +5936,7 @@
        "coordinates":  [ 55.943611,-4.582111 ]
     },
     "properties": {
-    "Registration_number":2005.1846,
+    "Registration_number":"2005.1846",
     "Field_number":"MW10565",
     "Class":"Reptilia",
     "Order":"Squamata",
@@ -5960,7 +5960,7 @@
        "coordinates":  [ 55.83273333,-4.362 ]
     },
     "properties": {
-    "Registration_number":2005.1847,
+    "Registration_number":"2005.1847",
     "Field_number":"MW10438",
     "Class":"Reptilia",
     "Order":"Squamata",
@@ -5984,7 +5984,7 @@
        "coordinates":  [ 55.83273333,-4.362 ]
     },
     "properties": {
-    "Registration_number":2005.1848,
+    "Registration_number":"2005.1848",
     "Field_number":"MW10439",
     "Class":"Reptilia",
     "Order":"Squamata",
@@ -6008,7 +6008,7 @@
        "coordinates":  [ 55.83273333,-4.362 ]
     },
     "properties": {
-    "Registration_number":2005.1849,
+    "Registration_number":"2005.1849",
     "Field_number":"MW10443",
     "Class":"Reptilia",
     "Order":"Squamata",
@@ -6032,7 +6032,7 @@
        "coordinates":  [ 55.217472,-4.480194 ]
     },
     "properties": {
-    "Registration_number":2005.185,
+    "Registration_number":"2005.1850",
     "Field_number":"MW10240",
     "Class":"Reptilia",
     "Order":"Squamata",
@@ -6047,6 +6047,2766 @@
     "Comments":"Altitude N/A; Collected on Not listed; Field notes: None",
     "Type_status":"Non-type",
     "Genetic_resources":"Frozen (Possible)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.272226,3.263313 ]
+    },
+    "properties": {
+    "Registration_number":"1892.6.3.23",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Ichthophiidae",
+    "Genus":"Ichthyophis",
+    "Species":"dulitensis",
+    "Country":"Malaysia",
+    "Locality":"2000ft Mount Dulit, Sarawak, Borneo",
+    "Extent":19.2,
+    "Notes":"Centroid taken from the ridgepoint slightly to the east of the peak of Mount Dulit. This was to try and ensure that the extent included all areas at 2000ft = ~600metres. Mapped the ridge of the mountain as if it were a river following the highest point along and then took the midway point.�Amphibia web comments that the locality is above 2000ft, so this is what was used.",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.746597,-1.589442 ]
+    },
+    "properties": {
+    "Registration_number":"1946.9.5.8",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Caeciliidae",
+    "Genus":"Oscaecilia",
+    "Species":"bassleri",
+    "Country":"Ecuador",
+    "Locality":"Canelos, Ecuador",
+    "Extent":5,
+    "Notes":"A very small town within the Ecuadorian canton of�Pastaza.�Centroid is taken using the Google direction tool from the town of Canelos. Extent calculated very roughly using a 5km radius around the area, so certainity is very low.�",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.903607,10.480592 ]
+    },
+    "properties": {
+    "Registration_number":"1881.4.9.5",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Typhlonectidae",
+    "Genus":"Typhlonectes",
+    "Species":"natans",
+    "Country":"Venezuela",
+    "Locality":"Caracas, South America",
+    "Extent":25.25,
+    "Notes":"Centroid taken from the town of Caracas, which I think the locality description refers to, although I could be wrong. Extent is taken to include the geographic area of Caracas (Capital District), however it seems quite unlikley to have been found in that region, could have been in the surrounding hills, therefore certainity is quite low.�",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.492628,-4.673863 ]
+    },
+    "properties": {
+    "Registration_number":"1949.9.5.20",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Indotyphlidae",
+    "Genus":"Grandisonia",
+    "Species":"larvata",
+    "Country":"Seychelles",
+    "Locality":"Cascade Estate, Mahe, 1000ft, Seychelles",
+    "Extent":5.67,
+    "Notes":"Centroid taken from the midpoint at that altitude in that region. Then extent taken to all the areas at that altitude in the region.�Treated like a river as the altitude follows a clear line (ridge) to take extent.�1000ft taken as 300m, using Google maps topography tool. ",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.497018,-4.670554 ]
+    },
+    "properties": {
+    "Registration_number":"1946.9.5.41",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Indotyphlidae",
+    "Genus":"Grandisonia",
+    "Species":"larvata",
+    "Country":"Seychelles",
+    "Locality":"Cascade, Mahe, Seychelles",
+    "Extent":3.26,
+    "Notes":"District of Cascade, on the island of Mahe, largest island of the Seychelles archipelago. Geographic centroid according to Google maps zoomed into the fullest. Used directions tool to find the centroid to provide co-ordinates (provides repeatable centroid), to fullest extent western edge",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.205694,-13.722526 ]
+    },
+    "properties": {
+    "Registration_number":"1946.9.5.74",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Caeciliidae",
+    "Genus":"Oscaecilia",
+    "Species":"bassleri",
+    "Country":"Peru",
+    "Locality":"Chaquimayo, Carabaya, Peru",
+    "Extent":103.25,
+    "Notes":"Best guess centroid taken from the region of Carabaya, Peru.",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.388578,8.584898 ]
+    },
+    "properties": {
+    "Registration_number":"1901.12.19.137",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Dermophiidae",
+    "Genus":"Dermophis",
+    "Species":"gracilior",
+    "Country":"Panama",
+    "Locality":"Chiriqui",
+    "Extent":103.01,
+    "Notes":"Centroid taken from the region of Chiriqui in Panama, centroid taken from Google directions tool to the furthest extent in the south-west corner. ",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.721725,-4.281591 ]
+    },
+    "properties": {
+    "Registration_number":"1937.7.24.13",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Indotyphlidae",
+    "Genus":"Hypogeophis",
+    "Species":"rostratus",
+    "Country":"Seychelles",
+    "Locality":"Curieuse Island, Seychelles",
+    "Extent":2.6,
+    "Notes":"Centroid taken from using island direction centering, zoomed to fullest extent. Then measured to the western-most edge of the island in the Seychelles archipelago.�",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.721725,-4.281591 ]
+    },
+    "properties": {
+    "Registration_number":"1937.7.24.14",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Indotyphlidae",
+    "Genus":"Hypogeophis",
+    "Species":"rostratus",
+    "Country":"Seychelles",
+    "Locality":"Curieuse Island, Seychelles",
+    "Extent":2.6,
+    "Notes":"Centroid taken from using island direction centering, zoomed to fullest extent. Then measured to the western-most edge of the island in the Seychelles archipelago.�",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 88.262676,27.036007 ]
+    },
+    "properties": {
+    "Registration_number":"1887.11.2.28",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Ichthyophiidae",
+    "Genus":"Ichthyophis",
+    "Species":"sikkimensis",
+    "Country":"India",
+    "Locality":"Darjeeling, West Bengal State, India",
+    "Extent":5.1,
+    "Notes":"Centroid taken from the town of Darjeeling, West Bengal State. Taken to fullest extent at the southern tip. Uncertainity low due to likelihood of it being found in the surrounding region. ",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -10.890334,8.240382 ]
+    },
+    "properties": {
+    "Registration_number":"1946.9.5.67",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Dermophiidae",
+    "Genus":"Geotrypetes",
+    "Species":"seraphini",
+    "Country":"Sierra Leone",
+    "Locality":"Eastern Province, Sierra Leone",
+    "Extent":104.67,
+    "Notes":"Eastern most province of Seirra Leone. Geographic centroid according to Google maps, zoomed into the fullest after using directions tool to find the centroid to provide co-ordinates (provides repeatable centroid), to fullest extent southern tip",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.797237,-0.590945 ]
+    },
+    "properties": {
+    "Registration_number":"1895.2.18.4",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Dermophiidae",
+    "Genus":"Geotrypetes",
+    "Species":"seraphini",
+    "Country":"Gaboon",
+    "Locality":"Gaboon",
+    "Extent":387.95,
+    "Notes":"Centroid taken from using country (Gabon) centroid, zoomed to fullest extent. Then measured to the north-eastern edge of the country.",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.833459,9.163085 ]
+    },
+    "properties": {
+    "Registration_number":"1969.976",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Indotyphlidae",
+    "Genus":"Sylvacaecilia",
+    "Species":"grandisonae",
+    "Country":"Ethiopia",
+    "Locality":"Ghimbi, Wellega, Ethiopia, 2150m",
+    "Extent":5,
+    "Notes":"Centroid taken from the town of Ghimbi in the Wellega region. The centroid was taken above 2,150m and the extent covers areas also above this altitude.",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.39986,6.471472 ]
+    },
+    "properties": {
+    "Registration_number":"1946.9.5.38",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Dermophiidae",
+    "Genus":"Geotrypetes",
+    "Species":"seraphini",
+    "Country":"Liberia",
+    "Locality":"Gold Coast, Liberia",
+    "Extent":605,
+    "Notes":"Centroid for Liberia approximated and then took extent to furthest country border. ",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.463778,-4.677392 ]
+    },
+    "properties": {
+    "Registration_number":"1970.285",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Indotyphlidae",
+    "Genus":"Hypogeophis",
+    "Species":"rostratus",
+    "Country":"Seychelles",
+    "Locality":"Grand Anse, Mahe, Seychelles",
+    "Extent":3.52,
+    "Notes":"District of Grand nse, on the island of Mahe, largest island of the Seychelles archipelago. Geographic centroid according to Google maps zoomed into the fullest. Used directions tool to find the centroid to provide co-ordinates (provides repeatable centroid), to fullest extent south western edge",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -11.071176,7.046776 ]
+    },
+    "properties": {
+    "Registration_number":"1946.9.5.37",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Dermophiidae",
+    "Genus":"Geotrypetes",
+    "Species":"seraphini",
+    "Country":"Liberia",
+    "Locality":"Grand Cape Mount, Liberia",
+    "Extent":66.17,
+    "Notes":"A county in the northwestern portion of Liberia. Geographic centroid according to Google maps zoomed into the fullest. Used directions tool to find the centroid to provide co-ordinates (provides repeatable centroid), to fullest extent northern tip",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.589141,0.267931 ]
+    },
+    "properties": {
+    "Registration_number":"1878.1.25.48",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Rhinatrematidae",
+    "Genus":"Epicrionops",
+    "Species":"bicolor",
+    "Country":"Ecuador",
+    "Locality":"Intac, Ecuador 3900ft",
+    "Extent":2.3,
+    "Notes":"Cannot find a locality for Intac, Ecuador. Can find the locality for a tiny river in the appropriate habitat range, however unsure if this is the correct locality. This centroid was taken from the same river at the correct altitude.",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.541374,0.33039 ]
+    },
+    "properties": {
+    "Registration_number":"1946.9.5.15",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Caeciliidae",
+    "Genus":"Caecilia",
+    "Species":"pachynema",
+    "Country":"Ecuador",
+    "Locality":"Intac, Ecuador",
+    "Extent":2.29,
+    "Notes":"Cannot find a locality for Intac, Ecuador. Can find the locality for a tiny river in the appropriate habitat range, however unsure if this is the correct locality.",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.712246,-7.614529 ]
+    },
+    "properties": {
+    "Registration_number":"1880.5.7.3",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Ichthyophiidae",
+    "Genus":"Ichthyophis",
+    "Species":"javanicus",
+    "Country":"Indonesia",
+    "Locality":"Java",
+    "Extent":614.3,
+    "Notes":"Using the island of Java, the centroid was taken using the directions tool from Google Maps. The extent was measured to the widest extent to the west of the island, only on the mainland. ",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.735405,9.8621 ]
+    },
+    "properties": {
+    "Registration_number":"1946.9.5.55",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Ichthyophiidae",
+    "Genus":"Uraeotyphus",
+    "Species":"narayani",
+    "Country":"India",
+    "Locality":"Kotayan, Travencore, India",
+    "Extent":89.21,
+    "Notes":"Kottayam could refer either to the northern division of the Kingdom of Travancore, or a smaller district of Kottayam within the same geographic locality. So the centroid is cautiously taken from this larger geographic area comprising of the modern districts of Idukki, Kottayam and Ernakulam.�Extent taken to the south easterly corner of this geographic area.�https://en.wikipedia.org/wiki/Northern_Division_(Travancore)",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.616272,6.666599 ]
+    },
+    "properties": {
+    "Registration_number":"1946.9.5.69",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Dermophiidae",
+    "Genus":"Geotrypetes",
+    "Species":"seraphini",
+    "Country":"Ghana",
+    "Locality":"Kumasi, Ashanti, Ghana",
+    "Extent":15.59,
+    "Notes":"Geographic centroid according to Google maps zoomed into the fullest, from the city of Kumasi, capital of the Ashanti region. Used directions tool to find the centroid to provide co-ordinates (provides repeatable centroid), to fullest extent northern-eastern tip",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -12.28913,11.323204 ]
+    },
+    "properties": {
+    "Registration_number":"1909.2.23.10",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Dermophiidae",
+    "Genus":"Geotrypetes",
+    "Species":"angeli",
+    "Country":"Guinea",
+    "Locality":"Labe, French Guinea",
+    "Extent":5.58,
+    "Notes":"Centroid taken from the small town of Labe in modern Guinea, however this is small region, so the certainity would be low. ",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.681454,-2.413452 ]
+    },
+    "properties": {
+    "Registration_number":"1936.10.1.16",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Dermophiidae",
+    "Genus":"Schistometopum",
+    "Species":"gregoril",
+    "Country":"Kenya",
+    "Locality":"Lake Peccatoni, Kenya",
+    "Extent":1.5,
+    "Notes":"Lake Peccatoni is also know as Lake Mukunguya (https://www.unk.edu/academics/biology/_files/2011%20Geluso%20P%20maculata%20Franklin%20Herp%20Rev.pdf). Extent taken around this very small lake. ",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.681454,-2.413452 ]
+    },
+    "properties": {
+    "Registration_number":"1936.10.1.17",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Dermophiidae",
+    "Genus":"Schistometopum",
+    "Species":"gregoril",
+    "Country":"Kenya",
+    "Locality":"Lake Peccatoni, Kenya",
+    "Extent":1.5,
+    "Notes":"Lake Peccatoni is also know as Lake Mukunguya (https://www.unk.edu/academics/biology/_files/2011%20Geluso%20P%20maculata%20Franklin%20Herp%20Rev.pdf). Extent taken around this very small lake. ",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.510772,6.255568 ]
+    },
+    "properties": {
+    "Registration_number":"1946.9.5.58",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Scolecomorphidae",
+    "Genus":"Scolecomorphus",
+    "Species":"kirkii",
+    "Country":"Tanzania",
+    "Locality":"Lake Tanganyika, Tanzania",
+    "Extent":334.02,
+    "Notes":"Centroid taken from Google directions of Lake Tanganyika. Then extent calcauted to the furthest extent. ",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.220428,7.411838 ]
+    },
+    "properties": {
+    "Registration_number":"1946.9.6.34",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Dermophiidae",
+    "Genus":"Geotrypetes",
+    "Species":"seraphini",
+    "Country":"Ghana",
+    "Locality":"Lake Volta, Ghana",
+    "Extent":220.2,
+    "Notes":"Estimated centroid taken from the centre of a very large lake, extent taken to the widest point where the rivers meet the body of water, in this case out the the north-easterly corner.�",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.220428,7.411838 ]
+    },
+    "properties": {
+    "Registration_number":"1946.9.6.35",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Dermophiidae",
+    "Genus":"Geotrypetes",
+    "Species":"seraphini",
+    "Country":"Ghana",
+    "Locality":"Lake Volta, Ghana",
+    "Extent":220.2,
+    "Notes":"Estimated centroid taken from the centre of a very large lake, extent taken to the widest point where the rivers meet the body of water, in this case out the the north-easterly corner.�",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100.81523,4.859301 ]
+    },
+    "properties": {
+    "Registration_number":"1898.9.22.208",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Ichthophiidae",
+    "Genus":"Ichthyophis",
+    "Species":"larutensis",
+    "Country":"Malaysia",
+    "Locality":"Larut hills, perak, Malaysia, 3,380ft",
+    "Extent":4.38,
+    "Notes":"Amphibian species of the world has more specific information on the locality of the specimen. It comments that is found near maxwell's bungalow in the Larut hills. It is difficult to find any location for the larut hills, but Maxwell's bungalow can be found in the hills east of Taiping, which is in the correct wider locality. Many of the place names incude Larut in the title of this small mountain range. Using the highest point of these hills, around the maxwell bungalows, as the centroid, the extent includes all areas within the correct altitude - https://en.wikipedia.org/wiki/Bukit_Larut",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.307914,6.448092 ]
+    },
+    "properties": {
+    "Registration_number":"1946.9.5.36",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Dermophiidae",
+    "Genus":"Geotrypetes",
+    "Species":"seraphini",
+    "Country":"Liberia",
+    "Locality":"Liberia",
+    "Extent":303.92,
+    "Notes":"Used Liberia centroid and fullest extent",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.497018,-4.670554 ]
+    },
+    "properties": {
+    "Registration_number":"1946.1.2.3.5",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Indotyphlidae",
+    "Genus":"Grandisonia",
+    "Species":"sechellensis",
+    "Country":"Seychelles",
+    "Locality":"Mahe, Cascade, Seychelles",
+    "Extent":3.26,
+    "Notes":"District of Cascade, on the island of Mahe, largest island of the Seychelles archipelago. Geographic centroid according to Google maps zoomed into the fullest. Used directions tool to find the centroid to provide co-ordinates (provides repeatable centroid), to fullest extent western edge",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.497018,-4.670554 ]
+    },
+    "properties": {
+    "Registration_number":"1946.9.5.26",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Indotyphlidae",
+    "Genus":"Grandisonia",
+    "Species":"sechellensis",
+    "Country":"Seychelles",
+    "Locality":"Mahe, Cascade, Seychelles",
+    "Extent":3.26,
+    "Notes":"District of Cascade, on the island of Mahe, largest island of the Seychelles archipelago. Geographic centroid according to Google maps zoomed into the fullest. Used directions tool to find the centroid to provide co-ordinates (provides repeatable centroid), to fullest extent western edge",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.497018,-4.670554 ]
+    },
+    "properties": {
+    "Registration_number":"1946.9.5.27",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Indotyphlidae",
+    "Genus":"Grandisonia",
+    "Species":"sechellensis",
+    "Country":"Seychelles",
+    "Locality":"Mahe, Cascade, Seychelles",
+    "Extent":3.26,
+    "Notes":"District of Cascade, on the island of Mahe, largest island of the Seychelles archipelago. Geographic centroid according to Google maps zoomed into the fullest. Used directions tool to find the centroid to provide co-ordinates (provides repeatable centroid), to fullest extent western edge",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.497018,-4.670554 ]
+    },
+    "properties": {
+    "Registration_number":"1946.9.5.28",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Indotyphlidae",
+    "Genus":"Grandisonia",
+    "Species":"sechellensis",
+    "Country":"Seychelles",
+    "Locality":"Mahe, Cascade, Seychelles",
+    "Extent":3.26,
+    "Notes":"District of Cascade, on the island of Mahe, largest island of the Seychelles archipelago. Geographic centroid according to Google maps zoomed into the fullest. Used directions tool to find the centroid to provide co-ordinates (provides repeatable centroid), to fullest extent western edge",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.497018,-4.670554 ]
+    },
+    "properties": {
+    "Registration_number":"1946.9.5.29",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Indotyphlidae",
+    "Genus":"Grandisonia",
+    "Species":"sechellensis",
+    "Country":"Seychelles",
+    "Locality":"Mahe, Cascade, Seychelles",
+    "Extent":3.26,
+    "Notes":"District of Cascade, on the island of Mahe, largest island of the Seychelles archipelago. Geographic centroid according to Google maps zoomed into the fullest. Used directions tool to find the centroid to provide co-ordinates (provides repeatable centroid), to fullest extent western edge",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.497018,-4.670554 ]
+    },
+    "properties": {
+    "Registration_number":"1946.9.5.30",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Indotyphlidae",
+    "Genus":"Grandisonia",
+    "Species":"sechellensis",
+    "Country":"Seychelles",
+    "Locality":"Mahe, Cascade, Seychelles",
+    "Extent":3.26,
+    "Notes":"District of Cascade, on the island of Mahe, largest island of the Seychelles archipelago. Geographic centroid according to Google maps zoomed into the fullest. Used directions tool to find the centroid to provide co-ordinates (provides repeatable centroid), to fullest extent western edge",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.492628,-4.673863 ]
+    },
+    "properties": {
+    "Registration_number":"1946.9.5.45",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Indotyphlidae",
+    "Genus":"Grandisonia",
+    "Species":"sechellensis",
+    "Country":"Seychelles",
+    "Locality":"Mahe, Cascade, Seychelles 1,200ft",
+    "Extent":5.67,
+    "Notes":"Centroid taken from the midpoint at that altitude in that region. Calcuated as the same as the collection at 1000ft due to difficulty in distinguishing the 200 ft difference using tools provided. Also extent will cover the same area. Then extent taken to all the areas at that altitude in the region.�Treated like a river as the altitude follows a clear line (ridge) to take extent.�1000ft taken as 300m, using Google maps topography tool.�",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.492628,-4.673863 ]
+    },
+    "properties": {
+    "Registration_number":"1946.9.5.44",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Indotyphlidae",
+    "Genus":"Grandisonia",
+    "Species":"sechellensis",
+    "Country":"Seychelles",
+    "Locality":"Mahe, Cascade, Seychelles, 1000ft",
+    "Extent":5.67,
+    "Notes":"Centroid taken from the midpoint at that altitude in that region. Then extent taken to all the areas at that altitude in the region.�Treated like a river as the altitude follows a clear line (ridge) to take extent.�1000ft taken as 300m, using Google maps topography tool. ",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.480397,-4.68267 ]
+    },
+    "properties": {
+    "Registration_number":"1946.9.5.42",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Indotyphlidae",
+    "Genus":"Grandisonia",
+    "Species":"larvata",
+    "Country":"Seychelles",
+    "Locality":"Mahe, Seychelles",
+    "Extent":14.95,
+    "Notes":"Centroid taken from using island direction centering, zoomed to fullest extent. Then measured to the southern-most tip of the island in the Seychelles archipelago. ",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.480397,-4.68267 ]
+    },
+    "properties": {
+    "Registration_number":"1946.9.5.43",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Indotyphlidae",
+    "Genus":"Grandisonia",
+    "Species":"larvata",
+    "Country":"Seychelles",
+    "Locality":"Mahe, Seychelles",
+    "Extent":14.95,
+    "Notes":"Centroid taken from using island direction centering, zoomed to fullest extent. Then measured to the southern-most tip of the island in the Seychelles archipelago. ",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.271083,10.850683 ]
+    },
+    "properties": {
+    "Registration_number":"1946.9.5.16",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Icthyophiidae",
+    "Genus":"Uraeotyphlus",
+    "Species":"malabaricus",
+    "Country":"India",
+    "Locality":"Malabar, India",
+    "Extent":261.65,
+    "Notes":"Evidence is patchy as where exatcly \"malabar\" located.�Historically�it is the northern part of the kerala state, at this period of India's history, but could also refer to the Malabar coast, which extends all along the western coast. https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Malabar (Encyclopaedia Britainnica). However, other sources are unable to give a direct location.�Instead extent is taken from the region of Kerala",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.271083,10.850683 ]
+    },
+    "properties": {
+    "Registration_number":"1882.12.12.6",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Ichthophiidae",
+    "Genus":"Ichthyophis",
+    "Species":"bombayensis",
+    "Country":"India",
+    "Locality":"Malabar, Western Ghats, India",
+    "Extent":261.65,
+    "Notes":"Evidence is patchy as where exatcly \"malabar\" located.�Historically�it is the northern part of the kerala state, at this period of India's history, but could also refer to the Malabar coast, which extends all along the western coast. https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Malabar (Encyclopaedia Britainnica). However, other sources are unable to give a direct location.�Instead extent is taken from the region of Kerala",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.976754,-13.591122 ]
+    },
+    "properties": {
+    "Registration_number":"1902.5.29.207",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Rhinatrematidae",
+    "Genus":"Epicrionops",
+    "Species":"peruvianus",
+    "Country":"Peru",
+    "Locality":"Marcapata Valley, East Peru",
+    "Extent":15,
+    "Notes":"Marcapata found as a distrcit with the centroid located in the valley. Although is a bit of a guess. Extent is drawn to cover the surrounding valley. ",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.19344,1.584487 ]
+    },
+    "properties": {
+    "Registration_number":"1872.2.19.59",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Ichthophiidae",
+    "Genus":"Ichthyophis",
+    "Species":"biangularis",
+    "Country":"Malaysia",
+    "Locality":"Matang, North Borneo",
+    "Extent":8,
+    "Notes":"Given the name and evidence available, I believe mount matang to be�to the west of the town of�Kuching, in the Malaysian state of Sarawak, northern Borneo.�This also corroborates with the IUCN map in roughly the same area. Elaboration of the locality comes from - http://research.amnh.org/vz/herpetology/amphibia/index.php//Amphibia/Gymnophiona/Ichthyophiidae/Ichthyophis/Ichthyophis-biangularis. Centroid taken from the highest peak in the area, and an extent�",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 98.638061,18.6797 ]
+    },
+    "properties": {
+    "Registration_number":"1921.4.1.338",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Ichthophiidae",
+    "Genus":"Ichthyophis",
+    "Species":"acuminatus",
+    "Country":"Thailand",
+    "Locality":"Me Wang Valley, North Thailand",
+    "Extent":28.14,
+    "Notes":"Centroid taken from the Mae Wang District, which includes the Mae Wang valley and national park. ",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.581211,6.244202 ]
+    },
+    "properties": {
+    "Registration_number":"1897.11.12.23",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Rhinatrematidae",
+    "Genus":"Epicrionops",
+    "Species":"parkeri",
+    "Country":"Colombia",
+    "Locality":"Medellin, Colombia",
+    "Extent":20.31,
+    "Notes":"Medellin the capital of Colombia's mountainous Antioquia province. Extent taken�around the city's boundaries, provided by Google maps.",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.450777,-3.330868 ]
+    },
+    "properties": {
+    "Registration_number":"1935.2.9.3",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Herpelidae",
+    "Genus":"Boulengerula",
+    "Species":"taitana",
+    "Country":"Kenya",
+    "Locality":"Mt. Mbololo, Taita hills, 4000ft, Kenya",
+    "Extent":6.84,
+    "Notes":"Centroid taken with best evidence of it being mount Mbololo in the Taita hills. Evidence comes from papers undertaking research in this exact region. Extent taken at all the altitudes that match the locality. �- http://www.jstor.org.lib-ezproxy-live.nhm.ac.uk:2048/stable/pdf/41508753.pdf?refreqid=excelsior%3Ae0e7f6322fdb4b34666645ea66834127,�http://www.tandfonline.com.lib-ezproxy-live.nhm.ac.uk:2048/doi/abs/10.1080/21564574.2009.9635580#aHR0cDovL3d3dy50YW5kZm9ubGluZS5jb20ubGliLWV6cHJveHktbGl2ZS5uaG0uYWMudWs6MjA0OC9kb2kvcGRmLzEwLjEwODAvMjE1NjQ1NzQuMjAwOS45NjM1NTgwP25lZWRBY2Nlc3M9dHJ1ZUBAQDA=",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.450777,-3.330868 ]
+    },
+    "properties": {
+    "Registration_number":"1935.2.9.4",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Herpelidae",
+    "Genus":"Boulengerula",
+    "Species":"taitana",
+    "Country":"Kenya",
+    "Locality":"Mt. Mbololo, Taita hills, 4000ft, Kenya",
+    "Extent":6.84,
+    "Notes":"Centroid taken with best evidence of it being mount Mbololo in the Taita hills. Evidence comes from papers undertaking research in this exact region. Extent taken at all the altitudes that match the locality. �- http://www.jstor.org.lib-ezproxy-live.nhm.ac.uk:2048/stable/pdf/41508753.pdf?refreqid=excelsior%3Ae0e7f6322fdb4b34666645ea66834127,�http://www.tandfonline.com.lib-ezproxy-live.nhm.ac.uk:2048/doi/abs/10.1080/21564574.2009.9635580#aHR0cDovL3d3dy50YW5kZm9ubGluZS5jb20ubGliLWV6cHJveHktbGl2ZS5uaG0uYWMudWs6MjA0OC9kb2kvcGRmLzEwLjEwODAvMjE1NjQ1NzQuMjAwOS45NjM1NTgwP25lZWRBY2Nlc3M9dHJ1ZUBAQDA=",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101.524806,19.390789 ]
+    },
+    "properties": {
+    "Registration_number":"1961.2055",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Ichthophiidae",
+    "Genus":"Ichthyophis",
+    "Species":"acuminatus",
+    "Country":"Thailand",
+    "Locality":"Muang Liep, Thailand",
+    "Extent":217.53,
+    "Notes":"Centroid taken from the Sayaboury Province, Laos, where Muang Liep is said to be found (could not be located othewise). Provides a very large extent, but certainty likely to be high. �",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.472822,-0.229734 ]
+    },
+    "properties": {
+    "Registration_number":"1946.9.5.43",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Dermophiidae",
+    "Genus":"Schistometopum",
+    "Species":"gregoril",
+    "Country":"Kenya",
+    "Locality":"Ngatana, Kenya, Africa",
+    "Extent":332.5,
+    "Notes":"Refers to the Tana River in Kenya, centroid taken from river instructions.",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.670744,6.182968 ]
+    },
+    "properties": {
+    "Registration_number":"1946.9.5.39",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Dermophiidae",
+    "Genus":"Geotrypetes",
+    "Species":"seraphini",
+    "Country":"Ghana",
+    "Locality":"Obuasi, Ghana",
+    "Extent":5.45,
+    "Notes":"Estimated centroid found in the Obuasi Municipal, a mining region, and fullest extent (to northeast corner)",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.670744,6.182968 ]
+    },
+    "properties": {
+    "Registration_number":"1946.9.5.40",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Dermophiidae",
+    "Genus":"Geotrypetes",
+    "Species":"seraphini",
+    "Country":"Ghana",
+    "Locality":"Obuasi, Ghana",
+    "Extent":5.45,
+    "Notes":"Estimated centroid found in the Obuasi Municipal, a mining region, and fullest extent (to northeast corner)",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 98.638061,18.6797 ]
+    },
+    "properties": {
+    "Registration_number":"1961.2056",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Ichthyophiidae",
+    "Genus":"Ichthyophis",
+    "Species":"acuminatus",
+    "Country":"Thailand",
+    "Locality":"Pa Meang, Me Wang Valley, Thailand",
+    "Extent":28.14,
+    "Notes":"Pa Meang could not be found, so centroid taken from the Mae Wang District, which includes the Mae Wang valley and national park.�",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 98.638061,18.6797 ]
+    },
+    "properties": {
+    "Registration_number":"1961.2057",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Ichthyophiidae",
+    "Genus":"Ichthyophis",
+    "Species":"acuminatus",
+    "Country":"Thailand",
+    "Locality":"Pa Meang, Me Wang Valley, Thailand",
+    "Extent":28.14,
+    "Notes":"Pa Meang could not be found, so centroid taken from the Mae Wang District, which includes the Mae Wang valley and national park.�",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.966641,0.189114 ]
+    },
+    "properties": {
+    "Registration_number":"1901.3.29.116",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Caeciliidae",
+    "Genus":"Caecilia",
+    "Species":"nigricans",
+    "Country":"Ecuador",
+    "Locality":"Paramba, N.W. Ecuador 3.500ft",
+    "Extent":205.03,
+    "Notes":"Unsure where Paramba refers to. Could be a region which comes up as Parambas park along the�rio mira in Northern Ecuador, so instead took the locality for North West Ecuador.�Using a best guess centroid in the north west. ",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.966641,0.189114 ]
+    },
+    "properties": {
+    "Registration_number":"1901.6.27.22",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Caeciliidae",
+    "Genus":"Caecilia",
+    "Species":"nigricans",
+    "Country":"Ecuador",
+    "Locality":"Paramba, N.W. Ecuador 60ft",
+    "Extent":205.03,
+    "Notes":"Unsure where Paramba refers to. Could be a region which comes up as Parambas park along the�rio mira in Northern Ecuador, so instead took the locality for North West Ecuador.�Using a best guess centroid in the north west. ",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.457707,5.133622 ]
+    },
+    "properties": {
+    "Registration_number":"1913.11.12.133",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Caeciliidae",
+    "Genus":"Caecilia",
+    "Species":"nigricans",
+    "Country":"Colombia",
+    "Locality":"Pena Lisa, Condoto, Choco, Colombia",
+    "Extent":38.73,
+    "Notes":"Best guess centroid taken from the geographic region of Condoto, pena lisa could not be found. ",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.457707,5.133622 ]
+    },
+    "properties": {
+    "Registration_number":"1914.5.21.91",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Caeciliidae",
+    "Genus":"Caecilia",
+    "Species":"nigricans",
+    "Country":"Colombia",
+    "Locality":"Pena Lisa, Condoto, Colombia",
+    "Extent":38.73,
+    "Notes":"Best guess centroid taken from the geographic region of Condoto, pena lisa could not be found. ",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.141047,11.448065 ]
+    },
+    "properties": {
+    "Registration_number":"1874.4.29.453",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Indotyphlidae",
+    "Genus":"Gegeneophis",
+    "Species":"carnosus",
+    "Country":"India",
+    "Locality":"Periah Peak, Wynaad, 5,000ft",
+    "Extent":5.77,
+    "Notes":"Centroid taken from the locality of Wynaad in Kerala, and the extent taken to the nearest covering all the correct altitude.",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.141047,11.448065 ]
+    },
+    "properties": {
+    "Registration_number":"1874.4.29.454",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Indotyphlidae",
+    "Genus":"Gegeneophis",
+    "Species":"carnosus",
+    "Country":"India",
+    "Locality":"Periah Peak, Wynaad, 5,000ft",
+    "Extent":5.77,
+    "Notes":"Centroid taken from the locality of Wynaad in Kerala, and the extent taken to the nearest covering all the correct altitude.",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -44.29559,-22.417965 ]
+    },
+    "properties": {
+    "Registration_number":"1947.2.13.87",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Siphonopidae",
+    "Genus":"Siphonops",
+    "Species":"hardyi",
+    "Country":"Brazil",
+    "Locality":"Porto Real, State in Rio de Janiero, Brazil",
+    "Extent":9.42,
+    "Notes":"Porto Real is a municipality located in the Brazilian state of Rio de Janeiro. Centroid taken from this small town so certainty is low. ",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.746726,-4.332591 ]
+    },
+    "properties": {
+    "Registration_number":"1946.9.5.21",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Indotyphlidae",
+    "Genus":"Grandisonia",
+    "Species":"larvata",
+    "Country":"Seychelles",
+    "Locality":"Praslin Island, Seychelles",
+    "Extent":8.64,
+    "Notes":"Centroid taken from using island direction centering, zoomed to fullest extent. Then measured to the western-most edge of the island in the Seychelles archipelago.�",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.746726,-4.332591 ]
+    },
+    "properties": {
+    "Registration_number":"1946.9.5.22",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Indotyphlidae",
+    "Genus":"Grandisonia",
+    "Species":"larvata",
+    "Country":"Seychelles",
+    "Locality":"Praslin Island, Seychelles",
+    "Extent":8.64,
+    "Notes":"Centroid taken from using island direction centering, zoomed to fullest extent. Then measured to the western-most edge of the island in the Seychelles archipelago.�",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.746726,-4.332591 ]
+    },
+    "properties": {
+    "Registration_number":"1946.9.5.31",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Indotyphlidae",
+    "Genus":"Grandisonia",
+    "Species":"sechellensis",
+    "Country":"Seychelles",
+    "Locality":"Praslin Island, Seychelles",
+    "Extent":8.64,
+    "Notes":"Centroid taken from using island direction centering, zoomed to fullest extent. Then measured to the western-most edge of the island in the Seychelles archipelago. ",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.746726,-4.332591 ]
+    },
+    "properties": {
+    "Registration_number":"1907.10.15.135",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Indotyphlidae",
+    "Genus":"Hypogeophis",
+    "Species":"rostratus",
+    "Country":"Seychelles",
+    "Locality":"Praslin Island, Seychelles",
+    "Extent":8.64,
+    "Notes":"Centroid taken from using island direction centering, zoomed to fullest extent. Then measured to the western-most edge of the island in the Seychelles archipelago. ",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.746726,-4.332591 ]
+    },
+    "properties": {
+    "Registration_number":"1910.3.18.80",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Indotyphlidae",
+    "Genus":"Hypogeophis",
+    "Species":"rostratus",
+    "Country":"Seychelles",
+    "Locality":"Praslin Island, Seychelles",
+    "Extent":8.64,
+    "Notes":"Centroid taken from using island direction centering, zoomed to fullest extent. Then measured to the western-most edge of the island in the Seychelles archipelago. ",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.746726,-4.332591 ]
+    },
+    "properties": {
+    "Registration_number":"1956.1.13.25",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Indotyphlidae",
+    "Genus":"Hypogeophis",
+    "Species":"rostratus",
+    "Country":"Seychelles",
+    "Locality":"Praslin Island, Seychelles",
+    "Extent":8.64,
+    "Notes":"Centroid taken from using island direction centering, zoomed to fullest extent. Then measured to the western-most edge of the island in the Seychelles archipelago. ",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.746726,-4.332591 ]
+    },
+    "properties": {
+    "Registration_number":"1956.1.13.26",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Indotyphlidae",
+    "Genus":"Hypogeophis",
+    "Species":"rostratus",
+    "Country":"Seychelles",
+    "Locality":"Praslin Island, Seychelles",
+    "Extent":8.64,
+    "Notes":"Centroid taken from using island direction centering, zoomed to fullest extent. Then measured to the western-most edge of the island in the Seychelles archipelago. ",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.746726,-4.332591 ]
+    },
+    "properties": {
+    "Registration_number":"1946.9.5.17",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Indotyphlidae",
+    "Genus":"Praslinia",
+    "Species":"cooperi",
+    "Country":"Seychelles",
+    "Locality":"Praslin Island, Seychelles",
+    "Extent":8.64,
+    "Notes":"Centroid taken from using island direction centering, zoomed to fullest extent. Then measured to the western-most edge of the island in the Seychelles archipelago. ",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.746726,-4.332591 ]
+    },
+    "properties": {
+    "Registration_number":"1946.9.5.18",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Indotyphlidae",
+    "Genus":"Praslinia",
+    "Species":"cooperi",
+    "Country":"Seychelles",
+    "Locality":"Praslin Island, Seychelles",
+    "Extent":8.64,
+    "Notes":"Centroid taken from using island direction centering, zoomed to fullest extent. Then measured to the western-most edge of the island in the Seychelles archipelago. ",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.469946,0.866764 ]
+    },
+    "properties": {
+    "Registration_number":"1901.3.29.88",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Caeciliidae",
+    "Genus":"Caecilia",
+    "Species":"nigricans",
+    "Country":"Ecuador",
+    "Locality":"Rio Lita, N.W. Ecuador 3000ft",
+    "Extent":12,
+    "Notes":"Centroid taken from the town of Lita, situated on a rio = river, at the given altitude of 910m.�Extent tries to include the nearby regions at the correct altitude, but unsure of where to limit in this inclusion, so certainty low ",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.938737,4.661064 ]
+    },
+    "properties": {
+    "Registration_number":"1910.7.11.72",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Caeciliidae",
+    "Genus":"Caecilia",
+    "Species":"nigricans",
+    "Country":"Colombia",
+    "Locality":"San Juan, Colombia, Choco",
+    "Extent":160,
+    "Notes":"Centroid taken using river protocol of the San Juan River in Colombia. ",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.187938,-0.252188 ]
+    },
+    "properties": {
+    "Registration_number":"1956.1.19.87",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Rhinatrematidae",
+    "Genus":"Epicrionops",
+    "Species":"bicolor",
+    "Country":"Ecuador",
+    "Locality":"Santo Domingo de los Colorados, N.W Ecuador",
+    "Extent":59.6,
+    "Notes":"Centroid taken from the region of Santo Domingo de los Colorados, now know as�Santo Domingo de los Ts�chilas Province. Extent taken to the widest extent in the North West corner",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.177426,-0.238905 ]
+    },
+    "properties": {
+    "Registration_number":"1956.1.15.87",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Rhinatrematidae",
+    "Genus":"Epicronops",
+    "Species":"marmoratus",
+    "Country":"Ecuador",
+    "Locality":"Santo Domingo de los Colorados, N.W Ecuador",
+    "Extent":11.53,
+    "Notes":"Centroid taken from the canton of Santo Domingo de los Coloradors, in Ecuador. Located in the wider area around the city of Santo Domingo. ",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.03163,0.982786 ]
+    },
+    "properties": {
+    "Registration_number":"1933.11.16",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Dermophiidae",
+    "Genus":"Schistometopum",
+    "Species":"thomense",
+    "Country":"Sao Tome and Principe",
+    "Locality":"Sao Tome and Principe",
+    "Extent":121.25,
+    "Notes":"These are a pair of islands of the coast of the Gabon. The description mentions both islands, and is none specific to which island. So co-ordinates are taken at a point equidistant betweeen the two islands. ",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.499576,-4.663384 ]
+    },
+    "properties": {
+    "Registration_number":"1946.9.5.46",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Indotyphlidae",
+    "Genus":"Grandisonia",
+    "Species":"larvata",
+    "Country":"Seychelles",
+    "Locality":"Sea Coast below Cascade, Mahe, Seychelles",
+    "Extent":5.74,
+    "Notes":"Centroid taken as the middle of the sea coast below Cascade, and then the extent covers this entire stretch of coastline.",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.499576,-4.663384 ]
+    },
+    "properties": {
+    "Registration_number":"1946.9.5.47",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Indotyphlidae",
+    "Genus":"Grandisonia",
+    "Species":"larvata",
+    "Country":"Seychelles",
+    "Locality":"Sea Coast below Cascade, Mahe, Seychelles",
+    "Extent":5.74,
+    "Notes":"Centroid taken as the middle of the sea coast below Cascade, and then the extent covers this entire stretch of coastline.",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.499576,-4.663384 ]
+    },
+    "properties": {
+    "Registration_number":"1946.9.5.48",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Indotyphlidae",
+    "Genus":"Grandisonia",
+    "Species":"larvata",
+    "Country":"Seychelles",
+    "Locality":"Sea Coast below Cascade, Mahe, Seychelles",
+    "Extent":5.74,
+    "Notes":"Centroid taken as the middle of the sea coast below Cascade, and then the extent covers this entire stretch of coastline.",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.583329,-4.51209 ]
+    },
+    "properties": {
+    "Registration_number":"1883.7.27.26",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Caeciliidae",
+    "Genus":"Gymnopis",
+    "Species":"multiplicata",
+    "Country":"Seychelles",
+    "Locality":"Seychelles",
+    "Extent":42.1,
+    "Notes":"Centroid taken between the main islands of the Seychelles, where caecillians have historically been found. This means the extent covers the sea, but also importantly the land areas where the specimen was probably found. Taken from the co-ordinates provided to the western furthest extent. Was a best guess at being the centre point. ",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.236969,-4.49591 ]
+    },
+    "properties": {
+    "Registration_number":"1946.9.5.23",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Indotyphlidae",
+    "Genus":"Grandisonia",
+    "Species":"larvata",
+    "Country":"Seychelles",
+    "Locality":"Silhouette Island, Seychelles",
+    "Extent":4.23,
+    "Notes":"Seychelles Island. Geographic centroid according to Google maps zoomed into the fullest. Used directions tool to find the centroid to provide co-ordinates (provides repeatable centroid), to fullest extent western edge",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.23697,-4.478637 ]
+    },
+    "properties": {
+    "Registration_number":"1946.9.5.49",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Indotyphlidae",
+    "Genus":"Grandisonia",
+    "Species":"sechellensis",
+    "Country":"Seychelles",
+    "Locality":"Silhouette Island, Seychelles",
+    "Extent":3.9,
+    "Notes":"Centroid taken from the island of Silhouette island, the coordinates were taken using the google directions tool, which meant that the centroid was to the right of the island. ",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.80805,1.351617 ]
+    },
+    "properties": {
+    "Registration_number":"1959.1.2.43",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Ichthophiidae",
+    "Genus":"Ichthophis",
+    "Species":"singaporensis",
+    "Country":"Singapore",
+    "Locality":"Singapore",
+    "Extent":31.5,
+    "Notes":"Using country centroid to cover the widest extent at the outermost western island. Assumed it included islands as well as mainland.�Certainy lower due to potential for differing historical boundaries for Singapore. ",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.021545,0.910381 ]
+    },
+    "properties": {
+    "Registration_number":"1863.12.4.5",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Ichthophiidae",
+    "Genus":"Ichthyophis",
+    "Species":"monochrous",
+    "Country":"Malaysia",
+    "Locality":"Sinkawang, West Borneo",
+    "Extent":18.55,
+    "Notes":"Centroid taken from the region of Sinkawang, West Kalimantan, West Borneo. Extent overs this region. ",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.232461,-0.033322 ]
+    },
+    "properties": {
+    "Registration_number":"1901.3.29.67",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Caeciliidae",
+    "Genus":"Caecilia",
+    "Species":"nigricans",
+    "Country":"Ecuador",
+    "Locality":"St. Javier, N.W. Ecuador",
+    "Extent":170,
+    "Notes":"Unclear where St. Javier is or what it refers to. The original discription does not give more information.�Centroid is a best guess to be in the middle of the North West region of Ecuador. Then the extent is taken to include this region",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.232461,-0.033322 ]
+    },
+    "properties": {
+    "Registration_number":"1946.9.5.5",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Caeciliidae",
+    "Genus":"Oscaecilia",
+    "Species":"bassleri",
+    "Country":"Ecuador",
+    "Locality":"St. Javier, N.W. Ecuador",
+    "Extent":170,
+    "Notes":"Unclear where St. Javier is or what it refers to. The original discription does not give more information.�Centroid is a best guess to be in the middle of the North West region of Ecuador. Then the extent is taken to include this region",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -48.846353,-26.304409 ]
+    },
+    "properties": {
+    "Registration_number":"1907.8.28.1",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Typhlonectidae",
+    "Genus":"Chthonerpeton",
+    "Species":"viviparum",
+    "Country":"Brazil",
+    "Locality":"Sta. Santa Catarina",
+    "Extent":19.63,
+    "Notes":"Extent taken the town of Joinville in Santa Catarina in Brazil. This locality was taken from the�website Amphibia species of the world, although the certianity of it being in that exact town is probably low. ",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.085641,9.024702 ]
+    },
+    "properties": {
+    "Registration_number":"1979.773",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Indotyphlidae",
+    "Genus":"Gegeneophis",
+    "Species":"ramaswamii",
+    "Country":"India",
+    "Locality":"Tenmalai Range, 550ft, Kerala State, India",
+    "Extent":10.19,
+    "Notes":"Tenmalai = Thenmala; selected 550 ft locality and then drew extent to include all areas at 550 ft near Thenmala",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.085641,9.024702 ]
+    },
+    "properties": {
+    "Registration_number":"1979.774",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Indotyphlidae",
+    "Genus":"Gegeneophis",
+    "Species":"ramaswamii",
+    "Country":"India",
+    "Locality":"Tenmalai Range, 550ft, Kerala State, India",
+    "Extent":10.19,
+    "Notes":"Tenmalai = Thenmala; selected 550 ft locality and then drew extent to include all areas at 550 ft near Thenmala",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.5125833,6.27325 ]
+    },
+    "properties": {
+    "Registration_number":"1946.9.5.70",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Indotyphlidae",
+    "Genus":"Idiocranium",
+    "Species":"russeli",
+    "Country":"Cameroon",
+    "Locality":"Tinta, under soil, Makumunu, Mamfe, Cameroon",
+    "Extent":62,
+    "Notes":"Using google maps the only location, which can be found is the tiny town of Mamfe. This provides a very low certainty. However, the location notes state the specimens were found near the village of Tinta in the Assumbo hills. Recent expeditions ot this area by Gower et al. (https://www.rgs.org/NR/rdonlyres/59C2258D-0E54-4DFA-9AE9-5727C59ACD41/0/Artice_Goweretal2014RediscoveryofIdiocraniumrusselli.pdf) provide co-ordinates for area of tinta. The centroid was taken from the co-ordinates provided from Gower et al. as Tinta 1 (), then the extent was taken to cover the town of Mamfe to provide a higher degree of certainty. The extent was taken to cover these two points. Makumunu is a valley in the assumbo hills north of the town of Mamfe.� Extent is propably overly cautious. Personally i think the locality is just within those hills.�At the time Mamfe was an entire region not just the town. So in the description it is likely to be used in this regional sense. ",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.5125833,6.27325 ]
+    },
+    "properties": {
+    "Registration_number":"1946.9.5.71",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Indotyphlidae",
+    "Genus":"Idiocranium",
+    "Species":"russeli",
+    "Country":"Cameroon",
+    "Locality":"Tinta, with holotype.",
+    "Extent":62,
+    "Notes":"Using google maps the only location, which can be found is the tiny town of Mamfe. This provides a very low certainty. However, the location notes state the specimens were found near the village of Tinta in the Assumbo hills. Recent expeditions ot this area by Gower et al. (https://www.rgs.org/NR/rdonlyres/59C2258D-0E54-4DFA-9AE9-5727C59ACD41/0/Artice_Goweretal2014RediscoveryofIdiocraniumrusselli.pdf) provide co-ordinates for area of tinta. The centroid was taken from the co-ordinates provided from Gower et al. as Tinta 1 (), then the extent was taken to cover the town of Mamfe to provide a higher degree of certainty. The extent was taken to cover these two points. Makumunu is a valley in the assumbo hills north of the town of Mamfe.� Extent is propably overly cautious. Personally i think the locality is just within those hills.�At the time Mamfe was an entire region not just the town. So in the description it is likely to be used in this regional sense. ",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.5125833,6.27325 ]
+    },
+    "properties": {
+    "Registration_number":"1946.9.5.72",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Indotyphlidae",
+    "Genus":"Idiocranium",
+    "Species":"russeli",
+    "Country":"Cameroon",
+    "Locality":"Tinta, with holotype.",
+    "Extent":62,
+    "Notes":"Using google maps the only location, which can be found is the tiny town of Mamfe. This provides a very low certainty. However, the location notes state the specimens were found near the village of Tinta in the Assumbo hills. Recent expeditions ot this area by Gower et al. (https://www.rgs.org/NR/rdonlyres/59C2258D-0E54-4DFA-9AE9-5727C59ACD41/0/Artice_Goweretal2014RediscoveryofIdiocraniumrusselli.pdf) provide co-ordinates for area of tinta. The centroid was taken from the co-ordinates provided from Gower et al. as Tinta 1 (), then the extent was taken to cover the town of Mamfe to provide a higher degree of certainty. The extent was taken to cover these two points. Makumunu is a valley in the assumbo hills north of the town of Mamfe.� Extent is propably overly cautious. Personally i think the locality is just within those hills.�At the time Mamfe was an entire region not just the town. So in the description it is likely to be used in this regional sense. ",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.5125833,6.27325 ]
+    },
+    "properties": {
+    "Registration_number":"1946.9.5.73",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Indotyphlidae",
+    "Genus":"Idiocranium",
+    "Species":"russeli",
+    "Country":"Cameroon",
+    "Locality":"Tinta, with holotype.",
+    "Extent":62,
+    "Notes":"Using google maps the only location, which can be found is the tiny town of Mamfe. This provides a very low certainty. However, the location notes state the specimens were found near the village of Tinta in the Assumbo hills. Recent expeditions ot this area by Gower et al. (https://www.rgs.org/NR/rdonlyres/59C2258D-0E54-4DFA-9AE9-5727C59ACD41/0/Artice_Goweretal2014RediscoveryofIdiocraniumrusselli.pdf) provide co-ordinates for area of tinta. The centroid was taken from the co-ordinates provided from Gower et al. as Tinta 1 (), then the extent was taken to cover the town of Mamfe to provide a higher degree of certainty. The extent was taken to cover these two points. Makumunu is a valley in the assumbo hills north of the town of Mamfe.� Extent is propably overly cautious. Personally i think the locality is just within those hills.�At the time Mamfe was an entire region not just the town. So in the description it is likely to be used in this regional sense. ",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.5125833,6.27325 ]
+    },
+    "properties": {
+    "Registration_number":"1946.9.5.74",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Indotyphlidae",
+    "Genus":"Idiocranium",
+    "Species":"russeli",
+    "Country":"Cameroon",
+    "Locality":"Tinta, with holotype.",
+    "Extent":62,
+    "Notes":"Using google maps the only location, which can be found is the tiny town of Mamfe. This provides a very low certainty. However, the location notes state the specimens were found near the village of Tinta in the Assumbo hills. Recent expeditions ot this area by Gower et al. (https://www.rgs.org/NR/rdonlyres/59C2258D-0E54-4DFA-9AE9-5727C59ACD41/0/Artice_Goweretal2014RediscoveryofIdiocraniumrusselli.pdf) provide co-ordinates for area of tinta. The centroid was taken from the co-ordinates provided from Gower et al. as Tinta 1 (), then the extent was taken to cover the town of Mamfe to provide a higher degree of certainty. The extent was taken to cover these two points. Makumunu is a valley in the assumbo hills north of the town of Mamfe.� Extent is propably overly cautious. Personally i think the locality is just within those hills.�At the time Mamfe was an entire region not just the town. So in the description it is likely to be used in this regional sense. ",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.5125833,6.27325 ]
+    },
+    "properties": {
+    "Registration_number":"1946.9.5.75",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Indotyphlidae",
+    "Genus":"Idiocranium",
+    "Species":"russeli",
+    "Country":"Cameroon",
+    "Locality":"Tinta, with holotype.",
+    "Extent":62,
+    "Notes":"Using google maps the only location, which can be found is the tiny town of Mamfe. This provides a very low certainty. However, the location notes state the specimens were found near the village of Tinta in the Assumbo hills. Recent expeditions ot this area by Gower et al. (https://www.rgs.org/NR/rdonlyres/59C2258D-0E54-4DFA-9AE9-5727C59ACD41/0/Artice_Goweretal2014RediscoveryofIdiocraniumrusselli.pdf) provide co-ordinates for area of tinta. The centroid was taken from the co-ordinates provided from Gower et al. as Tinta 1 (), then the extent was taken to cover the town of Mamfe to provide a higher degree of certainty. The extent was taken to cover these two points. Makumunu is a valley in the assumbo hills north of the town of Mamfe.� Extent is propably overly cautious. Personally i think the locality is just within those hills.�At the time Mamfe was an entire region not just the town. So in the description it is likely to be used in this regional sense. ",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.5125833,6.27325 ]
+    },
+    "properties": {
+    "Registration_number":"1946.9.5.76",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Indotyphlidae",
+    "Genus":"Idiocranium",
+    "Species":"russeli",
+    "Country":"Cameroon",
+    "Locality":"Tinta, with holotype.",
+    "Extent":62,
+    "Notes":"Using google maps the only location, which can be found is the tiny town of Mamfe. This provides a very low certainty. However, the location notes state the specimens were found near the village of Tinta in the Assumbo hills. Recent expeditions ot this area by Gower et al. (https://www.rgs.org/NR/rdonlyres/59C2258D-0E54-4DFA-9AE9-5727C59ACD41/0/Artice_Goweretal2014RediscoveryofIdiocraniumrusselli.pdf) provide co-ordinates for area of tinta. The centroid was taken from the co-ordinates provided from Gower et al. as Tinta 1 (), then the extent was taken to cover the town of Mamfe to provide a higher degree of certainty. The extent was taken to cover these two points. Makumunu is a valley in the assumbo hills north of the town of Mamfe.� Extent is propably overly cautious. Personally i think the locality is just within those hills.�At the time Mamfe was an entire region not just the town. So in the description it is likely to be used in this regional sense. ",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.5125833,6.27325 ]
+    },
+    "properties": {
+    "Registration_number":"1946.9.5.77",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Indotyphlidae",
+    "Genus":"Idiocranium",
+    "Species":"russeli",
+    "Country":"Cameroon",
+    "Locality":"Tinta, with holotype.",
+    "Extent":62,
+    "Notes":"Using google maps the only location, which can be found is the tiny town of Mamfe. This provides a very low certainty. However, the location notes state the specimens were found near the village of Tinta in the Assumbo hills. Recent expeditions ot this area by Gower et al. (https://www.rgs.org/NR/rdonlyres/59C2258D-0E54-4DFA-9AE9-5727C59ACD41/0/Artice_Goweretal2014RediscoveryofIdiocraniumrusselli.pdf) provide co-ordinates for area of tinta. The centroid was taken from the co-ordinates provided from Gower et al. as Tinta 1 (), then the extent was taken to cover the town of Mamfe to provide a higher degree of certainty. The extent was taken to cover these two points. Makumunu is a valley in the assumbo hills north of the town of Mamfe.� Extent is propably overly cautious. Personally i think the locality is just within those hills.�At the time Mamfe was an entire region not just the town. So in the description it is likely to be used in this regional sense. ",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.5125833,6.27325 ]
+    },
+    "properties": {
+    "Registration_number":"1946.9.5.78",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Indotyphlidae",
+    "Genus":"Idiocranium",
+    "Species":"russeli",
+    "Country":"Cameroon",
+    "Locality":"Tinta, with holotype.",
+    "Extent":62,
+    "Notes":"Using google maps the only location, which can be found is the tiny town of Mamfe. This provides a very low certainty. However, the location notes state the specimens were found near the village of Tinta in the Assumbo hills. Recent expeditions ot this area by Gower et al. (https://www.rgs.org/NR/rdonlyres/59C2258D-0E54-4DFA-9AE9-5727C59ACD41/0/Artice_Goweretal2014RediscoveryofIdiocraniumrusselli.pdf) provide co-ordinates for area of tinta. The centroid was taken from the co-ordinates provided from Gower et al. as Tinta 1 (), then the extent was taken to cover the town of Mamfe to provide a higher degree of certainty. The extent was taken to cover these two points. Makumunu is a valley in the assumbo hills north of the town of Mamfe.� Extent is propably overly cautious. Personally i think the locality is just within those hills.�At the time Mamfe was an entire region not just the town. So in the description it is likely to be used in this regional sense. ",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.5125833,6.27325 ]
+    },
+    "properties": {
+    "Registration_number":"1946.9.5.79",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Indotyphlidae",
+    "Genus":"Idiocranium",
+    "Species":"russeli",
+    "Country":"Cameroon",
+    "Locality":"Tinta, with holotype.",
+    "Extent":62,
+    "Notes":"Using google maps the only location, which can be found is the tiny town of Mamfe. This provides a very low certainty. However, the location notes state the specimens were found near the village of Tinta in the Assumbo hills. Recent expeditions ot this area by Gower et al. (https://www.rgs.org/NR/rdonlyres/59C2258D-0E54-4DFA-9AE9-5727C59ACD41/0/Artice_Goweretal2014RediscoveryofIdiocraniumrusselli.pdf) provide co-ordinates for area of tinta. The centroid was taken from the co-ordinates provided from Gower et al. as Tinta 1 (), then the extent was taken to cover the town of Mamfe to provide a higher degree of certainty. The extent was taken to cover these two points. Makumunu is a valley in the assumbo hills north of the town of Mamfe.� Extent is propably overly cautious. Personally i think the locality is just within those hills.�At the time Mamfe was an entire region not just the town. So in the description it is likely to be used in this regional sense. ",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.5125833,6.27325 ]
+    },
+    "properties": {
+    "Registration_number":"1946.9.5.80",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Indotyphlidae",
+    "Genus":"Idiocranium",
+    "Species":"russeli",
+    "Country":"Cameroon",
+    "Locality":"Tinta, with holotype.",
+    "Extent":62,
+    "Notes":"Using google maps the only location, which can be found is the tiny town of Mamfe. This provides a very low certainty. However, the location notes state the specimens were found near the village of Tinta in the Assumbo hills. Recent expeditions ot this area by Gower et al. (https://www.rgs.org/NR/rdonlyres/59C2258D-0E54-4DFA-9AE9-5727C59ACD41/0/Artice_Goweretal2014RediscoveryofIdiocraniumrusselli.pdf) provide co-ordinates for area of tinta. The centroid was taken from the co-ordinates provided from Gower et al. as Tinta 1 (), then the extent was taken to cover the town of Mamfe to provide a higher degree of certainty. The extent was taken to cover these two points. Makumunu is a valley in the assumbo hills north of the town of Mamfe.� Extent is propably overly cautious. Personally i think the locality is just within those hills.�At the time Mamfe was an entire region not just the town. So in the description it is likely to be used in this regional sense. ",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.5125833,6.27325 ]
+    },
+    "properties": {
+    "Registration_number":"1946.9.5.81",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Indotyphlidae",
+    "Genus":"Idiocranium",
+    "Species":"russeli",
+    "Country":"Cameroon",
+    "Locality":"Tinta, with holotype.",
+    "Extent":62,
+    "Notes":"Using google maps the only location, which can be found is the tiny town of Mamfe. This provides a very low certainty. However, the location notes state the specimens were found near the village of Tinta in the Assumbo hills. Recent expeditions ot this area by Gower et al. (https://www.rgs.org/NR/rdonlyres/59C2258D-0E54-4DFA-9AE9-5727C59ACD41/0/Artice_Goweretal2014RediscoveryofIdiocraniumrusselli.pdf) provide co-ordinates for area of tinta. The centroid was taken from the co-ordinates provided from Gower et al. as Tinta 1 (), then the extent was taken to cover the town of Mamfe to provide a higher degree of certainty. The extent was taken to cover these two points. Makumunu is a valley in the assumbo hills north of the town of Mamfe.� Extent is propably overly cautious. Personally i think the locality is just within those hills.�At the time Mamfe was an entire region not just the town. So in the description it is likely to be used in this regional sense. ",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.5125833,6.27325 ]
+    },
+    "properties": {
+    "Registration_number":"1946.9.5.82",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Indotyphlidae",
+    "Genus":"Idiocranium",
+    "Species":"russeli",
+    "Country":"Cameroon",
+    "Locality":"Tinta, with holotype.",
+    "Extent":62,
+    "Notes":"Using google maps the only location, which can be found is the tiny town of Mamfe. This provides a very low certainty. However, the location notes state the specimens were found near the village of Tinta in the Assumbo hills. Recent expeditions ot this area by Gower et al. (https://www.rgs.org/NR/rdonlyres/59C2258D-0E54-4DFA-9AE9-5727C59ACD41/0/Artice_Goweretal2014RediscoveryofIdiocraniumrusselli.pdf) provide co-ordinates for area of tinta. The centroid was taken from the co-ordinates provided from Gower et al. as Tinta 1 (), then the extent was taken to cover the town of Mamfe to provide a higher degree of certainty. The extent was taken to cover these two points. Makumunu is a valley in the assumbo hills north of the town of Mamfe.� Extent is propably overly cautious. Personally i think the locality is just within those hills.�At the time Mamfe was an entire region not just the town. So in the description it is likely to be used in this regional sense. ",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.5125833,6.27325 ]
+    },
+    "properties": {
+    "Registration_number":"1946.9.5.83",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Indotyphlidae",
+    "Genus":"Idiocranium",
+    "Species":"russeli",
+    "Country":"Cameroon",
+    "Locality":"Tinta, with holotype.",
+    "Extent":62,
+    "Notes":"Using google maps the only location, which can be found is the tiny town of Mamfe. This provides a very low certainty. However, the location notes state the specimens were found near the village of Tinta in the Assumbo hills. Recent expeditions ot this area by Gower et al. (https://www.rgs.org/NR/rdonlyres/59C2258D-0E54-4DFA-9AE9-5727C59ACD41/0/Artice_Goweretal2014RediscoveryofIdiocraniumrusselli.pdf) provide co-ordinates for area of tinta. The centroid was taken from the co-ordinates provided from Gower et al. as Tinta 1 (), then the extent was taken to cover the town of Mamfe to provide a higher degree of certainty. The extent was taken to cover these two points. Makumunu is a valley in the assumbo hills north of the town of Mamfe.� Extent is propably overly cautious. Personally i think the locality is just within those hills.�At the time Mamfe was an entire region not just the town. So in the description it is likely to be used in this regional sense. ",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.5125833,6.27325 ]
+    },
+    "properties": {
+    "Registration_number":"1946.9.5.84",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Indotyphlidae",
+    "Genus":"Idiocranium",
+    "Species":"russeli",
+    "Country":"Cameroon",
+    "Locality":"Tinta, with holotype.",
+    "Extent":62,
+    "Notes":"Using google maps the only location, which can be found is the tiny town of Mamfe. This provides a very low certainty. However, the location notes state the specimens were found near the village of Tinta in the Assumbo hills. Recent expeditions ot this area by Gower et al. (https://www.rgs.org/NR/rdonlyres/59C2258D-0E54-4DFA-9AE9-5727C59ACD41/0/Artice_Goweretal2014RediscoveryofIdiocraniumrusselli.pdf) provide co-ordinates for area of tinta. The centroid was taken from the co-ordinates provided from Gower et al. as Tinta 1 (), then the extent was taken to cover the town of Mamfe to provide a higher degree of certainty. The extent was taken to cover these two points. Makumunu is a valley in the assumbo hills north of the town of Mamfe.� Extent is propably overly cautious. Personally i think the locality is just within those hills.�At the time Mamfe was an entire region not just the town. So in the description it is likely to be used in this regional sense. ",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.5125833,6.27325 ]
+    },
+    "properties": {
+    "Registration_number":"1946.9.5.85",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Indotyphlidae",
+    "Genus":"Idiocranium",
+    "Species":"russeli",
+    "Country":"Cameroon",
+    "Locality":"Tinta, with holotype.",
+    "Extent":62,
+    "Notes":"Using google maps the only location, which can be found is the tiny town of Mamfe. This provides a very low certainty. However, the location notes state the specimens were found near the village of Tinta in the Assumbo hills. Recent expeditions ot this area by Gower et al. (https://www.rgs.org/NR/rdonlyres/59C2258D-0E54-4DFA-9AE9-5727C59ACD41/0/Artice_Goweretal2014RediscoveryofIdiocraniumrusselli.pdf) provide co-ordinates for area of tinta. The centroid was taken from the co-ordinates provided from Gower et al. as Tinta 1 (), then the extent was taken to cover the town of Mamfe to provide a higher degree of certainty. The extent was taken to cover these two points. Makumunu is a valley in the assumbo hills north of the town of Mamfe.� Extent is propably overly cautious. Personally i think the locality is just within those hills.�At the time Mamfe was an entire region not just the town. So in the description it is likely to be used in this regional sense. ",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.5125833,6.27325 ]
+    },
+    "properties": {
+    "Registration_number":"1946.9.5.86",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Indotyphlidae",
+    "Genus":"Idiocranium",
+    "Species":"russeli",
+    "Country":"Cameroon",
+    "Locality":"Tinta, with holotype.",
+    "Extent":62,
+    "Notes":"Using google maps the only location, which can be found is the tiny town of Mamfe. This provides a very low certainty. However, the location notes state the specimens were found near the village of Tinta in the Assumbo hills. Recent expeditions ot this area by Gower et al. (https://www.rgs.org/NR/rdonlyres/59C2258D-0E54-4DFA-9AE9-5727C59ACD41/0/Artice_Goweretal2014RediscoveryofIdiocraniumrusselli.pdf) provide co-ordinates for area of tinta. The centroid was taken from the co-ordinates provided from Gower et al. as Tinta 1 (), then the extent was taken to cover the town of Mamfe to provide a higher degree of certainty. The extent was taken to cover these two points. Makumunu is a valley in the assumbo hills north of the town of Mamfe.� Extent is propably overly cautious. Personally i think the locality is just within those hills.�At the time Mamfe was an entire region not just the town. So in the description it is likely to be used in this regional sense. ",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.666745,-7.166859 ]
+    },
+    "properties": {
+    "Registration_number":"1946.9.5.57",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Scolecomorphidae",
+    "Genus":"Scolecomorphus",
+    "Species":"ulugurensis",
+    "Country":"Tanzania",
+    "Locality":"Uluguru Mountains, Tanzania",
+    "Extent":47.52,
+    "Notes":"Centroid taken from a small mountain range, extent taken to cover that elevated area.",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -60.021711,-3.119027 ]
+    },
+    "properties": {
+    "Registration_number":"1861.9.2.6",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Typhlonectidae",
+    "Genus":"Nectocaecilia",
+    "Species":"petersii",
+    "Country":"Unknown",
+    "Locality":"Upper Amazon",
+    "Extent":1500,
+    "Notes":"Centroid taken from the town of Manaus. The locality is very vague description of Upper Amazon, which could refer to the river or the Jungle. The extent is taken to include both these possibilities.",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.454058,-4.832582 ]
+    },
+    "properties": {
+    "Registration_number":"1895.11.15.3",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Herpelidae",
+    "Genus":"Boulengerula",
+    "Species":"boulengeri",
+    "Country":"Tanzania",
+    "Locality":"Usambara, Tanga Division, East Africa",
+    "Extent":48,
+    "Notes":"Centroid taken from the Usambara mountains in Tanzania.",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.454058,-4.832582 ]
+    },
+    "properties": {
+    "Registration_number":"1946.9.5.59",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Scolecomorphidae",
+    "Genus":"Scolecomorphus",
+    "Species":"vittatus",
+    "Country":"Tanzania",
+    "Locality":"Usambara, Tanzania",
+    "Extent":48,
+    "Notes":"Centroid taken from the Usambara mountains in Tanzania.",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.470362,5.011705 ]
+    },
+    "properties": {
+    "Registration_number":"1902.5.15.26",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Caeciliidae",
+    "Genus":"Caecilia",
+    "Species":"thompsoni",
+    "Country":"Colombia",
+    "Locality":"Villeta, Colombia, 3,500ft",
+    "Extent":5.24,
+    "Notes":"Centroid taken from the town of Villeta.�The extent is taken to the surrounding areas at 1000m, in the surrounding valley. ",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.666745,-7.166859 ]
+    },
+    "properties": {
+    "Registration_number":"1927.8.17.12",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Herpelidae",
+    "Genus":"Boulengerula",
+    "Species":"uluguruensis",
+    "Country":"Tanzania",
+    "Locality":"Vituri, Uluguru Mountains",
+    "Extent":47.52,
+    "Notes":"Vituri could not be found as the locality - could try to use this document for a more accurate extent - http://www.worldcat.org/title/comparative-study-of-the-herpetological-faunae-of-the-uluguru-and-usambara-mountains-tanganyika-territory-with-descriptions-of-new-species/oclc/1881790. Otherwise used centroid from the uluguru mountains. ",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.497565,20.773726 ]
+    },
+    "properties": {
+    "Registration_number":"1888.6.11.1",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Ichthyophiidae",
+    "Genus":"Ichthyophis",
+    "Species":"bombayensis",
+    "Country":"India",
+    "Locality":"Waghei Surat, Bombay Province",
+    "Extent":1.43,
+    "Notes":"Waghei is a tiny town in the Dang District of the current�Gujarat state in India. The certianty is low due to the small extent provided by this centroid. It is likely the specimen was collected near, but probably not in this town. ",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.900811,1.296052 ]
+    },
+    "properties": {
+    "Registration_number":"1867.10.3.14",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Dermophiidae",
+    "Genus":"Geotrypetes",
+    "Species":"seraphini",
+    "Country":"Unknown",
+    "Locality":"West Africa",
+    "Extent":2500,
+    "Notes":"Centroid taken from in the middle of the Gulf of�Guniea, and the extent is taken to include all the west africa that is known as the current distribution of Caecillians in this region of the world. Includes some area of sea, which is not the locality, but centroid is placed there to ensure extent is reasonable in its coverage. ",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.832448,-1.253359 ]
+    },
+    "properties": {
+    "Registration_number":"1860.6.16.85",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Caeciliidae",
+    "Genus":"Caecilia",
+    "Species":"guntheri",
+    "Country":"Ecuador",
+    "Locality":"West Ecuador ",
+    "Extent":319.11,
+    "Notes":"Centroid taken from a measurement equidistant between�the country centroid to the western coast.�\"Western Ecuador\" is taken as the area of land west of the Andes mountain range, which travels down the spine of the country.�Very large extent but will cover the vague locality provided. ",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.832448,-1.253359 ]
+    },
+    "properties": {
+    "Registration_number":"1946.9.6.83",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Caeciliidae",
+    "Genus":"Caecilia",
+    "Species":"pachynema",
+    "Country":"Ecuador",
+    "Locality":"West Ecuador ",
+    "Extent":319.11,
+    "Notes":"Centroid taken from a measurement equidistant between�the country centroid to the western coast.�\"Western Ecuador\" is taken as the area of land west of the Andes mountain range, which travels down the spine of the country.�Very large extent but will cover the vague locality provided. ",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.832448,-1.253359 ]
+    },
+    "properties": {
+    "Registration_number":"1946.9.5.6",
+    "Field_number":"None",
+    "Class":"Amphibia",
+    "Order":"Gymnophiona",
+    "Family":"Caeciliidae",
+    "Genus":"Oscaecilia",
+    "Species":"bassleri",
+    "Country":"Ecuador",
+    "Locality":"West Ecuador ",
+    "Extent":318,
+    "Notes":"Centroid taken as a best guess equidistant between the country centroid and the Ecuadorian west coast. Extent taken to the northern edge and calculated using that distance ",
+    "Collector_donor":"N/A",
+    "Comments":"N/A",
+    "Type_status":"Type",
+    "Genetic_resources":"Archival"
     }
   }
 ]
