@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <!-- This script is needed in order to access the $.getJSON method; make sure you put it first before your inline script! -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+    <script type="text/javascript">
+        //This isn't needed but when using jQuery for DOM manipulation (i.e. rendering stuff on the screen) it is advised to use the document ready function, see here:
+        //https://learn.jquery.com/using-jquery-core/document-ready/
+        $(document).ready(function () {
+            var nhmHerps = "https://nhm-herpetology.github.io/test.json";
+
+            var specimen = [];
+            //The first argument here was a string literal instead of a reference to the variable you previously defined above. See below for comparison:
+            //$.getJSON('nhmHerps', function (data) {
+            $.getJSON(nhmHerps, function (data) {
+                $.each(data.specimen, function (i, f) {
+                    var tblRow = "<tr>" + "<td>" + f.Registration_number + "</td>" + "<td>" + f.Field_number +
+                        "</td>" + "<td>" + f.Class + "</td>" + "<td>" + f.Order + "</td>" + "<td>" + f.Family + "</td>" + "<td>" + f.Genus +
+              			"</td>" + "<td>" + f.Species + "</td>" + "<td>" + f.Country + "</td>" + "<td>" + f.Locality + "</td>" + "<td>" + f.Latitude + "</td>" +
+                        "<td>" + f.Longitude + "</td>" + "<td>" + f.Extent + "</td>" + "<td>" + f.Notes + "</td>" + "<td>" +
+                        f.Collector_donor + "</td>" + "<td>" + f.Comments + "</td>" + "<td>" + f.Type_status + "</td>" +
+                        "<td>" + f.Genetic_resources + "</td>" + "</tr>"
+                    $(tblRow).appendTo("#specimendata tbody");
+                });
+            });
+        });
+    </script>
+</head>
+
+<body>
+
+    <div class="wrapper">
+        <div class="profile">
+            <table id="specimendata" border="3">
+                <thead>
+                    <th>Registration Number</th>
+                    <th>Field Number</th>
+                    <th>Class</th>
+                    <th>Order</th>
+                    <th>Family</th>
+                    <th>Genus</th>
+                    <th>Species</th>
+                    <th>Country</th>
+                    <th>Locality</th>
+                    <th>Latitude</th>
+                    <th>Longitude</th>
+                    <th>Extent</th>
+                    <th>Notes</th>
+                    <th>Collector or Donor</th>
+                    <th>Comments</th>
+                    <th>Type Status</th>
+                    <th>Genetic Resources</th>
+                </thead>
+                <tbody>
+
+                </tbody>
+            </table>
+
+        </div>
+    </div>
+</body>
+
+</html>
