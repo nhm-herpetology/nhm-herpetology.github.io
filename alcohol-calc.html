@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<h1>Amphibian and Reptile Collection | Natural History Museum, London</h1>
+<h2>This is a calculator for determining the amount of water to add to alcohol</h2>
+<h3>It can be used for diluting any of the following:</h3>
+<h4> <br>80% IMS to 70% IMS (Amphibian Collection)<br>
+<br>100% Ethanol to 70% Ethanol (Amphibian Collection)<br> 
+<br>100% Ethanol to 80% Ethanol (Reptile Collection)<br></h4>
+  <head>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+    <script>
+
+      function calculate(){
+        var A = document.getElementById("a").value;
+        var B = document.getElementById("b").value;
+        var C = document.getElementById("c").value;
+
+        var ans = ((A * B)/(C)) - B;
+        alert(ans);
+      }
+</script>
+  </head>
+
+  <body>
+    <br><input type='number' id='a'/>
+    % Alcohol (Starting Concentration)<br>
+    <br><input type='number' id='b'/>
+    mL (Volume of Stock)<br>
+    <br><input type='number' id='c'/>
+    % Alcohol (Dilution Concentration)<br>
+    <br><button onClick='calculate()'>calculate</button><br>
+  </body>
+
+</html>
